@@ -194,3 +194,32 @@ Click on the **Answer** button for the correct answer and its explanation.
       Explanation: AWS Data Exchange allows organizations to find, subscribe to, and use third-party data in the cloud. It provides an extensive data set catalog, making it easy to discover and subscribe to over 3,500 third-party data sets. This service simplifies the process of integrating third-party data into your AWS environment, enabling you to enrich your existing datasets with new insights without the need to build bespoke data pipelines for every synchronous use case. AWS Data Exchange supports efficient data retrieval, streamlined data procurement, and simplifies governance and compliance when setting up access permissions by using AWS-native authentication  
     </details>
 
+
+
+14. A startup is developing a web application where users can find articles basef on various criteria such as keywords , authors, or topics, They seek an AWS service that can handle this function efficiently. Which service should they use?
+    - A. Amazon OpenSearch Service.
+    - B. Amazon SQS.
+    - C. AWS Lambda.
+    - D. Amazon EC2.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A
+
+      Explanation: Amazon OpenSearch Service (formerly known as Amazon Elasticsearch Service) is a fully managed service that makes it easy to deploy, secure, and run OpenSearch (formerly Elasticsearch) cost-effectively at scale. It is designed to help you secure, deploy, and run OpenSearch cost-effectively at scale. OpenSearch is a popular open-source search and analytics suite that can be used to build applications that offer search functionality, including full-text search, structured search, analytics, and more. It supports a wide range of search features such as highlighting, autocomplete, and geospatial search, making it suitable for applications like the one described . 
+      
+      Amazon OpenSearch Service is fully managed, meaning AWS handles the infrastructure, allowing you to focus on application development. It automatically scales your cluster's compute and storage resources based on the volume of data and search traffic, and it provides built-in security features to help protect your data  
+    </details>
+
+15. Which AWS service provides a cloud based integrated development environment(IDE) that lets you erite, run, and debug your code with just a browser, without needig to install any software or configuration server?
+    - A. AWS CodeStar.
+    - B. Amazon WorkSpaces.
+    - C. AWS CodeBuild.
+    - D. AWS Cloud9.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation: AWS Cloud9 is a fully managed cloud IDE that provides a rich code-editing experience with support for several programming languages and runtime debuggers, along with a built-in terminal. It allows developers to write, run, and debug applications directly in their browser, without the need for installing or maintaining a local IDE. This service is particularly useful for developers working on AWS, as it comes prepackaged with essential tools for popular programming languages and provides a seamless experience for developing serverless applications. 
+      
+      AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration 
+    </details>
