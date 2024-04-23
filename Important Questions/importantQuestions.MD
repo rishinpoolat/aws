@@ -329,5 +329,40 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: D
 
-      Explanation:  The Business support plan provides a service level agreement (SLA) of < 1 hour for production system down support cases. The dedicated TAM only comes with the Enterprise support plan.The concierge support team only comes with the Enterprise support plan.The business-critical system down support only comes with the Enterprise support plan
+      Explanation:  The Business support plan provides a service level agreement (SLA) of < 1 hour for production system down support cases. 
+      The dedicated TAM only comes with the Enterprise support plan.
+      The concierge support team only comes with the Enterprise support plan.
+      The business-critical system down support only comes with the Enterprise support plan.
+    </details>
+
+24. A company needs to publish messages to a thousands of subscribers simultaneously using a push mechanism. Which AWS service should the company use?
+    - A. AWS Step Functions.
+    - B. Amazon Simple Workflow Service (SWF).
+    - C. Amazon Simple Notification Service (Amazon SNS).
+    - D. Amazon Simple Queue Service (Amazon SQS).
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:  Amazon SNS is a publisher/subscriber notification service that uses a push mechanism to publish messages to multiple subscribers. Amazon SNS enables you to send messages or notifications directly to users with SMS text messages to over 200 countries, mobile push on Apple, Android, and other platforms or email (SMTP).
+      SQS is a message queue service used for decoupling applications.
+      SWF is a workflow orchestration service, not a messaging service.
+      AWS Step Functions is a serverless workflow orchestration service for modern applications.
+    </details>
+
+25. AWS are able to continue to reduce their pricing due to:?
+    - A. Pay-as-you-go pricing.
+    - B. AWS global infrastructure.
+    - C. Economies of Scale.
+    - D. Reserved instance pricing.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:  By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay as-you-go prices.
+      The global infrastructure is the basis of the AWS platform but it is not the reason prices continue to reduce.
+      This pricing model is a benefit but not the reason unit prices are reducing.
+      "Reserved instance pricing" is incorrect. This pricing model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
     </details>
