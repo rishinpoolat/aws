@@ -197,7 +197,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 
 
-14. A startup is developing a web application where users can find articles basef on various criteria such as keywords , authors, or topics, They seek an AWS service that can handle this function efficiently. Which service should they use?
+14. A startup is developing a web application where users can find articles based on various criteria such as keywords , authors, or topics, They seek an AWS service that can handle this function efficiently. Which service should they use?
     - A. Amazon OpenSearch Service.
     - B. Amazon SQS.
     - C. AWS Lambda.
@@ -331,8 +331,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: D
 
       Explanation:  The Business support plan provides a service level agreement (SLA) of < 1 hour for production system down support cases. 
+
       The dedicated TAM only comes with the Enterprise support plan.
+
       The concierge support team only comes with the Enterprise support plan.
+
       The business-critical system down support only comes with the Enterprise support plan.
     </details>
 
@@ -347,8 +350,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: C
 
       Explanation:  Amazon SNS is a publisher/subscriber notification service that uses a push mechanism to publish messages to multiple subscribers. Amazon SNS enables you to send messages or notifications directly to users with SMS text messages to over 200 countries, mobile push on Apple, Android, and other platforms or email (SMTP).
+
       SQS is a message queue service used for decoupling applications.
+
       SWF is a workflow orchestration service, not a messaging service.
+
       AWS Step Functions is a serverless workflow orchestration service for modern applications.
     </details>
 
@@ -363,8 +369,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: C
 
       Explanation:  By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay as-you-go prices.
+
       The global infrastructure is the basis of the AWS platform but it is not the reason prices continue to reduce.
-      This pricing model is a benefit but not the reason unit prices are reducing.
+
+      pay-as-you-go pricing model is a benefit but not the reason unit prices are reducing.
+
       "Reserved instance pricing" is incorrect. This pricing model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
     </details>
 
@@ -391,9 +400,14 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
 
-      Explanation: Amazon CloudFront is a content delivery network (CDN) and can use an Amazon S3 bucket configured as a static website as an origin for the content is caches globally. CloudFront reduces latency for global users by serving the requested content from a local cache.
-      AWS Lambda" is incorrect. Lambda is a serverless compute service that runs code in response to triggers.
+      Explanation: Amazon CloudFront is a content delivery network (CDN) and can use an Amazon S3 bucket configured as a static website as an origin for the content is caches globally.
+      
+      CloudFront reduces latency for global users by serving the requested content from a local cache.
+
+      Lambda is a serverless compute service that runs code in response to triggers.
+
       Elastic Beanstalk is a platform as a service offering that is used to run applications on a managed platform.
+
       Global Accelerator is used to direct traffic to application endpoints in different Regions using the AWS global network. It does not cache content and would not be used in front of an S3 bucket.
     </details>
 
@@ -409,7 +423,8 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: B,E
 
       Explanation: Dependencies such as queuing systems, streaming systems, workflows, and load balancers are loosely coupled. Loose coupling helps isolate behavior of a component from other components that depend on it, increasing resiliency and agility.
-      AWS recommend that you architect applications that scale horizontally to increase aggregate workload availability. This scaling should be automatic where possible.
+
+      AWS recommend that you architect applications that scale horizontally to increase aggregate workload availability. scaling should be automatic where possible.
 
     </details>
 
@@ -425,8 +440,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: A
 
       Explanation: AWS Shield Advanced provides enhanced detection and includes a specialized support team for customers on Enterprise or Business support plans. The AWS DDoS Response Team (DRT) are available 24/7 and can be engaged before, during, or after a DDoS attack.
+
       AWS WAF is used for protecting web applications and APIs against malicious attacks. This is not a DDoS prevention service.
+
       "Amazon GuardDuty" is incorrect. This service is used for continuously monitoring AWS resources for threats. It is not a DDoS prevention service, it uses machine learning and anomaly detection to identify security vulnerabilities in resources.
+
       "AWS Firewall Manager" is incorrect. This service is used to simplify management of AWS WAF, AWS Shield Advanced, and Amazon VPC security groups.
  
     </details>
@@ -443,6 +461,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: A
 
       Explanation: A tag is a label that you or AWS assigns to an AWS resource. Each tag consists of a key and a value. For each resource, each tag key must be unique, and each tag key can have only one value.
+    
       You can use tags to organize your resources, and cost allocation tags to track your AWS costs on a detailed level. After you activate cost allocation tags, AWS uses the cost allocation tags to organize your resource costs on your cost allocation report, to make it easier for you to categorize and track your AWS costs.
       Consolidated billing can separate bills by account but for department based cost separation cost allocation tags should be used.
     </details>
@@ -475,10 +494,15 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: D
 
       Explanation: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
+
       QuickSight lets you easily create and publish interactive BI dashboards that include Machine Learning-powered insights. 
+
       QuickSight dashboards can be accessed from any device, and seamlessly embedded into your applications, portals, and websites.
+
       RedShift is a data warehouse solution not a dashboard. You can use QuickSight with RedShift.
+
       "Amazon Kinesis" is incorrect. This is a service for collecting streaming data.
+
       Athena is used for running SQL queries on data in Amazon S3.
 
       
@@ -495,8 +519,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: D
 
       Explanation: AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements.
+
       Reports available in AWS Artifact include Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.
+
       Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
+
       AWS Secrets Manager is used for storing secrets such as database authentication.
       
     </details>
@@ -512,8 +539,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: B
 
       Explanation: Elasticity is the ability to dynamically adjust the capacity of a service or resource based on demand. Scaling can be vertical (e.g. increase instance size) or horizontal (e.g. add more EC2 instances).
+
       "Economy of scale" is incorrect. This refers to pricing benefits based on AWS purchasing large amounts of resources.
+
       "High availability" is incorrect. This is an example of resilience.
+
       "Agility" is incorrect. This is an example of flexibility and speed of implementation.
       
     </details>
@@ -543,8 +573,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: B
 
       Explanation: AWS Organizations offers Service control policies (SCPs) which are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions (API actions) for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines. SCPs are available only in an organization that has all features enabled.
+
       Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.
+
       AWS Shield a service that protects workloads against distributed denial of service (DDoS) attacks.
+
       AWS IAM is used for assigning permissions but SCPs in AWS Organizations are used to control which API actions are allowed in an account. You need to be granted permission in IAM and have the API allowed to be able to use the API successfully.
       
     </details>
@@ -560,8 +593,11 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: B
 
       Explanation: AWS Snowball is a method of transferring the data using a physical device. A Snowball Edge device can hold up to 80 TB so a single device can be used. This transfer method completely avoids the slow and unreliable internet connection.
+
       Glacier is used for archiving data in the cloud.
+
       Storage Gateway is a service that offers options for connecting on-premises storage to the cloud.
+
       DataSync uses the internet to transfer data You can utilize Snowcone but that only holds up to 8 TB per device.
       
     </details>
@@ -591,9 +627,13 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct Answer: B, D
 
       Explanation: AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
+
       AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers. OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.
+
       Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds.
+
       AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
+      
       Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization.
 
     </details>
