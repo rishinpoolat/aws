@@ -265,6 +265,18 @@ Click on the **Answer** button for the correct answer and its explanation.
       Explanation:  Amazon MemoryDB for Redis is a Redis-compatible, durable, in-memory database that delivers ultra-fast performance and Multi-AZ durability. It is designed to provide microsecond read latency and single-digit millisecond write latency, making it suitable for applications that require high throughput and low latency. MemoryDB stores your entire database in-memory and uses a durable, Multi-AZ transactional log, so you can use it as an ultra-fast, primary database. It is used for various purposes including user content data stores, session management, geospatial indexing, chat and message queues, real-time streaming, fraud detection, streaming IoT device data, and more.
     </details>
 
+19. In the AWS Cloud Adoption Framework , which perspective focuses on identifying capability gaps and helping your organisation align its readliness for cloud adoption?
+    - A. Envision.
+    - B. Align.
+    - C. Launch.
+    - D. Scale.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:  The Align phase is crucial for identifying capability gaps across the six AWS CAF perspectives (Business, People, Governance, Platform, Security, and Operations), identifying cross-organizational dependencies, and surfacing stakeholder concerns and challenges. This phase is designed to create strategies for improving cloud readiness, ensure stakeholder alignment, and facilitate relevant organizational change management activities.
+    </details>
 19.  In the AWS Cloud Adoption Framework , which perspective focuses on identifying capability gaps and helping your organisation align its readliness for cloud adoption?
     - A. Envision
     - B. Align.
