@@ -169,24 +169,19 @@ Click on the **Answer** button for the correct answer and its explanation.
       D. AWS Network Firewall: AWS Network Firewall is a managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs). It can filter traffic at the perimeter of your VPC, including filtering traffic going to and coming from an internet gateway, NAT gateway, over VPN, or AWS Direct Connect. Network Firewall is supported by AWS Firewall Manager, allowing for centralized management of firewall rules across VPCs and accounts
     </details>
  
+12. A finacial service firm wants to build a real time analytic platform where data can be streamed and analyzed on the fly. They are looking to use Apache, Kafka for this, but they want to avoid the overhead of managing the Kafka infrastuctue. Which AWS Service would be the best fit for this requirement?
+    - A. Amazon SQS.
+    - B. Amazon Kinesis.
+    - C. Amazon MSK.
+    - D. Amazon Redshift.
 
-
-11.  A company is looking to centrally configure and manage firewall rules accross their AWS environment. Which AWS services can assist in applying firewall rules consistently across AWS VPCs and accounts? (Select Two)
-    - A. AWS Web Application Firewall(AWS WAF).
-    - B. AWS Firewall Manager.
-    - C. Amazon Inspector.
-    - D. AWS Network Firewall.
-    - E. AWS Shield
- 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: C
 
-      Explanation: B. AWS Firewall Manager: AWS Firewall Manager allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations. It supports AWS Network Firewall, enabling you to manage firewall rules for your Amazon Virtual Private Cloud (VPCs) across your organization. Firewall Manager provides different firewall management models, including Distributed and Centralized, to suit various organizational needs .
+      Explanation: Amazon MSK (Managed Streaming for Apache Kafka) is a fully managed service that simplifies the setup, scaling, and management of Apache Kafka clusters. It allows you to build and run applications that use Apache Kafka to process streaming data without the need for Apache Kafka infrastructure management expertise. This means you can focus on developing your applications rather than managing the underlying Kafka infrastructure.
       
-      D. AWS Network Firewall: AWS Network Firewall is a managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs). It can filter traffic at the perimeter of your VPC, including filtering traffic going to and coming from an internet gateway, NAT gateway, over VPN, or AWS Direct Connect. Network Firewall is supported by AWS Firewall Manager, allowing for centralized management of firewall rules across VPCs and accounts
+      Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed 
     </details>
-
- 
 
 12.   A finacial service firm wants to build a real time analytic platform where data can be streamed and analyzed on the fly. They are looking to use Apache, Kafka for this, but they want to avoid the overhead of managing the Kafka infrastuctue. Which AWS Service would be the best fit for this requirement.
     - A. Amazon SQS.
