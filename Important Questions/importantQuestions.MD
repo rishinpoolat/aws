@@ -149,7 +149,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. AWS Audit Manager.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: d
+      Correct answer: D
 
       Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance .
     </details>
