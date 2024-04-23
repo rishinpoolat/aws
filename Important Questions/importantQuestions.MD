@@ -351,7 +351,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       AWS Step Functions is a serverless workflow orchestration service for modern applications.
     </details>
 
-25. AWS are able to continue to reduce their pricing due to:?
+25. AWS are able to continue to reduce their pricing due to?
     - A. Pay-as-you-go pricing.
     - B. AWS global infrastructure.
     - C. Economies of Scale.
@@ -366,3 +366,83 @@ Click on the **Answer** button for the correct answer and its explanation.
       This pricing model is a benefit but not the reason unit prices are reducing.
       "Reserved instance pricing" is incorrect. This pricing model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
     </details>
+
+26. According to the shared responsibility model, which security-related task is the responsibility of the customer?
+    - A. Maintaining server-side encryption.
+    - B. Securing servers and racks at AWS data centers.
+    - C. Maintaining firewall configurations at a hardware level.
+    - D. Maintaining physical networking configuration.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A
+
+      Explanation: All client-side and server-side encryption is a responsibility of the customer using the AWS Cloud.
+    </details>
+
+27. A company has a website that delivers static content from an Amazon S3 bucket to users from around the world. Which AWS service will deliver the content with low latency?
+    - A. AWS Lambda.
+    - B. Amazon CloudFront.
+    - C. AWS Elastic Beanstalk.
+    - D. AWS Global Accelarator.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation: Amazon CloudFront is a content delivery network (CDN) and can use an Amazon S3 bucket configured as a static website as an origin for the content is caches globally. CloudFront reduces latency for global users by serving the requested content from a local cache.
+      AWS Lambda" is incorrect. Lambda is a serverless compute service that runs code in response to triggers.
+      Elastic Beanstalk is a platform as a service offering that is used to run applications on a managed platform.
+      Global Accelerator is used to direct traffic to application endpoints in different Regions using the AWS global network. It does not cache content and would not be used in front of an S3 bucket.
+    </details>
+
+28. A Cloud Practitioner is re-architecting a monolithic application. Which design principles for cloud architecture do AWS recommend? (Select TWO.)
+    - A. Implement manual scalability.
+    - B. Implement loose coupling.
+    - C. Use self-managed servers.
+    - D. Rely on individual components.
+    - E. Design for scalability
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B,E
+
+      Explanation: Dependencies such as queuing systems, streaming systems, workflows, and load balancers are loosely coupled. Loose coupling helps isolate behavior of a component from other components that depend on it, increasing resiliency and agility.
+      AWS recommend that you architect applications that scale horizontally to increase aggregate workload availability. This scaling should be automatic where possible.
+
+    </details>
+
+29. A company needs protection from distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. Which AWS managed service will meet these requirements?
+
+    - A. AWS Shield Advanced.
+    - B. AWS Firewall Manager.
+    - C. AWS Web Application Firewall.
+    - D. Amazon GuardDuty.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A
+
+      Explanation: AWS Shield Advanced provides enhanced detection and includes a specialized support team for customers on Enterprise or Business support plans. The AWS DDoS Response Team (DRT) are available 24/7 and can be engaged before, during, or after a DDoS attack.
+      AWS WAF is used for protecting web applications and APIs against malicious attacks. This is not a DDoS prevention service.
+      "Amazon GuardDuty" is incorrect. This service is used for continuously monitoring AWS resources for threats. It is not a DDoS prevention service, it uses machine learning and anomaly detection to identify security vulnerabilities in resources.
+      "AWS Firewall Manager" is incorrect. This service is used to simplify management of AWS WAF, AWS Shield Advanced, and Amazon VPC security groups.
+ 
+    </details>
+
+30. How can a company separate costs for storage, Amazon EC2, Amazon S3, and other AWS services by department?
+
+    - A. Add department-speciﬁc tags to each resource
+    - B. Create a separate VPC for each department.
+    - C. Create a separate AWS account for each department.
+    - D. Use AWS Organizations.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A
+
+      Explanation: A tag is a label that you or AWS assigns to an AWS resource. Each tag consists of a key and a value. For each resource, each tag key must be unique, and each tag key can have only one value.
+      You can use tags to organize your resources, and cost allocation tags to track your AWS costs on a detailed level. After you activate cost allocation tags, AWS uses the cost allocation tags to organize your resource costs on your cost allocation report, to make it easier for you to categorize and track your AWS costs.
+      Consolidated billing can separate bills by account but for department based cost separation cost allocation tags should be used.
+    </details>
+
