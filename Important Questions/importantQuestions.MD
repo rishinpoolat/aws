@@ -128,7 +128,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       For example, you can use SCPs to prevent users in member accounts from accessing certain API operations in the identity store, as shown in the provided example SCP that explicitly blocks access to the identity store and SSO directory actions. This level of control is crucial for maintaining security and compliance across your AWS environment
     </details>
 
-9.  An organisation is seeking a fully managed service to create and publish interactive dashboard that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement.
+9.  An organisation is seeking a fully managed service to create and publish interactive dashboard that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement?
     - A. AWS Redshift.
     - B. Amazon QuickSight.
     - C. AWS Glue.
