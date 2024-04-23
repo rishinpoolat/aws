@@ -182,3 +182,15 @@ Click on the **Answer** button for the correct answer and its explanation.
       Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed 
     </details>
 
+13. A Media company wants to find and subscribe to third party data sources to enrich their existing datasets with new insights. Which AWS service would be best fit for this requirement?
+    - A. AWS Glue.
+    - B. AWS Data Pipeline.
+    - C. AWS Data Exchange.
+    - D. AWS Redshift.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation: AWS Data Exchange allows organizations to find, subscribe to, and use third-party data in the cloud. It provides an extensive data set catalog, making it easy to discover and subscribe to over 3,500 third-party data sets. This service simplifies the process of integrating third-party data into your AWS environment, enabling you to enrich your existing datasets with new insights without the need to build bespoke data pipelines for every synchronous use case. AWS Data Exchange supports efficient data retrieval, streamlined data procurement, and simplifies governance and compliance when setting up access permissions by using AWS-native authentication  
+    </details>
+
