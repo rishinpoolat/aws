@@ -374,7 +374,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       pay-as-you-go pricing model is a benefit but not the reason unit prices are reducing.
 
-      "Reserved instance pricing" is incorrect. This pricing model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
+      "Reserved instance pricing"  model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
     </details>
 
 26. According to the shared responsibility model, which security-related task is the responsibility of the customer?
@@ -443,9 +443,9 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       AWS WAF is used for protecting web applications and APIs against malicious attacks. This is not a DDoS prevention service.
 
-      "Amazon GuardDuty" is incorrect. This service is used for continuously monitoring AWS resources for threats. It is not a DDoS prevention service, it uses machine learning and anomaly detection to identify security vulnerabilities in resources.
+      "Amazon GuardDuty" is service is used for continuously monitoring AWS resources for threats. It is not a DDoS prevention service, it uses machine learning and anomaly detection to identify security vulnerabilities in resources.
 
-      "AWS Firewall Manager" is incorrect. This service is used to simplify management of AWS WAF, AWS Shield Advanced, and Amazon VPC security groups.
+      "AWS Firewall Manager" is  service is used to simplify management of AWS WAF, AWS Shield Advanced, and Amazon VPC security groups.
  
     </details>
 
@@ -501,7 +501,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       RedShift is a data warehouse solution not a dashboard. You can use QuickSight with RedShift.
 
-      "Amazon Kinesis" is incorrect. This is a service for collecting streaming data.
+      "Amazon Kinesis" is  a service for collecting streaming data.
 
       Athena is used for running SQL queries on data in Amazon S3.
 
@@ -540,11 +540,11 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Elasticity is the ability to dynamically adjust the capacity of a service or resource based on demand. Scaling can be vertical (e.g. increase instance size) or horizontal (e.g. add more EC2 instances).
 
-      "Economy of scale" is incorrect. This refers to pricing benefits based on AWS purchasing large amounts of resources.
+      "Economy of scale"  refers to pricing benefits based on AWS purchasing large amounts of resources.
 
-      "High availability" is incorrect. This is an example of resilience.
+      "High availability" is  is an example of resilience.
 
-      "Agility" is incorrect. This is an example of flexibility and speed of implementation.
+      "Agility" is an example of flexibility and speed of implementation.
       
     </details>
 
@@ -633,7 +633,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds.
 
       AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
-      
+
       Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization.
 
     </details>
