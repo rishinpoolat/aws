@@ -141,6 +141,19 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
     </details>
+9.  An organisation is seeking a fully managed service to create and publish interactive dashboard that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement?
+    - A. AWS Redshift.
+    - B. Amazon QuickSight.
+    - C. AWS Glue.
+    - D. Amazon EMR.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct answer: B
+
+      Explanation: Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. It allows you to create and publish interactive dashboards that can be accessed from any device, including desktops, tablets, and smartphones. QuickSight dashboards can be embedded into applications using the Amazon QuickSight JavaScript SDK, enabling a seamless integration of data visualization into your applications.
+      
+      The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
+    </details>
 
 10.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
     - A. AWS Config.
