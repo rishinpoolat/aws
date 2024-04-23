@@ -14,12 +14,13 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+      
       Explanation: Using an auto scaling group allows you to automatically scale the number of EC2 instances based on traffic demand. This ensures that you have enough instances to handle high traffic periods while scaling down during low traffic periods, optimizing costs.
 
       Configuring an Elastic Load Balancer (ELB) distributes incoming traffic across multiple EC2 instances within the auto scaling group, ensuring high availability and fault tolerance. It also automatically routes traffic away from unhealthy instances, enhancing reliability.
 
       This approach dynamically adjusts resources based on demand, providing the necessary scalability and availability without manual intervention or over-provisioning of resources.
-      
+
       Options A, C, and D involve manual intervention or static configurations, which may not efficiently handle highly variable traffic or provide the required high availability without incurring unnecessary costs. 
 
     </details>
