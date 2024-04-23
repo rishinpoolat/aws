@@ -223,3 +223,44 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration 
     </details>
+
+16. Which AWS service faciliates building secure and scalable mobile and web applications, offering features such as real-time updates and offline functionalites?(Select Two)
+    - A. AWS Lambda.
+    - B. AWS AppSync.
+    - C. AWS Amplify.
+    - D. AWS CodeDeploy.
+    - E. Amazon API Gateway
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B, C
+
+      Explanation:  B. AWS AppSync: AWS AppSync is a serverless backend for mobile, web, and enterprise applications. It makes it easy to build data-driven applications by handling securely all the application data management tasks such as online and offline data access, data synchronization, and data manipulation across multiple data sources. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement. 
+      
+      C. AWS Amplify: AWS Amplify makes it easy to create, configure, and implement scalable mobile applications powered by AWS. It seamlessly provisions and manages your mobile backend and provides a simple framework to easily integrate your backend with your iOS, Android, Web, and React Native frontends. Amplify also automates the application release process of both your front-end and back-end, allowing you to deliver features faster. It supports offline data synchronization, storage, or data sharing across multiple users, which is crucial for mobile applications that require cloud services for actions that can’t be done directly on the device.
+    </details>
+
+17. A small buisness owner who is not tech-savvy is looking to find AWS certified experts for a short-term project. They need a service that can help them connect with professionals who can offer advice and help implement AWS solutions quickly. Which AWS Service should they use?
+    - A. AWS Trainig and Certification.
+    - B. AWS IQ.
+    - C. AWS Support.
+    - D. AWS Marketplace.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:  AWS IQ is designed to help businesses connect with AWS Certified third-party experts for project work. It allows organizations of any size, including small and medium-sized businesses, to quickly and securely find, engage, and pay AWS Certified experts for hands-on help. All experts on AWS IQ have active AWS Associate, Professional, or Specialty Certifications and are ready to assist with project work. AWS IQ is integrated with your AWS account and your AWS bill, allowing you to grant, monitor, and control access to your AWS Account for the experts you engage. You can also pay the expert at the conclusion of each project milestone, making it a convenient and secure way to access expert advice and help with implementing AWS solutions
+    </details>
+
+18. Which AWS service supports an in-memory data structure store, compatible with Redis, that delivers sub-millisecond latency for use cases such as caching, session stores and real time analytics?
+    - A. Amazon DynamoDB.
+    - B. Amazon RDS.
+    - C. Amazon MemoryDB.
+    - D. Amazon RedShift.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:  Amazon MemoryDB for Redis is a Redis-compatible, durable, in-memory database that delivers ultra-fast performance and Multi-AZ durability. It is designed to provide microsecond read latency and single-digit millisecond write latency, making it suitable for applications that require high throughput and low latency. MemoryDB stores your entire database in-memory and uses a durable, Multi-AZ transactional log, so you can use it as an ultra-fast, primary database. It is used for various purposes including user content data stores, session management, geospatial indexing, chat and message queues, real-time streaming, fraud detection, streaming IoT device data, and more 
+    </details>
