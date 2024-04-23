@@ -446,3 +446,87 @@ Click on the **Answer** button for the correct answer and its explanation.
       Consolidated billing can separate bills by account but for department based cost separation cost allocation tags should be used.
     </details>
 
+31. Which of the following is an advantage for a company running workloads in the AWS Cloud vs on-premises? (Select TWO.)
+
+    - A. Less staff time is required to launch new workloads.
+    - B. Increased time to market for new application features.
+    - C. Higher acquisition costs to support elastic workloads.
+    - D. Lower overall utilization of server and storage systems.
+    - E. Increased productivity for application development teams.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A, B
+
+      Explanation: Using AWS cloud services can help development teams to be more productive as they spend less time working on the infrastructure layer as it is provided for them. This additionally means launching new workloads requires less time as you can automate the implementation of the application and there is no underlying hardware layer to configure.
+
+    </details>
+
+32. A company requires a dashboard for reporting when using a business intelligence solution. Which AWS service can a Cloud Practitioner use?
+
+    - A. Amazon Redshift.
+    - B. Amazon Kinesis.
+    - C. Amazon Athena.
+    - D. Amazon QuickSight.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
+      QuickSight lets you easily create and publish interactive BI dashboards that include Machine Learning-powered insights. 
+      QuickSight dashboards can be accessed from any device, and seamlessly embedded into your applications, portals, and websites.
+      RedShift is a data warehouse solution not a dashboard. You can use QuickSight with RedShift.
+      "Amazon Kinesis" is incorrect. This is a service for collecting streaming data.
+      Athena is used for running SQL queries on data in Amazon S3.
+
+      
+    </details>
+
+33. A manager is planning to migrate applications to the AWS Cloud and needs to obtain AWS compliance reports. How can these reports be generated?
+    - A. Download the reports from AWS Secrets Manager.
+    - B. Contact the AWS Compliance team.
+    - C. Create a support ticket with AWS Support.
+    - D. Download the reports from AWS Artifact.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation: AWS Artifact is your go-to, central resource for compliance-related information that matters to you. It provides on-demand access to AWS’ security and compliance reports and select online agreements.
+      Reports available in AWS Artifact include Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.
+      Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
+      AWS Secrets Manager is used for storing secrets such as database authentication.
+      
+    </details>
+
+34. The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept?
+    - A. Economy Scale.
+    - B. Elasticity.
+    - C. High Availability.
+    - D. Agility.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation: Elasticity is the ability to dynamically adjust the capacity of a service or resource based on demand. Scaling can be vertical (e.g. increase instance size) or horizontal (e.g. add more EC2 instances).
+      "Economy of scale" is incorrect. This refers to pricing benefits based on AWS purchasing large amounts of resources.
+      "High availability" is incorrect. This is an example of resilience.
+      "Agility" is incorrect. This is an example of flexibility and speed of implementation.
+      
+    </details>
+
+35. TWhich tasks can a user complete using the AWS Cost Management tools?
+    - A. Delete all of your AWS resources with a single click.
+    - B. Create budgets and receive notifications if current or forecasted usage exceeds the budgets.
+    - C. Launch either EC2 Spot instances or On-Demand instances based on the current pricing.
+    - D. Move data stored in Amazon S3 Standard to an archiving storage class to reduce cost.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation: The AWS Cost Management tools includes services, tools, and resources to organize and track cost and usage data, enhance control through consolidated billing and access permissions, enable better planning through budgeting and forecasts, and further lower costs with resources and pricing optimizations.
+      
+    </details>
