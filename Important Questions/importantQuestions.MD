@@ -292,3 +292,29 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       Both source and destination buckets must have versioning enabled. The source bucket owner must have the source and destination AWS Regions enabled for their account. The destination bucket owner must have the destination Region-enabled for their account.
     </details>
+
+21. A Cloud Practitioner requires point-in-time recovery (PITR) for an Amazon DynamoDB table. Who is responsible for configuring and performing backups?
+    - A. AWS is responsible for both tasks.
+    - B. The customer is responsible for configuring and AWS is responsible for performing backups.
+    - C. The customer is responsible for both tasks.
+    - D. AWS is responsible for configuring and the user is responsible for performing backups.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:  Point-in-time recovery (PITR) provides continuous backups of your DynamoDB table data. When enabled, DynamoDB maintains incremental backups of your table for the last 35 days until you explicitly turn it off. It is a customer responsibility to enable PITR on and AWS is responsible for actually performing the backups.
+    </details>
+
+22. Under the AWS shared responsibility model, which of the following is an example of security in the AWS Cloud?
+    - A. Managing edge locations.
+    - B. Physical security.
+    - C. Firewall configuration.
+    - D. Global Infrastructure.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:  Firewall configuration is an example of “security in the cloud”. This is the customer’s responsibility, not an AWS responsibility
+    </details>
