@@ -277,3 +277,18 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation:  The Align phase is crucial for identifying capability gaps across the six AWS CAF perspectives (Business, People, Governance, Platform, Security, and Operations), identifying cross-organizational dependencies, and surfacing stakeholder concerns and challenges. This phase is designed to create strategies for improving cloud readiness, ensure stakeholder alignment, and facilitate relevant organizational change management activities.
     </details>
+
+20. Which of the following statements is correct about Amazon S3 cross-region replication?
+    - A. Both source and destination S3 buckets must have versioning disabled.
+    - B. The source and destination S3 buckets cannot be in different AWS Regions.
+    - C. S3 buckets configured for cross-region replication can be owned by a single AWS account or by differebt accounts.
+    - D. The source s3 bucket owner must have the source and destination AWS Regions disabled for their account.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:  Replication enables automatic, asynchronous copying of objects across Amazon S3 buckets. Buckets that are configured for object replication can be owned by the same AWS account or by different accounts. You can copy objects between different AWS Regions or within the same Region.
+      
+      Both source and destination buckets must have versioning enabled. The source bucket owner must have the source and destination AWS Regions enabled for their account. The destination bucket owner must have the destination Region-enabled for their account.
+    </details>
