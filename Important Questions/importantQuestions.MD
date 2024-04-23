@@ -141,24 +141,12 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
     </details>
-9.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
-    - A. AWS Config.
-    - B. AWS Trusted Advisor.
-    - C. AWS Artifact.
-    - D. AWS Audit Manager.
- 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance .
-    </details>
-
 10.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
     - A. AWS Config.
     - B. AWS Trusted Advisor.
     - C. AWS Artifact.
     - D. AWS Audit Manager.
-
+ 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
 
@@ -171,7 +159,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - C. Amazon Inspector.
     - D. AWS Network Firewall.
     - E. AWS Shield
-
+ 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
 
@@ -179,6 +167,8 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       D. AWS Network Firewall: AWS Network Firewall is a managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs). It can filter traffic at the perimeter of your VPC, including filtering traffic going to and coming from an internet gateway, NAT gateway, over VPN, or AWS Direct Connect. Network Firewall is supported by AWS Firewall Manager, allowing for centralized management of firewall rules across VPCs and accounts
     </details>
+
+ 
 
 12.   A finacial service firm wants to build a real time analytic platform where data can be streamed and analyzed on the fly. They are looking to use Apache, Kafka for this, but they want to avoid the overhead of managing the Kafka infrastuctue. Which AWS Service would be the best fit for this requirement.
     - A. Amazon SQS.
