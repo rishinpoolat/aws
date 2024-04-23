@@ -142,29 +142,18 @@ Click on the **Answer** button for the correct answer and its explanation.
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
     </details>
 
-10.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
+10.  Which AWS service helps you continuously audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
     - A. AWS Config.
     - B. AWS Trusted Advisor.
     - C. AWS Artifact.
     - D. AWS Audit Manager.
-
+    
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
 
-      Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance .
+      Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance.
     </details>
 
-10.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
-    - A. AWS Config.
-    - B. AWS Trusted Advisor.
-    - C. AWS Artifact.
-    - D. AWS Audit Manager.
- 
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
-
-      Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance .
-    </details>
 
 11.  A company is looking to centrally configure and manage firewall rules accross their AWS environment. Which AWS services can assist in applying firewall rules consistently across AWS VPCs and accounts? (Select Two)
     - A. AWS Web Application Firewall(AWS WAF).
