@@ -37,7 +37,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       Elastic Beanstalk supports the deployment of Node.js applications and offers step-by-step instructions for deploying Node.js web applications using the Elastic Beanstalk management console. It also provides walkthroughs for common tasks such as database integration and working with the Express framework .
       
-      Moreover, Elastic Beanstalk automatically handles the deployment details such as capacity provisioning, load balancing, auto-scaling, and application health monitoring. It also allows for easy integration with other AWS services like Amazon RDS for database management and Amazon S3 for storage
+      Moreover, Elastic Beanstalk automatically handles the deployment details such as capacity provisioning, load balancing, auto-scaling, and application health monitoring. It also allows for easy integration with other AWS services like Amazon RDS for database management and Amazon S3 for storage.
     </details>
 
 3. A company is building a serverless workflow that cordinates multiple AWS services into a reliable application. They want a visual workflow that can track the status of each step in the application. Which AWS service would faciliate creating this kind of workflow?
@@ -67,7 +67,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Amazon FSx is designed to provide an easy and cost-effective way to launch, run, and scale feature-rich, high-performance file systems in the cloud. It supports a wide range of workloads with its reliability, security, scalability, and broad set of capabilities. Amazon FSx is built on the latest AWS compute, networking, and disk technologies to provide high performance and lower TCO. As a fully managed service, it handles hardware provisioning, patching, and backups, freeing you up to focus on your applications, your end users, and your business.
       
-      Amazon FSx supports a broad set of enterprise Windows workloads with fully managed file storage built on Microsoft Windows Server. It has native support for Windows file system features and for the industry-standard Server Message Block (SMB) protocol to access file storage over a network. This compatibility and performance are particularly important when moving workloads that require Windows shared file storage, such as CRM, ERP, and .NET applications, as well as home directories
+      Amazon FSx supports a broad set of enterprise Windows workloads with fully managed file storage built on Microsoft Windows Server. It has native support for Windows file system features and for the industry-standard Server Message Block (SMB) protocol to access file storage over a network. This compatibility and performance are particularly important when moving workloads that require Windows shared file storage, such as CRM, ERP, and .NET applications, as well as home .directories
     </details>
 
 5. Which AWS service allows you to secrely share your AWS resources across AWS accounts or within your organisations, helping you to reduce operational overhead and to centrally manage access to the shared resources?
@@ -81,7 +81,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS RAM simplifies the process of sharing resources across multiple AWS accounts, within your organization or organizational units (OUs), and with IAM roles and users for supported resource types. It enables you to securely share your resources across AWS accounts, streamline management of AWS resources within your organization from a central account, and reduce overhead and costs by creating resources once and sharing them across multiple accounts.
       
-      AWS RAM helps in granting least privilege access to your shared resources, using managed permissions to grant only the permissions required to perform tasks on resources shared using AWS RAM. This ensures that resources shared by attaching a resource-based policy aren't visible in the same way as resources shared directly in the user's account, but instead, you have to discover and explicitly refer to the resource by its Amazon Resource Name (ARN)
+      AWS RAM helps in granting least privilege access to your shared resources, using managed permissions to grant only the permissions required to perform tasks on resources shared using AWS RAM. This ensures that resources shared by attaching a resource-based policy aren't visible in the same way as resources shared directly in the user's account, but instead, you have to discover and explicitly refer to the resource by its Amazon Resource Name (ARN).
     </details>
 
 6. A company is looking to develop a conversational chatbot that can interact dynamically with its customers through a natural language interface. Which AWS service should be utilised to faciliate this?
@@ -95,7 +95,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       Amazon Lex is powered by the same technology as Amazon Alexa, making it capable of understanding natural language speech and text input, recognizing the intent behind the input, and fulfilling the user intent by invoking the appropriate business function. This makes it an ideal choice for developing sophisticated, natural language chatbots into new and existing applications .
       
-      Moreover, Amazon Lex simplifies the process of creating chatbots by guiding developers through the console to create their own chatbot in minutes. It requires only a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks. This democratizes deep learning technologies, making them accessible to all developers
+      Moreover, Amazon Lex simplifies the process of creating chatbots by guiding developers through the console to create their own chatbot in minutes. It requires only a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks. This democratizes deep learning technologies, making them accessible to all developers.
     </details>
 
 7.  An application has a highly dynamic usage pattern. Which characteristica of the AWS Cloud make it cost-effective for this type of workload? (Select Two)
@@ -110,7 +110,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: C. Elasticity: The ability to easily scale resources up or down based on demand is crucial for managing costs effectively. AWS offers a variety of services and features that allow for dynamic scaling, such as Auto Scaling for EC2 instances, which adjusts the number of instances based on the demand pattern. This ensures that you only pay for the resources you need, optimizing costs by reducing resource consumption during off-peak hours.
       
-      D. Pay-as-you-go Pricing: AWS's flexible pricing model, including On-Demand Instances, Savings Plans, and Spot Instances, allows you to pay for compute capacity by the hour, with no minimum commitments required. This model encourages taking advantage of AWS's flexible pricing to scale compute resources according to demand, optimizing costs by reducing resource consumption during off-peak hours. Spot Instances, in particular, offer savings of up to 90% off On-Demand pricing, making them suitable for workloads that can tolerate using a fleet of servers where individual servers can come and go dynamically
+      D. Pay-as-you-go Pricing: AWS's flexible pricing model, including On-Demand Instances, Savings Plans, and Spot Instances, allows you to pay for compute capacity by the hour, with no minimum commitments required. This model encourages taking advantage of AWS's flexible pricing to scale compute resources according to demand, optimizing costs by reducing resource consumption during off-peak hours. Spot Instances, in particular, offer savings of up to 90% off On-Demand pricing, making them suitable for workloads that can tolerate using a fleet of servers where individual servers can come and go dynamically.
     </details>
 
 8.  Which AWS Service or feature helps restrict the AWS services, resorces, and individual API actions the users and roles in each member account and access?
@@ -124,7 +124,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: C.AWS Organizations allows you to centrally manage and enforce policies for multiple AWS accounts. It provides a feature called Service Control Policies (SCPs) that you can use to manage permissions in your organization. SCPs are a type of organization policy that you can use to restrict the actions that can be called on AWS resources. By attaching an SCP to an organizational unit (OU) or an individual account, you can specify which actions are allowed or denied on the AWS resources in that OU or account. This helps in ensuring that users and roles in each member account have the appropriate level of access to AWS services and resources.
       
-      For example, you can use SCPs to prevent users in member accounts from accessing certain API operations in the identity store, as shown in the provided example SCP that explicitly blocks access to the identity store and SSO directory actions. This level of control is crucial for maintaining security and compliance across your AWS environment
+      For example, you can use SCPs to prevent users in member accounts from accessing certain API operations in the identity store, as shown in the provided example SCP that explicitly blocks access to the identity store and SSO directory actions. This level of control is crucial for maintaining security and compliance across your AWS environment.
     </details>
 
 9.  An organisation is seeking a fully managed service to create and publish interactive dashboard that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement?
@@ -138,7 +138,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. It allows you to create and publish interactive dashboards that can be accessed from any device, including desktops, tablets, and smartphones. QuickSight dashboards can be embedded into applications using the Amazon QuickSight JavaScript SDK, enabling a seamless integration of data visualization into your applications.
       
-      The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
+      The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs.
     </details>
 
 10. Which AWS service helps you continuously audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
@@ -165,7 +165,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: B. AWS Firewall Manager: AWS Firewall Manager allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations. It supports AWS Network Firewall, enabling you to manage firewall rules for your Amazon Virtual Private Cloud (VPCs) across your organization. Firewall Manager provides different firewall management models, including Distributed and Centralized, to suit various organizational needs .
       
-      D. AWS Network Firewall: AWS Network Firewall is a managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs). It can filter traffic at the perimeter of your VPC, including filtering traffic going to and coming from an internet gateway, NAT gateway, over VPN, or AWS Direct Connect. Network Firewall is supported by AWS Firewall Manager, allowing for centralized management of firewall rules across VPCs and accounts
+      D. AWS Network Firewall: AWS Network Firewall is a managed service that makes it easy to deploy essential network protections for all of your Amazon Virtual Private Clouds (VPCs). It can filter traffic at the perimeter of your VPC, including filtering traffic going to and coming from an internet gateway, NAT gateway, over VPN, or AWS Direct Connect. Network Firewall is supported by AWS Firewall Manager, allowing for centralized management of firewall rules across VPCs and accounts.
     </details>
  
 12. A finacial service firm wants to build a real time analytic platform where data can be streamed and analyzed on the fly. They are looking to use Apache, Kafka for this, but they want to avoid the overhead of managing the Kafka infrastuctue. Which AWS Service would be the best fit for this requirement?
@@ -179,7 +179,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Amazon MSK (Managed Streaming for Apache Kafka) is a fully managed service that simplifies the setup, scaling, and management of Apache Kafka clusters. It allows you to build and run applications that use Apache Kafka to process streaming data without the need for Apache Kafka infrastructure management expertise. This means you can focus on developing your applications rather than managing the underlying Kafka infrastructure.
       
-      Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed 
+      Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed. 
     </details>
 
 13. A Media company wants to find and subscribe to third party data sources to enrich their existing datasets with new insights. Which AWS service would be best fit for this requirement?
@@ -191,7 +191,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: C
 
-      Explanation: AWS Data Exchange allows organizations to find, subscribe to, and use third-party data in the cloud. It provides an extensive data set catalog, making it easy to discover and subscribe to over 3,500 third-party data sets. This service simplifies the process of integrating third-party data into your AWS environment, enabling you to enrich your existing datasets with new insights without the need to build bespoke data pipelines for every synchronous use case. AWS Data Exchange supports efficient data retrieval, streamlined data procurement, and simplifies governance and compliance when setting up access permissions by using AWS-native authentication  
+      Explanation: AWS Data Exchange allows organizations to find, subscribe to, and use third-party data in the cloud. It provides an extensive data set catalog, making it easy to discover and subscribe to over 3,500 third-party data sets. This service simplifies the process of integrating third-party data into your AWS environment, enabling you to enrich your existing datasets with new insights without the need to build bespoke data pipelines for every synchronous use case. AWS Data Exchange supports efficient data retrieval, streamlined data procurement, and simplifies governance and compliance when setting up access permissions by using AWS-native authentication . 
     </details>
 
 
@@ -207,7 +207,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Amazon OpenSearch Service (formerly known as Amazon Elasticsearch Service) is a fully managed service that makes it easy to deploy, secure, and run OpenSearch (formerly Elasticsearch) cost-effectively at scale. It is designed to help you secure, deploy, and run OpenSearch cost-effectively at scale. OpenSearch is a popular open-source search and analytics suite that can be used to build applications that offer search functionality, including full-text search, structured search, analytics, and more. It supports a wide range of search features such as highlighting, autocomplete, and geospatial search, making it suitable for applications like the one described . 
       
-      Amazon OpenSearch Service is fully managed, meaning AWS handles the infrastructure, allowing you to focus on application development. It automatically scales your cluster's compute and storage resources based on the volume of data and search traffic, and it provides built-in security features to help protect your data  
+      Amazon OpenSearch Service is fully managed, meaning AWS handles the infrastructure, allowing you to focus on application development. It automatically scales your cluster's compute and storage resources based on the volume of data and search traffic, and it provides built-in security features to help protect your data.
     </details>
 
 15. Which AWS service provides a cloud based integrated development environment(IDE) that lets you erite, run, and debug your code with just a browser, without needig to install any software or configuration server?
@@ -221,7 +221,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS Cloud9 is a fully managed cloud IDE that provides a rich code-editing experience with support for several programming languages and runtime debuggers, along with a built-in terminal. It allows developers to write, run, and debug applications directly in their browser, without the need for installing or maintaining a local IDE. This service is particularly useful for developers working on AWS, as it comes prepackaged with essential tools for popular programming languages and provides a seamless experience for developing serverless applications. 
       
-      AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration 
+      AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration .
     </details>
 
 16. Which AWS service faciliates building secure and scalable mobile and web applications, offering features such as real-time updates and offline functionalites?(Select Two)
@@ -249,7 +249,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
 
-      Explanation:  AWS IQ is designed to help businesses connect with AWS Certified third-party experts for project work. It allows organizations of any size, including small and medium-sized businesses, to quickly and securely find, engage, and pay AWS Certified experts for hands-on help. All experts on AWS IQ have active AWS Associate, Professional, or Specialty Certifications and are ready to assist with project work. AWS IQ is integrated with your AWS account and your AWS bill, allowing you to grant, monitor, and control access to your AWS Account for the experts you engage. You can also pay the expert at the conclusion of each project milestone, making it a convenient and secure way to access expert advice and help with implementing AWS solutions
+      Explanation:  AWS IQ is designed to help businesses connect with AWS Certified third-party experts for project work. It allows organizations of any size, including small and medium-sized businesses, to quickly and securely find, engage, and pay AWS Certified experts for hands-on help. All experts on AWS IQ have active AWS Associate, Professional, or Specialty Certifications and are ready to assist with project work. AWS IQ is integrated with your AWS account and your AWS bill, allowing you to grant, monitor, and control access to your AWS Account for the experts you engage. You can also pay the expert at the conclusion of each project milestone, making it a convenient and secure way to access expert advice and help with implementing AWS solutions.
     </details>
 
 18. Which AWS service supports an in-memory data structure store, compatible with Redis, that delivers sub-millisecond latency for use cases such as caching, session stores and real time analytics?
@@ -262,5 +262,18 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: C
 
-      Explanation:  Amazon MemoryDB for Redis is a Redis-compatible, durable, in-memory database that delivers ultra-fast performance and Multi-AZ durability. It is designed to provide microsecond read latency and single-digit millisecond write latency, making it suitable for applications that require high throughput and low latency. MemoryDB stores your entire database in-memory and uses a durable, Multi-AZ transactional log, so you can use it as an ultra-fast, primary database. It is used for various purposes including user content data stores, session management, geospatial indexing, chat and message queues, real-time streaming, fraud detection, streaming IoT device data, and more 
+      Explanation:  Amazon MemoryDB for Redis is a Redis-compatible, durable, in-memory database that delivers ultra-fast performance and Multi-AZ durability. It is designed to provide microsecond read latency and single-digit millisecond write latency, making it suitable for applications that require high throughput and low latency. MemoryDB stores your entire database in-memory and uses a durable, Multi-AZ transactional log, so you can use it as an ultra-fast, primary database. It is used for various purposes including user content data stores, session management, geospatial indexing, chat and message queues, real-time streaming, fraud detection, streaming IoT device data, and more.
+    </details>
+
+19.  In the AWS Cloud Adoption Framework , which perspective focuses on identifying capability gaps and helping your organisation align its readliness for cloud adoption?
+    - A. Envision
+    - B. Align.
+    - C. Launch.
+    - D. Scale.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:  The Align phase is crucial for identifying capability gaps across the six AWS CAF perspectives (Business, People, Governance, Platform, Security, and Operations), identifying cross-organizational dependencies, and surfacing stakeholder concerns and challenges. This phase is designed to create strategies for improving cloud readiness, ensure stakeholder alignment, and facilitate relevant organizational change management activities.
     </details>
