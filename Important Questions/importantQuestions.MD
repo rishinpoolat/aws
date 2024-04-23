@@ -141,6 +141,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
     </details>
+    
 10.  Which AWS service helps you continuesly audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
     - A. AWS Config.
     - B. AWS Trusted Advisor.
