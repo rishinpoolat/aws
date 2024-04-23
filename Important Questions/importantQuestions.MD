@@ -316,5 +316,18 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: C
 
-      Explanation:  Firewall configuration is an example of “security in the cloud”. This is the customer’s responsibility, not an AWS responsibility
+      Explanation:  Firewall configuration is an example of “security in the cloud”. This is the customer’s responsibility, not an AWS responsibility.
+    </details>
+
+23. A user has an AWS account with a Business-level AWS Support plan and needs assistance with handling a production service disruption Which action should the user take?
+    - A. Contact the dedicated Technical Account Manager.
+    - B. Contact the dedicated AWS concierge Support Team.
+    - C. Open a buisness-critical system down support case.
+    - D. Open a production system down support case.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation:  The Business support plan provides a service level agreement (SLA) of < 1 hour for production system down support cases. The dedicated TAM only comes with the Enterprise support plan.The concierge support team only comes with the Enterprise support plan.The business-critical system down support only comes with the Enterprise support plan
     </details>
