@@ -517,7 +517,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       
     </details>
 
-35. TWhich tasks can a user complete using the AWS Cost Management tools?
+35. Which tasks can a user complete using the AWS Cost Management tools?
     - A. Delete all of your AWS resources with a single click.
     - B. Create budgets and receive notifications if current or forecasted usage exceeds the budgets.
     - C. Launch either EC2 Spot instances or On-Demand instances based on the current pricing.
@@ -529,4 +529,70 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: The AWS Cost Management tools includes services, tools, and resources to organize and track cost and usage data, enhance control through consolidated billing and access permissions, enable better planning through budgeting and forecasts, and further lower costs with resources and pricing optimizations.
       
+    </details>
+
+36. Which AWS service or feature can be used to restrict the individual API actions that users and roles in each member account can access?
+    - A. Amazon Maice.
+    - B. AWS Organisations.
+    - C. AWS Shield.
+    - D. AWS IAM.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation: AWS Organizations offers Service control policies (SCPs) which are a type of organization policy that you can use to manage permissions in your organization. SCPs offer central control over the maximum available permissions (API actions) for all accounts in your organization. SCPs help you to ensure your accounts stay within your organization’s access control guidelines. SCPs are available only in an organization that has all features enabled.
+      Amazon Macie is a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.
+      AWS Shield a service that protects workloads against distributed denial of service (DDoS) attacks.
+      AWS IAM is used for assigning permissions but SCPs in AWS Organizations are used to control which API actions are allowed in an account. You need to be granted permission in IAM and have the API allowed to be able to use the API successfully.
+      
+    </details>
+
+37. A cloud practitioner needs to migrate a 70 TB of data from an on-premises data center into the AWS Cloud. The company has a slow and unreliable internet connection.Which AWS service can the cloud practitioner leverage to transfer the data?
+    - A. Amazon S3 Glacier.
+    - B. AWS Snowball.
+    - C. AWS Storage Gateway.
+    - D. AWS DataSync.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation: AWS Snowball is a method of transferring the data using a physical device. A Snowball Edge device can hold up to 80 TB so a single device can be used. This transfer method completely avoids the slow and unreliable internet connection.
+      Glacier is used for archiving data in the cloud.
+      Storage Gateway is a service that offers options for connecting on-premises storage to the cloud.
+      DataSync uses the internet to transfer data You can utilize Snowcone but that only holds up to 8 TB per device.
+      
+    </details>
+
+38. Which AWS Support plan provides access to architectural and operational reviews, as well as 24/7 access to Cloud Support Engineers through email, online chat, and phone?
+    - A. Basic.
+    - B. Business.
+    - C. Developer.
+    - D. Enterprice.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation: Only the enterprise plan provides Well-Architected Reviews and Operational Reviews. 24/7 access to Cloud Support Engineers through email, online chat, and phone is offered on the business and enterprise plans.
+      
+    </details>
+
+39. Which AWS services can be used as infrastructure automation tools? (Select TWO.)
+    - A. AWS CloudFormation.
+    - B. Amazon cloudFront.
+    - C. AWS Batch.
+    - D. AWS OpsWorks.
+    - E. Amazon QuickSight
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B, D
+
+      Explanation: AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
+      AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers. OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.
+      Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds.
+      AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
+      Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization.
+
     </details>
