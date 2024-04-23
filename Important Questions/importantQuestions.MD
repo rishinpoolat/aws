@@ -142,14 +142,16 @@ Click on the **Answer** button for the correct answer and its explanation.
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs
     </details>
 
-10. You work as an on-premises MySQL DBA. The work of database configuration, backups, patching, and DR can be time-consuming and repetitive. Your company has decided to migrate to the AWS Cloud. Which of the following can help save time on database maintenance so you can focus on data architecture and performance?
-    - A. Amazon RDS.
-    - B. Amazon Redshift.
-    - C. Amazon DynamoDB.
-    - D. Amazon CloudWatch.
+10. Which AWS service helps you continuously audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
+    - A. AWS Config.
+    - B. AWS Trusted Advisor.
+    - C. AWS Artifact.
+    - D. AWS Audit Manager.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct answer: D
+
+      Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance.
     </details>
 
 10.  Which AWS service helps you continuously audit your AWS usage to simplify how you can assess risk and compliance with regulations and industry standards?
