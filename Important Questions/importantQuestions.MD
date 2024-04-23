@@ -3,7 +3,6 @@
 Click on the **Answer** button for the correct answer and its explanation.
 
 
-
 ---
 
 1. A company is launching a new website which is expected to have highly variable levels of traffic. The website will run on Amazon EC2 and must be highly available.What is the most cost-effective approach?
@@ -13,7 +12,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Launch the website using an Amazon EC2 instance running on a dedicated host.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
 
       Explanation: Using an auto scaling group allows you to automatically scale the number of EC2 instances based on traffic demand. This ensures that you have enough instances to handle high traffic periods while scaling down during low traffic periods, optimizing costs.
 
@@ -32,7 +31,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon LightSail.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
 
       Explanation: AWS Elastic Beanstalk is designed to simplify the deployment and scaling of web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. It automatically handles the details of capacity provisioning, load balancing, scaling, and application health monitoring. Elastic Beanstalk provides a simple-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
       
@@ -48,7 +47,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon SQS.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
 
       Explanation: AWS Step Functions is a serverless workflow service that allows you to orchestrate AWS services into serverless workflows. It provides a visual interface for designing workflows, making it easier to create, visualize, and manage complex workflows. With Step Functions, you can define your workflows as state machines, which transform complex code into easy-to-understand statements and diagrams. This makes building and confirming that your application is implementing the desired functionality quicker and easier.
       
@@ -64,7 +63,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon FSx
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct Answer: D
 
       Explanation: Amazon FSx is designed to provide an easy and cost-effective way to launch, run, and scale feature-rich, high-performance file systems in the cloud. It supports a wide range of workloads with its reliability, security, scalability, and broad set of capabilities. Amazon FSx is built on the latest AWS compute, networking, and disk technologies to provide high performance and lower TCO. As a fully managed service, it handles hardware provisioning, patching, and backups, freeing you up to focus on your applications, your end users, and your business.
       
@@ -78,7 +77,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. AWS Resource Access Manager(AWS RAM).
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct Answer: D
 
       Explanation: AWS RAM simplifies the process of sharing resources across multiple AWS accounts, within your organization or organizational units (OUs), and with IAM roles and users for supported resource types. It enables you to securely share your resources across AWS accounts, streamline management of AWS resources within your organization from a central account, and reduce overhead and costs by creating resources once and sharing them across multiple accounts.
       
@@ -91,7 +90,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - C. Amazon Comprehend
     - D. Amazon Textract
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct Answer: A
       Explanation: Amazon Lex is a service for building conversational interfaces into any application using voice and text. It provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text. This enables the creation of applications with highly engaging user experiences and lifelike conversational interactions .
       
       Amazon Lex is powered by the same technology as Amazon Alexa, making it capable of understanding natural language speech and text input, recognizing the intent behind the input, and fulfilling the user intent by invoking the appropriate business function. This makes it an ideal choice for developing sophisticated, natural language chatbots into new and existing applications .
@@ -107,7 +106,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - E. Reliability.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C,D
+      Correct Answer: C,D
 
       Explanation: C. Elasticity: The ability to easily scale resources up or down based on demand is crucial for managing costs effectively. AWS offers a variety of services and features that allow for dynamic scaling, such as Auto Scaling for EC2 instances, which adjusts the number of instances based on the demand pattern. This ensures that you only pay for the resources you need, optimizing costs by reducing resource consumption during off-peak hours.
       
@@ -121,7 +120,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. AWS Firewall Manager.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
 
       Explanation: C.AWS Organizations allows you to centrally manage and enforce policies for multiple AWS accounts. It provides a feature called Service Control Policies (SCPs) that you can use to manage permissions in your organization. SCPs are a type of organization policy that you can use to restrict the actions that can be called on AWS resources. By attaching an SCP to an organizational unit (OU) or an individual account, you can specify which actions are allowed or denied on the AWS resources in that OU or account. This helps in ensuring that users and roles in each member account have the appropriate level of access to AWS services and resources.
       
@@ -135,7 +134,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon EMR.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
 
       Explanation: Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. It allows you to create and publish interactive dashboards that can be accessed from any device, including desktops, tablets, and smartphones. QuickSight dashboards can be embedded into applications using the Amazon QuickSight JavaScript SDK, enabling a seamless integration of data visualization into your applications.
       
@@ -149,7 +148,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. AWS Audit Manager.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct Answer: D
 
       Explanation: AWS Audit Manager is designed to help you continuously audit your AWS usage, simplifying the process of assessing risk and compliance with various regulations and industry standards. It provides a centralized dashboard where you can view and manage audit activities, track compliance with internal policies and external regulations, and identify areas for improvement. AWS Audit Manager supports a wide range of compliance frameworks and standards, making it easier to demonstrate compliance and reduce the risk of non-compliance.
     </details>
@@ -162,7 +161,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - E. AWS Shield
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B,D
+      Correct Answer: B,D
 
       Explanation: B. AWS Firewall Manager: AWS Firewall Manager allows you to centrally configure and manage firewall rules across your accounts and applications in AWS Organizations. It supports AWS Network Firewall, enabling you to manage firewall rules for your Amazon Virtual Private Cloud (VPCs) across your organization. Firewall Manager provides different firewall management models, including Distributed and Centralized, to suit various organizational needs .
       
@@ -176,23 +175,10 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon Redshift.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct Answer: C
 
       Explanation: Amazon MSK (Managed Streaming for Apache Kafka) is a fully managed service that simplifies the setup, scaling, and management of Apache Kafka clusters. It allows you to build and run applications that use Apache Kafka to process streaming data without the need for Apache Kafka infrastructure management expertise. This means you can focus on developing your applications rather than managing the underlying Kafka infrastructure.
       
       Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed 
     </details>
 
-12.   A finacial service firm wants to build a real time analytic platform where data can be streamed and analyzed on the fly. They are looking to use Apache, Kafka for this, but they want to avoid the overhead of managing the Kafka infrastuctue. Which AWS Service would be the best fit for this requirement.
-    - A. Amazon SQS.
-    - B. Amazon Kinesis.
-    - C. Amazon MSK.
-    - D. Amazon Redshift.
-
-    <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
-
-      Explanation: Amazon MSK (Managed Streaming for Apache Kafka) is a fully managed service that simplifies the setup, scaling, and management of Apache Kafka clusters. It allows you to build and run applications that use Apache Kafka to process streaming data without the need for Apache Kafka infrastructure management expertise. This means you can focus on developing your applications rather than managing the underlying Kafka infrastructure.
-      
-      Amazon MSK automatically provisions, configures, and manages the operations of your Apache Kafka cluster and Apache ZooKeeper nodes, making it easy to build and run production applications on Apache Kafka. It follows Apache Kafka’s deployment best practices, ensuring high availability, durable storage, and security of your data. Additionally, Amazon MSK Serverless is a cluster type that enables you to run Apache Kafka without having to manage and scale cluster capacity, automatically provisioning and scaling compute and storage resources as needed 
-    </details>
