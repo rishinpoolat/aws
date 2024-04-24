@@ -34,7 +34,7 @@ If this practice exam has been helpful to you please share it with others and re
     - E. AWS Secrets Manager.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B, D
+      Correct answer: A, D
     </details>
 
 4. A characteristic of edge locations is that they:
