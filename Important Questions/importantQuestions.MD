@@ -688,11 +688,10 @@ Click on the **Answer** button for the correct answer and its explanation.
     </details>
 
   42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
-  
-    - A. AWS CodeStar
-    - B. AWS AppConfig.
-    - C. AWS CodeCommit.
-    - D. AWS Cloudformation.
+    - A. AWS Educate
+    - B. AWS Activate for startups.
+    - C. AWS Marketplace.
+    - D. AWS Partner Network.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
