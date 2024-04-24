@@ -686,12 +686,40 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 
     </details>
+  
 
   42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
-    - A. AWS Educate
-    - B. AWS Activate for startups.
-    - C. AWS Marketplace.
-    - D. AWS Partner Network.
+    - A. AWS CodeStar.
+    - B. AWS AppConfig.
+    - C. AWS CodeCommit.
+    - D. AWS CloudFront.
+
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:AWS AppConfig is a service that helps you deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services
+      
+      Here's a brief explanation of the other options:
+      
+      CodeStar is a cloud-based service that provides project management capabilities for software development projects. It helps teams quickly set up and manage their entire continuous delivery toolchain, but it does not specifically handle application configuration changes without code modifications or service restarts.
+      
+      CodeCommit is a version control service that hosts private Git repositories. It is used for storing and managing code, but it does not directly handle application configuration changes or deployments.
+      
+      CloudFormation is an infrastructure as code service that helps you provision and manage AWS resources and applications in an automated and repeatable manner. While it can be used to manage application configurations, it does not provide the specific features of validation checks and timely deployment without code changes or service restarts.
+      
+      AWS AppConfig, on the other hand, is designed specifically for managing application configurations. It allows you to create, manage, and deploy configuration data for your applications, including feature flags, environment variables, and service configurations. AppConfig provides features like:
+      
+      Validation checks: You can define rules to validate configuration data before deployment.
+      Timely deployment: You can control the deployment schedule and roll out configurations gradually.
+      No code changes or service restarts: AppConfig allows you to update configurations without modifying application code or restarting services.
+      
+    </details>
+  42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
+    - A. AWS CodeStar
+- B. AWS AppConfig.
+- C. AWS CodeCommit.
+- D. AWS Cloudformation.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
