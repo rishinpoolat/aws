@@ -686,6 +686,34 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 
     </details>
+  42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
+    - A. AWS CodeStar
+    - B. AWS AppConfig.
+    - C. AWS CodeCommit.
+    - D. AWS Cloudformation.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:AWS Activate for Startups is a program specifically designed to provide AWS credits, training, and other resources to help early-stage startups build and scale their businesses on AWS.
+      
+       Here's a brief explanation of the other options:
+      
+      AWS Educate: This program is focused on providing resources and training for students and educators, rather than startups. It's aimed at helping individuals learn and develop cloud computing skills.
+      
+      AWS Marketplace: This is an online store that helps customers find, buy, and quickly deploy software solutions on AWS. It doesn't provide credits, training, or resources specifically for startups.
+      
+      AWS Partner Network (APN): This program is designed for AWS Partners, such as consulting firms, managed service providers, and technology vendors, rather than startups themselves. It provides resources and support to help partners build their AWS practice and services.
+      
+      AWS Activate for Startups, on the other hand, offers a range of benefits specifically tailored for early-stage startups, including:
+      AWS credits: Startups can receive AWS service credits to help offset their AWS usage costs.
+      Training: Access to training resources, including self-paced labs, webinars, and AWS Technical Essentials classroom training.
+      Support: Startups receive AWS Support plan credits and can engage with AWS Solutions Architects.
+      
+      Resources: Access to resources like AWS Design and Architecture reviews, AWS Partner offers, and startup-focused content and events.
+
+
+    </details>
 
   42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
     - A. AWS CodeStar
