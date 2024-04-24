@@ -66,6 +66,17 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
+
+      Explanation: The correct value proposition of the AWS Cloud from the given options is B. No long-term contract is required.
+      One of the key value propositions of the AWS Cloud is its pay-as-you-go pricing model, which means that you don't have to commit to long-term contracts or make significant upfront investments. With AWS, you can provision and use resources on-demand, and you only pay for what you actually consume, allowing you to scale up or down based on your needs without any long-term commitments.
+
+      Explanation of the other options:
+      
+      A. AWS is responsible for security in the AWS Cloud: This statement is partially correct. AWS is responsible for the security of the underlying cloud infrastructure, but customers are responsible for securing their applications, data, and resources running on AWS.
+      
+      C. Provision new servers in days: This option is not a value proposition of AWS Cloud. With AWS, you can provision new servers (EC2 instances) in minutes, not days, allowing for rapid scalability and deployment.
+      
+      D. AWS manages user applications in the AWS Cloud: This statement is incorrect. AWS provides the underlying infrastructure and services, but customers are responsible for managing and maintaining their applications running on AWS.
     </details>
 
 7. A company is migrating an application that is running non-interruptible workloads for a three-year time frame. Which pricing construct would provide the MOST cost-effective solution?
@@ -76,6 +87,18 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+
+      Explanation: The most cost-effective pricing construct for migrating an application with non-interruptible workloads for a three-year time frame would be D. Amazon EC2 Reserved Instances.
+      
+      Amazon EC2 Reserved Instances provide a significant discount compared to On-Demand Instance pricing, making them cost-effective for long-term, steady-state usage. Here's why Reserved Instances are the best option in this scenario:
+      
+      A. Amazon EC2 Spot Instances: Spot Instances are suitable for workloads that can be interrupted or have flexible start and end times. They are not recommended for non-interruptible workloads or long-term, consistent usage due to the possibility of instance termination when the Spot price exceeds your maximum bid price.
+      
+      B. Amazon EC2 Dedicated Instances: Dedicated Instances are physically isolated EC2 instances, primarily used for compliance requirements or to address specific regulatory concerns. They are generally more expensive than other instance types and may not be the most cost-effective option for this use case.
+      
+      C. Amazon EC2 On-Demand Instances: On-Demand Instances are suitable for short-term, unpredictable workloads or when you don't have a long-term commitment. However, for a three-year time frame with non-interruptible workloads, On-Demand Instances can be more expensive compared to Reserved Instances.
+      
+      D. Amazon EC2 Reserved Instances: Reserved Instances are the most cost-effective option for long-term, steady-state usage. By purchasing Reserved Instances with a 3-year term, you can benefit from significant discounts (up to 72% compared to On-Demand pricing) for a consistent, non-interruptible workload. This commitment allows you to optimize costs while meeting your application's requirements.
     </details>
 
 8. Which AWS service is used to track record, and audit configuration changes made to AWS resources?
@@ -148,6 +171,18 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+
+      Explanation: The correct answer is C. AWS Storage Gateway.
+      
+      AWS Storage Gateway is a hybrid cloud storage service that provides on-premises applications with seamless access to virtually unlimited cloud storage from Amazon Simple Storage Service (Amazon S3). It enables organizations to integrate on-premises IT environments with the AWS Cloud for storage and data transfer.
+      
+      Amazon Glacier is a secure, durable, and low-cost cloud storage service for data archiving and long-term backup. It is designed for infrequently accessed data and does not provide seamless integration with on-premises applications.
+
+      AWS Snowball is a petabyte-scale data transfer service that allows organizations to transfer large amounts of data into and out of the AWS Cloud using physical storage devices. It is primarily used for large-scale data migrations and is not designed for seamless integration with on-premises applications.
+      
+      Amazon EBS provides block-level storage volumes for use with Amazon EC2 instances. It is designed for low-latency, high-throughput workloads and does not provide a hybrid storage solution for on-premises applications.
+      
+      AWS Storage Gateway acts as a bridge between on-premises applications and AWS Cloud storage services like Amazon S3, allowing applications to utilize cloud storage seamlessly while keeping data on-premises or caching data locally for low-latency access. It supports various storage configurations, including file gateways, volume gateways, and tape gateways, to meet different requirements.
     </details>
 
 15. Where should a company go to search software listings from independent software vendors to find, test, buy and deploy software that runs on AWS?
