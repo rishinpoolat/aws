@@ -1,5 +1,7 @@
 # aws
-These are complete notes for AWS Cloud Practitioner. 
+- Complete notes separated by Modules.
 
-Each modules are separated into separate doc files.
+- Important Questions
+
+- Practice Exams
 
