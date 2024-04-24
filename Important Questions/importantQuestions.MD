@@ -637,3 +637,129 @@ Click on the **Answer** button for the correct answer and its explanation.
       Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization.
 
     </details>
+
+40. A corporation with multiple departments each having their own AWS account wants to implement a solution to customize the billing data to match their specific showback or chargeback buisness logic. They wish to group accounts with similar financial owners and generate a distinct cost and usage report(CUR) for each group. Which AWS service should they use to meet these requirements
+    - A. AWS Budgets
+    - B. Amazon Cost Explorer.
+    - C. AWS Billing and Cost Management.
+    - D. AWS Billing Conductor
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation:AWS Billing Conductor is a service that allows you to customize your billing data to match your specific business requirements for showback or chargeback. It enables you to group multiple AWS accounts into billing groups and generate distinct Cost and Usage Reports (CUR) for each billing group.
+      
+      AWS Budgets: This service allows you to set custom budgets and receive alerts when your usage or costs exceed (or are forecasted to exceed) the budgeted amount. However, it does not provide the ability to customize billing data or generate distinct reports for account groups.
+      
+      Amazon Cost Explorer: This is a tool that allows you to view and analyze your AWS cost and usage data. While it provides visualizations and data filtering capabilities, it does not offer the ability to customize billing data or generate distinct reports for account groups.
+      
+      AWS Billing and Cost Management: This is a collection of services that provide billing and cost management capabilities, including Cost Explorer, Budgets, and Billing Conductor. However, it does not directly provide the ability to customize billing data or generate distinct reports for account groups.
+
+
+    </details>
+
+41. A newly founded tech startup is looking for a program that offers AWS credits , training, and other resources to help them build their buisness. Which AWS service is best fit for them?
+    - A. AWS Educate
+    - B. AWS Activate for startups.
+    - C. AWS Marketplace.
+    - D. AWS Partner Network.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:AWS Activate for Startups is a program specifically designed to provide AWS credits, training, and other resources to help early-stage startups build and scale their businesses on AWS.
+      
+       Here's a brief explanation of the other options:
+      
+      AWS Educate: This program is focused on providing resources and training for students and educators, rather than startups. It's aimed at helping individuals learn and develop cloud computing skills.
+      
+      AWS Marketplace: This is an online store that helps customers find, buy, and quickly deploy software solutions on AWS. It doesn't provide credits, training, or resources specifically for startups.
+      
+      AWS Partner Network (APN): This program is designed for AWS Partners, such as consulting firms, managed service providers, and technology vendors, rather than startups themselves. It provides resources and support to help partners build their AWS practice and services.
+      
+      AWS Activate for Startups, on the other hand, offers a range of benefits specifically tailored for early-stage startups, including:
+      AWS credits: Startups can receive AWS service credits to help offset their AWS usage costs.
+      Training: Access to training resources, including self-paced labs, webinars, and AWS Technical Essentials classroom training.
+      Support: Startups receive AWS Support plan credits and can engage with AWS Solutions Architects.
+      
+      Resources: Access to resources like AWS Design and Architecture reviews, AWS Partner offers, and startup-focused content and events.
+
+
+    </details>
+
+  42. Which AWS service will help you to deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services?
+    - A. AWS CodeStar
+    - B. AWS AppConfig.
+    - C. AWS CodeCommit.
+    - D. AWS Cloudformation.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: B
+
+      Explanation:AWS AppConfig is a service that helps you deploy application configuration changes with features like validation checks and timely deployment while avoiding the need to write additional code or restart application services
+      
+      Here's a brief explanation of the other options:
+      
+      CodeStar is a cloud-based service that provides project management capabilities for software development projects. It helps teams quickly set up and manage their entire continuous delivery toolchain, but it does not specifically handle application configuration changes without code modifications or service restarts.
+      
+      CodeCommit is a version control service that hosts private Git repositories. It is used for storing and managing code, but it does not directly handle application configuration changes or deployments.
+      
+      CloudFormation is an infrastructure as code service that helps you provision and manage AWS resources and applications in an automated and repeatable manner. While it can be used to manage application configurations, it does not provide the specific features of validation checks and timely deployment without code changes or service restarts.
+      
+      AWS AppConfig, on the other hand, is designed specifically for managing application configurations. It allows you to create, manage, and deploy configuration data for your applications, including feature flags, environment variables, and service configurations. AppConfig provides features like:
+      
+      Validation checks: You can define rules to validate configuration data before deployment.
+      Timely deployment: You can control the deployment schedule and roll out configurations gradually.
+      No code changes or service restarts: AppConfig allows you to update configurations without modifying application code or restarting services.
+
+    </details>
+
+  43. Which AWS service uses machine learning to enable natural language search capabilities in your application making it easier to find the precise answer to your question within a large set of documents?
+    - A. Amazon Comprehend
+    - B. Amazon Lex.
+    - C. Amazon Kendra.
+    - D. Amazon ElastiSearch
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation:Amazon Kendra is an intelligent search service powered by machine learning, designed to address the challenge of finding information scattered across unstructured data. It uses natural language search capabilities to quickly return accurate answers from unstructured content, providing a consumer-like search experience within the enterprise. Kendra's machine learning models work continuously to understand the content of documents and the relationships between them, delivering precise answers instead of a random list of links. This service allows employees to run their searches by asking questions the same way they would as if asking another person, highlighting the passage in the source document where it found the answer, along with links back to relevant sites
+
+    </details>
+
+  44. Which AWS service uses machine learning to analyze historical usage patterns and identify the optimal AWS resources for reducing costs and improving perfomance for your workloads?
+    - A. AWS Budgets
+    - B. AWS CostExplorer.
+    - C. AWS Trusted Advisor.
+    - D. AWS Compute Optimiser
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: D
+
+      Explanation:AWS Compute Optimizer leverages machine learning to analyze historical utilization metrics, such as CPU, memory, and network I/O, to recommend optimal AWS resources for your workloads. This service helps in reducing costs and improving performance by providing recommendations for Amazon EC2 instances, Amazon Elastic Block Store (EBS) volumes, AWS Lambda functions, and more.
+
+    </details>
+  
+  44. A new e commerce company is looking for an AWS service to send transactional emails such as order confirmation and password resets. Which AWS service to be used?
+    - A. Amazon Simple Email Service(SES)
+    - B. Amazon Simple Notification Service(SNS).
+    - C. Amazon Simple Queue Service(SQS).
+    - D. Amazon EC2.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: A
+
+    </details>
+
+  45. Which AWS service is designed to minimise downtime and data loss with fast reliable recovery of on-premises and cloud based applications using affordable storage and minimal compute?
+    - A. AWS Backup
+    - B. Amazon RDS.
+    - C. AWS Elastic Disaster Recovery.
+    - D. Amazon S3 Glacier.
+
+    <details markdown=1><summary markdown='span'>Answer</summary>
+      Correct Answer: C
+
+      Explanation: AWS Elastic Disaster Recovery (AWS DRS) is a service that enables organizations to replicate on-premises or cloud-based applications to AWS, ensuring that they can quickly recover operations after unexpected events such as software issues or data center hardware failures. It provides Recovery Point Objectives (RPOs) of seconds and Recovery Time Objectives (RTOs) of minutes, making it a scalable and cost-effective solution for disaster recovery. AWS DRS allows for the replication of servers to AWS, enabling recovery within minutes at their most up-to-date state or from a previous point in time. This service is designed to increase IT resilience and meet compliance requirements by converting cloud-based applications to run natively on AWS
+
+    </details>
