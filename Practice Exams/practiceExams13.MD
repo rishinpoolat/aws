@@ -20,7 +20,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
+2. Which service stores objects, provides real-time access to those objects, and offers versioning and lifecycle capabilities?
     - A. Amazon Glacier
     - B. AWS Storage Gateway
     - C. Amazon S3
@@ -34,7 +34,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area ?
+3. What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area ?
     - A. AWS Enterprise Support
     - B. AWS Solutions Architects
     - C. AWS Professional Services
@@ -48,7 +48,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     </details>
 
-1. A customer would like to design and build a new workload on AWS Cloud but does not have the AWS- related software technical expertise in-hous. <br/>Which of the following AWS programs can a customer take advantage of to achieve that outcome?
+4. A customer would like to design and build a new workload on AWS Cloud but does not have the AWS- related software technical expertise in-house. Which of the following AWS programs can a customer take advantage of to achieve that outcome?
     - A. AWS Partner Network Technology Partners
     - B. AWS Marketplace
     - C. AWS Partner Network Consulting Partners
@@ -57,6 +57,16 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
+
+    Explanation:AWS Partner Network (APN) Consulting Partners are professional services firms that specialize in AWS services and solutions. These partners have demonstrated expertise and proven customer success in designing, architecting, building, migrating, and managing workloads on the AWS Cloud.
+    
+    APN Consulting Partners can provide the following services to customers:
+    1. AWS Cloud Advisory Services: Provide guidance on AWS Cloud adoption strategies, architectural design, and best practices.
+    2. Cloud Migration Services: Assist with the migration of on-premises applications and data to the AWS Cloud.
+    3. Cloud Solution Deployment: Design, build, and deploy custom cloud solutions tailored to the customer's requirements
+    4. Cloud Managed Services: Provide ongoing management, monitoring, and optimization of the customer's AWS Cloud environment.
+
+
 
     </details>
 
