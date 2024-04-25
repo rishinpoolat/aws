@@ -214,7 +214,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: D
+    Correct Answer: C
 
     </details>
 
@@ -228,8 +228,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/about-aws/global-infrastructure/regions_az/#Region_Maps_and_Edge_Networks>
-
     </details>
 
 16. Which AWS tools assist with estimating costs? (Select three.)
@@ -241,9 +239,8 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BCD
+    Correct Answer: B, C, D
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>
 
     </details>
 
@@ -256,9 +253,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
-
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
+    Correct Answer: A, D
 
     </details>
 
@@ -271,8 +266,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/>
+    Explanation: 
 
     </details>
 
@@ -285,8 +279,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/introduction-to-aws-cloud-economics-final.pdf> (10)
 
     </details>
 
@@ -312,8 +304,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/blogs/security/how-to-restrict-amazon-s3-bucket-access-to-a-specific-iam-role/>
-
     </details>
 
 22. Which of the following security-related actions are available at no cost?
@@ -337,8 +327,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/>
 
     </details>
 
@@ -364,8 +352,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/elasticloadbalancing/>
-
     </details>
 
 26. Where are AWS compliance documents, such as an SOC 1 report, located?
@@ -378,8 +364,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/compliance/soc-faqs/>
-
     </details>
 
 27. Under the AWS shared responsibility model, which of the following activities are the customer's responsibility? (Select TWO.)
@@ -391,9 +375,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
-
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Correct Answer: B, D
 
     </details>
 
@@ -419,8 +401,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
-
     </details>
 
 30. AWS supports which of the following methods to add security to Identity and Access Management (IAM) users? (Select TWO.)
@@ -432,7 +412,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D, E
 
     </details>
 
@@ -445,7 +425,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     </details>
 
@@ -461,7 +441,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Explanation:
     - In the main RDS page though, Lower administrative burden is listed as part of the benefits.
-    - <https://aws.amazon.com/rds/>
 
     </details>
 
@@ -475,8 +454,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/rds/aurora/serverless/>
-
     </details>
 
 34. Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
@@ -488,8 +465,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html>
 
     </details>
 
@@ -503,7 +478,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -553,8 +527,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html>
-
     </details>
 
 40. Which of the following is a fast and reliable NoSQL database service?
@@ -566,8 +538,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/dynamodb/>
 
     </details>
 
@@ -581,8 +551,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/blogs/enterprise-strategy/risk-is-lack-of-agility/>
-
     </details>
 
 42. Which service should a customer use to consolidate and centrally manage multiple AWS accounts?
@@ -595,8 +563,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/organizations/>
-
     </details>
 
 43. What approach to transcoding a large number of individual video files adheres to AWS architecture principles?
@@ -608,8 +574,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/solutions/case-studies/encoding/>
 
     </details>
 
@@ -635,9 +599,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation:
-    - Global Reach will support an international company using Cloud-Front.
-
     </details>
 
 46. Which of the following is the customer's responsibility under the AWS shared responsibility model?
@@ -649,8 +610,6 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -664,8 +623,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/>
-
     </details>
 
 48. Which of the following are features of Amazon CloudWatch Logs? (Select TWO.)
@@ -677,7 +634,25 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D, E
+
+    Explanation: D. Real-time monitoring:
+    Amazon CloudWatch Logs allows you to monitor and analyze log data in real-time. You can view and search log data as it is being ingested, enabling you to quickly identify and respond to operational issues or security events.
+    E. Adjustable retention:
+    CloudWatch Logs allows you to adjust the retention period for your log data. By default, log data is kept indefinitely, but you can configure the retention period to be anywhere from one day to indefinite, based on your specific requirements and cost considerations.
+    
+    The other options are incorrect:
+
+    A. Summaries by Amazon Simple Notification Service (Amazon SNS):
+    CloudWatch Logs does not provide summaries through Amazon SNS. However, you can configure CloudWatch Logs to send notification messages to an Amazon SNS topic when specific log events occur or when metric filters match certain patterns.
+
+    B. Free Amazon Elasticsearch Service analytics:
+    CloudWatch Logs does not provide free Amazon Elasticsearch Service analytics. However, you can subscribe CloudWatch Logs to an Amazon Kinesis Data Firehose delivery stream and then deliver the log data to Amazon Elasticsearch Service for advanced analytics and indexing (this incurs additional charges).
+
+    C. Provided at no charge:
+    CloudWatch Logs is not provided at no charge. There are charges associated with ingesting, storing, and analyzing log data using CloudWatch Logs. The pricing is based on several factors, such as the volume of log data ingested, the amount of data stored, and the use of additional features like metric filters and data scans.
+
+
 
     </details>
 
@@ -691,7 +666,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/getting-started/tutorials/get-a-domain/>
 
     </details>
 
@@ -704,7 +678,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 
