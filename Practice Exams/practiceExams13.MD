@@ -44,7 +44,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/professional-services/>
+    Explanation: AWS Professional Services consultants work directly with customers to provide consulting services, technical guidance, and hands-on support to help them design, architect, build, migrate, and optimize their cloud solutions on AWS. These engagements are typically paid and tailored to the customer's specific needs and requirements.
 
     </details>
 
