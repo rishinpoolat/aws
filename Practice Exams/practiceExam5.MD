@@ -2,8 +2,6 @@
 
 Click on the **Answer** button for the correct answer and its explanation.
 
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
 
 1. A company is using EC2 Instances to run their e-commerce site on the AWS platform. If the site becomes unavailable, the company will lose a significant amount of money for each minute the site is unavailable. Which design principle should the company use to minimize the risk of an outage?

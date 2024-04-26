@@ -2,7 +2,6 @@
 
 Click on the **Answer** button for the correct answer and its explanation.
 
-If this practice exam has been helpful to you please share it with others and react to this below.
 
 ---
 
@@ -30,7 +29,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/ec2/spot/>
 
     </details>
 
@@ -68,7 +66,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/redshift/>
 
     </details>
 
@@ -82,8 +79,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/elasticloadbalancing/>
-
     </details>
 
 7. Which of the following are valid ways for a customer to interact with AWS services? (Select TWO.)
@@ -95,7 +90,7 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 
@@ -120,11 +115,17 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
-    Explanation:
-    - <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>
-    - <https://aws.amazon.com/cloudfront/>
+    Explanation:Amazon S3: S3 is a highly scalable and durable object storage service. While it is not primarily designed for low-latency video delivery, it can be used in combination with other services like CloudFront to serve video content with reasonably low latency.
+
+    Amazon CloudFront: CloudFront is a content delivery network (CDN) service offered by AWS. It is specifically designed to deliver data, including video content, with low latency and high transfer speeds by caching and distributing content from edge locations closer to users around the world.
+
+    The other options are not suitable for serving large amounts of online video content with low latency:
+
+    AWS Storage Gateway is a service that enables hybrid cloud storage by integrating on-premises environments with cloud-based storage.
+    Amazon Elastic File System (EFS) is a scalable file system for use with AWS cloud services and resources.
+    Amazon Glacier is a low-cost storage service designed for archiving and long-term backup, not for serving frequently accessed content like videos.
 
     </details>
 
@@ -138,8 +139,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/enterprise/hybrid/>
-
     </details>
 
 11. What is the benefit of using AWS managed services, such as Amazon ElastiCache and Amazon Relational Database Service (Amazon RDS)?
@@ -150,13 +149,8 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
+    Correct Answer: C
 
-    Explanation:
-    - <https://aws.amazon.com/rds/instance-types/>
-    - Amazon RDS provides a selection of instance types optimized to fit different relational database use cases.
-    - Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate mix of resources for your database.
-    - Each instance type includes several instance sizes, allowing you to scale your database to the requirements of your target workload.
 
     </details>
 
@@ -200,10 +194,11 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     Explanation:
     - Penetration testing is not correct, because it can be done by customers on their own resources.
+    - AWS does offer multi-factor authentication (MFA) as an additional security layer, but it does not provide physical tokens specifically. MFA can be enabled using virtual MFA devices or hardware tokens from third-party providers.
 
     </details>
 
@@ -255,10 +250,6 @@ If this practice exam has been helpful to you please share it with others and re
 
     Correct Answer: D
 
-    Explanation:
-    - "Provisioning for peaks" is a characteristic of a traditional computing environment, per the AWS Best Practices: "you provision capacity based on an estimate of a theoretical maximum peak."
-    - <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
-
     </details>
 
 18. Which AWS service should be used for long-term, low-cost storage of data backups?
@@ -276,8 +267,6 @@ If this practice exam has been helpful to you please share it with others and re
     - The S3 Glacier storage class is ideal for archives where data is regularly retrieved and some of the data may be needed in minutes.
     - Amazon RDS is a relational database service that hosts databases. It helps you create and manage databases.
     - Amazon Snowball is a petabyte-scale data transfer service that provides cost efficient data transfer to AWS from tamper proof physical devices. Similarly, Elastic block storage offers persistent block storage volumes for EC2 instances.
-
-    Reference: <https://aws.amazon.com/backup-restore/services/>
 
     </details>
 
@@ -299,7 +288,6 @@ If this practice exam has been helpful to you please share it with others and re
     - AWS customers retain control and ownership of their data
     - The AWS network provides significant protection against traditional network security issues and the customer can implement further protection
 
-    Reference: <https://www.whizlabs.com/blog/aws-security-shared-responsibility/>
 
     </details>
 
@@ -316,7 +304,6 @@ If this practice exam has been helpful to you please share it with others and re
     Explanation:
     - AWS Marketplace is a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on AWS.
 
-    Reference: <https://aws.amazon.com>
 
     </details>
 
@@ -334,7 +321,6 @@ If this practice exam has been helpful to you please share it with others and re
     - Developer and IT staff productivity accounted for nearly 30% of overall financial benefits.
     - The remaining benefits were driven by the flexibility and agility of Amazon cloud infrastructure services, which make it easier to trial new business models, support revenue-generating applications, and provide more reliable services to end users.
 
-    Reference: <https://media.amazonwebservices.com/IDC_Business_Value_of_AWS_Accelerates_Over_time.pdf>
 
     </details>
 

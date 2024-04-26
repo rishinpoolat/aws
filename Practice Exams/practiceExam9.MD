@@ -2,8 +2,6 @@
 
 Click on the **Answer** button for the correct answer and its explanation.
 
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
 
 1. An administrator needs to rapidly deploy a popular IT solution and start using it immediately. Where can the administrator find assistance?

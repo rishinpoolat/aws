@@ -2,8 +2,6 @@
 
 Click on the **Answer** button for the correct answer and its explanation.
 
-If this practice exam has been helpful to you please share it with others and react to this below.
-
 ---
 
 1. AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
