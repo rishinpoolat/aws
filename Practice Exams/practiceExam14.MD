@@ -356,7 +356,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - CloudFormation allows you to use a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
     - This file serves as the single source of truth for your cloud environment.
 
-    Reference: <https://aws.amazon.com/cloudformation/>
 
     </details>
 
@@ -376,8 +375,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines.
     - This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.
 
-    Reference: <https://aws.amazon.com/config/>
-
     </details>
 
 25. What is Amazon CloudWatch?
@@ -394,8 +391,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon CloudWatch is basically a metrics repository.
     - An AWS service -- such as Amazon EC2 -- puts metrics into the repository, and you retrieve statistics based on those metrics.
     - If you put your own custom metrics into the repository, you can retrieve statistics on these metrics as well.
-
-    Reference: <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/> cloudwatch_architecture.html
 
     </details>
 
@@ -429,11 +424,19 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
-    Explanation:
-    - <https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-on-premises.html>
-    - <https://aws.amazon.com/blogs/aws/opsworks-on-prem-and-existing-instances/>
+    AWS CodeDeploy is a deployment service that automates the process of deploying applications to Amazon EC2 instances, on-premises instances, or serverless Lambda functions. It supports deploying applications to on-premises servers running in a corporate data center or in a hybrid environment.
+
+    AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. It can be used to automate the deployment of applications, both on AWS resources (EC2 instances) and on-premises servers running in a corporate data center or in a hybrid environment.
+
+    The other options are not suitable for deploying applications to on-premises servers:
+
+    Elastic Beanstalk is a service for deploying and scaling web applications on AWS resources (EC2 instances, load balancers, etc.). It does not support deploying applications directly to on-premises servers.
+
+    AWS Batch is a batch computing service that efficiently runs batch jobs on AWS resources. It does not handle application deployments to on-premises servers.
+
+    AWS X-Ray is a service for tracing and analyzing application performance on AWS resources. It does not have capabilities for deploying applications to on-premises servers.
 
     </details>
 
@@ -447,10 +450,19 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation:
-    - In the new model, the Spot prices are more predictable, updated less frequently, and are determined by supply and demand for Amazon EC2 spare capacity, not bid prices.
+    Explanation:Spot Instances are an Amazon EC2 pricing model that allows customers to bid on spare EC2 computing capacity. The spot price for an instance type fluctuates based on the supply and demand for that instance type in a specific AWS Availability Zone.
 
-    Reference: <https://aws.amazon.com/blogs/compute/new-amazon-ec2-spot-pricing/>
+    When the demand for an instance type is high, the spot price will increase accordingly. Conversely, when the demand is low, the spot price will decrease, allowing customers to leverage these instances at a significantly lower cost compared to On-Demand or Reserved Instances.
+
+    However, it's important to note that Spot Instances can be interrupted (terminated) by AWS when the spot price exceeds the customer's bid price or when there is a shortage of spare capacity.
+
+    Here's a brief explanation of the other options:
+
+    A. On-Demand Instances: This pricing model allows customers to pay for compute capacity by the hour with no long-term commitments. The price for On-Demand Instances is fixed and does not adjust based on supply and demand.
+
+    B. Reserved Instances: With Reserved Instances, customers can purchase capacity reservations for a specific instance type in a specific Availability Zone for a discounted hourly rate compared to On-Demand pricing. The pricing for Reserved Instances is fixed and does not fluctuate based on supply and demand.
+
+    D. Convertible Reserved Instances: This is a type of Reserved Instance that provides the ability to change the instance type, operating system, or tenancy of the reservation. However, like other Reserved Instances, the pricing is fixed and does not adjust based on supply and demand.
 
     </details>
 
@@ -463,7 +475,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     </details>
 
@@ -477,7 +489,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/premiumsupport/plans/>
 
     </details>
 
@@ -496,8 +507,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - It provides on-demand access to AWS's security and compliance reports and select online agreements.
     - The AWS SOC 2 report is particularly helpful for completing questionnaires because it provides a comprehensive description of the implementation and operating effectiveness of AWS security controls.
     - Another useful document is the Executive Briefing within the AWS FedRAMP Partner Package.
-
-    Reference: <https://aws.amazon.com/compliance/faq/>
 
     </details>
 
@@ -527,7 +536,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - If you have multiple standalone accounts, your charges might decrease if you add the accounts to an organization.
     - AWS combines usage from all accounts in the organization to qualify you for volume pricing discounts.
 
-    Reference: <https://help.nops.io/consolidated-billing>
 
     </details>
 
@@ -544,7 +552,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - AWS customers are welcome to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for 8 services.
 
-    Reference: <https://aws.amazon.com/security/penetration-testing/>
 
     </details>
 
@@ -566,7 +573,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Determine whether you want to run in multiple locations, utilize static IP endpoints, or attach persistent block storage to your instances.
     - Pay only for the resources that you actually consume, like instance-hours or data transfer.
 
-    Reference: <https://aws.amazon.com/ec2/features/>
 
     </details>
 
@@ -586,7 +592,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - That way, you can make changes for everyone in a group in just one place. As people move around in your company, you can
     simply change what IAM group their IAM user belongs to.
 
-    Reference: <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
 
     </details>
 
@@ -604,7 +609,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - The Cost & Usage Report is your one-stop-shop for accessing the most granular data about your AWS costs and usage.
     - You can also load your cost and usage information into Amazon Athena, Amazon Redshift, AWS QuickSight, or a tool of your choice.
 
-    Reference: <https://aws.amazon.com/aws-cost-management/>
 
     </details>
 
@@ -617,7 +621,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     </details>
 
@@ -637,7 +641,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - This approach decouples the two components and introduces additional resiliency.
     - So, for example, if a process that is reading messages from the queue fails, messages can still be added to the queue to be processed when the system recovers.
 
-    Reference: <https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
 
     </details>
 
@@ -650,14 +653,13 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     Explanation:
     - If you decided to create service accounts (that is, accounts used for programmatic access by applications running outside of the AWS environment) and generate access keys for them, you should create a dedicated service account for each use case.
     - This will allow you to restrict the associated policy to only the permissions needed for the particular use case, limiting the blast radius if the credentials are compromised.
     - For example, if a monitoring tool and a release management tool both require access to your AWS environment, create two separate service accounts with two separate policies that define the minimum set of permissions for each tool.
 
-    Reference: <https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/>
 
     </details>
 
@@ -676,7 +678,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - These include moving tape backups to the cloud, reducing on-premises storage with cloud-backed file shares, providing low latency access to data in AWS for on- premises applications, as well as various migration, archiving,
     processing, and disaster recovery use cases.
 
-    Reference: <https://aws.amazon.com/storagegateway/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc>
+
 
     </details>
 
@@ -693,7 +695,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - The customer is responsible for managing, support, patching and control of the guest operating system and AWS services provided like EC2.
 
-    Reference: <https://www.whizlabs.com/blog/aws-security-shared-responsibility/>
 
     </details>
 
@@ -711,8 +712,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Data Center resilience is practiced through Availability Zones across data centers that reduce the impact of failures.
     - Fault isolation improvement can be made to traditional horizontal scaling by sharding (a method of grouping instances into groups called shards, instead of sending the traffic from all users to every node like in the traditional IT structure.)
 
-    Reference: <https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
-
     </details>
 
 44. Which AWS support plan includes a dedicated Technical Account Manager?
@@ -728,7 +727,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - The enterprise support plans supports technical account manager. Developer and business support plans are devoid of this facility.
 
-    Reference: <https://aws.amazon.com/premiumsupport/plans/>
 
     </details>
 
@@ -758,7 +756,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - ElastiCache can serve frequently requested items at sub- millisecond response times, and enables you to easily scale for higher loads without growing the costlier backend databases.
     - Database query results caching, persistent session caching, and full-page caching are all popular examples of caching with ElastiCache for Redis.
 
-    Reference: <https://aws.amazon.com/products/databases/real-time-apps-elasticache-for-redis/>
 
     </details>
 
@@ -794,7 +791,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon offer both digital and classroom training including private on-site training. You can choose to learn online at your own pace or learn from an accredited AWS instructor.
     - Whether you're just starting out, building on existing IT skills, or sharpening your cloud knowledge, AWS Training and Certification can help you be more effective and do more in the cloud.
 
-    Reference: <https://aws.amazon.com/training/course-descriptions/>
 
     </details>
 
@@ -807,7 +803,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: C, D
 
     Explanation:
     - Amazon Virtual Private Cloud (Amazon VPC) lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define.
@@ -817,7 +813,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - For example, you can create a public-facing subnet for your web servers that has access to the Internet, and place your backend systems such as databases or application servers in a private-facing subnet with no Internet access.
     - You can leverage multiple layers of security, including security groups and network access control lists, to help control access to Amazon EC2 instances in each subnet.
 
-    Reference: <https://aws.amazon.com/vpc/>
 
     </details>
 
@@ -831,7 +826,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
 
     </details>
 
