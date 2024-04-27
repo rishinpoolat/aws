@@ -26,14 +26,15 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-      Correct Answer: CE
+      Correct Answer: C, E
 
-      Explanation:
-      - AWS offers a solution that uses AWS CloudTrail to log account activity, Amazon Kinesis to compute and stream metrics in real-time, and Amazon DynamoDB to durably store the computed data.
-      - Metrics are calculated for create, modify, and delete API calls for more than 60 supported AWS services.
-      - The solution also features a dashboard that visualizes your account activity in real-time.
-
-      Reference: <https://aws.amazon.com/solutions/real-time-insights-account-activity/>
+      Explanation:AWS CloudTrail is a service that records AWS API calls for your account and delivers log files to an Amazon S3 bucket that you specify. These log files provide a record of the requests made to the AWS service, including the identity of the API caller, the time of the call, the request parameters, and the response elements returned by the service.
+      Amazon CloudWatch is a monitoring and observability service that collects and visualizes logs, metrics, and events from various AWS services, including AWS CloudTrail logs. CloudWatch allows you to monitor your AWS resources and applications in real-time and set alarms for specific metrics or log events, enabling you to take automated actions or be notified when certain conditions are met.
+      The other options are not primarily used for gathering information about AWS account activity:
+      
+      Amazon CloudFront is a content delivery network service for distributing data, videos, applications, and APIs to users globally with low latency.
+      AWS Cloud9 is a cloud-based integrated development environment (IDE) that allows you to write, run, and debug code from any machine with just a browser.
+      AWS CloudHSM is a cloud-based hardware security module that enables you to securely generate, store, and manage encryption keys used for data encryption.
 
     </details>
 
@@ -46,7 +47,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 
@@ -95,8 +96,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/premiumsupport/plans/>
-
     </details>
 
 7. Which AWS service can serve a static website?
@@ -112,8 +111,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - You can host a static website on Amazon Simple Storage Service (Amazon S3). On a static website, individual webpages include static content.
     - They might also contain client-side scripts. By contrast, a dynamic website relies on server-side processing, including server-side scripts such as PHP, JSP, or ASP.NET. Amazon S3 does not support server-side scripting.
-
-    Reference: <https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html>
 
     </details>
 
@@ -138,13 +135,11 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
     - CloudFront delivers your content through a worldwide network of data centers called edge locations.
     When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.
-
-    Reference: <https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html>
 
     </details>
 
@@ -162,8 +157,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - To allow users to perform S3 actions on the bucket from the VPC endpoints or IP addresses, you must explicitly grant those user-level permissions.
     - You can grant user-level permissions on either an AWS Identity and Access Management (IAM) policy or another statement in the bucket policy.
 
-    Reference: <https://aws.amazon.com/premiumsupport/knowledge-center/block-s3-traffic-vpc-ip/>
-
     </details>
 
 11. A solution that is able to support growth in users, traffic, or data size with no drop in performance aligns with which cloud architecture principle?
@@ -176,8 +169,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
-
     </details>
 
 12. Which of the following tasks is the responsibility of AWS?
@@ -189,12 +180,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation:
-    - In EC2, the AWS IaaS offering, everything from the hypervisor layer down is AWS's responsibility.
-    - A customer's poorly coded applications, misconfigured operating systems, or insecure firewall settings will not affect the hypervisor, it will only affect the customer's virtual machines running on that hypervisor.
-
-    Reference: <https://www.mindpointgroup.com/blog/the-aws-shared-responsibility-model-part-1-security-in>- the-cloud/
 
     </details>
 
@@ -213,8 +198,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - If a Capacity Reservation is fully utilized, you only pay for instance usage and nothing towards the Capacity Reservation
     - If a Capacity Reservation is partially utilized, you pay for the instance usage and for the unused portion of the Capacity Reservation.
 
-    Reference: <https://aws.amazon.com/ec2/pricing/on-demand/>
-
     </details>
 
 14. An administrator needs to rapidly deploy a popular IT solution and start using it immediately. <br/> Where can the administrator find assistance?
@@ -231,7 +214,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Quick Starts are built by AWS solutions architects and partners to help you deploy popular technologies on AWS, based on AWS best practices for security and high availability.
     - These accelerators reduce hundreds of manual procedures into just a few steps, so you can build your production environment quickly and start using it immediately.
 
-    Reference: <https://aws.amazon.com/quickstart/?quickstart-all.sort-by=item.additionalFields.updateDate&quickstart-all.sort-order=desc>
 
     </details>
 
@@ -309,7 +291,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
 
@@ -351,9 +333,15 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/>
+    Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is a global service, meaning that it is not tied to any specific AWS region. Route 53 manages the mapping of domain names to IP addresses and can route end users to the closest available resource, providing low-latency access to applications and services.
+    Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. CloudFront is also a global service, with edge locations distributed across multiple regions and countries, allowing it to cache and serve content from the location closest to the end user.
+    The other options are regional services:
+    B. Amazon Elastic Compute Cloud (EC2) is a regional service that provides scalable computing capacity in the AWS Cloud, allowing you to launch and manage virtual servers (instances) in specific regions.
+    C. Amazon Simple Storage Service (S3) is an object storage service that is regional, although it allows you to replicate data across multiple regions for increased durability and availability.
+    E. Amazon DynamoDB is a fully managed NoSQL database service that is regional, with data stored and replicated within a specific AWS region.
 
     </details>
 
@@ -386,7 +374,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
@@ -425,7 +413,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 
