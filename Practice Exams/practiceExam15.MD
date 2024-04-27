@@ -535,6 +535,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     Correct Answer: C
     Explanation: When a company moves from an on-premises data center to the AWS Cloud, one of the key financial differences is the shift from upfront capital expenditures (capex) to variable operational expenditures (opex).
     In an on-premises data center model, the company typically needs to invest a significant upfront capital expense to purchase and maintain physical hardware, such as servers, storage devices, network equipment, and data center facilities. These capital expenditures represent a fixed cost that the company needs to bear regardless of the actual usage of the infrastructure.
+    
     On the other hand, in the AWS Cloud model, the company pays for the resources they consume on a variable, pay-as-you-go basis. Instead of purchasing physical hardware, the company rents virtual resources, such as EC2 instances, EBS volumes, and other AWS services. This model eliminates the need for large upfront capital investments and allows the company to pay only for what they use, scaling resources up or down based on their actual needs.
     By moving to the AWS Cloud, the company transitions from a capex-heavy model, where they incur significant upfront costs, to an opex model, where they pay variable operational expenses based on their cloud resource usage.
 
@@ -621,7 +622,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     Explanation:
 
@@ -683,7 +684,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A, B
 
     Explanation: <https://d0.awsstatic.com/whitepapers/compliance/AWS_Risk_and_Compliance_Whitepaper.pdf>
 
@@ -706,7 +707,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.
     - Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
 
-    Reference: <https://aws.amazon.com/artifact/>
 
     </details>
 
@@ -720,8 +720,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 43. When comparing AWS Cloud with on-premises Total Cost of Ownership, which expenses must be considered? (Choose two.)
@@ -733,9 +731,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
-
-    Explanation: <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>
+    Correct Answer: C, D
 
     </details>
 
@@ -748,7 +744,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     Explanation:
 
@@ -769,7 +765,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
+    Correct Answer: A, B
 
     Explanation: <https://wa.aws.amazon.com/wat.concept.elasticity.en.html>
 
@@ -807,7 +803,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     </details>
 
