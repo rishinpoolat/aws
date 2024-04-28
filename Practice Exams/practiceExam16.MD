@@ -155,7 +155,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
     - Tags are key-value pairs that allow you to organize your AWS resources into groups. You can use tags to:
@@ -232,7 +232,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation:
     - With the basic Cloud infrastructure secured and maintained by AWS, the responsibility for what goes into the cloud falls on you. This covers both client and server side encryption and network traffic protection, security of the operating system, network, and firewall configuration, followed by application security and identity and access management.
@@ -376,7 +376,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     Explanation:
     - Your root account should always be protected by Multi-Factor Authentication (MFA).
@@ -416,7 +416,11 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>
+    Explanation: When you create a budget, you can configure the alert threshold and specify the email addresses or Amazon SNS topics to receive notifications when the threshold is breached or forecasted to be breached. This allows you to proactively monitor and control your AWS costs, helping you avoid unexpected charges or overspending.
+    The other options are related to cost management but do not provide the capability to set up alerts based on a specific dollar amount:
+    A. AWS Cost and Usage Reports: Provides detailed billing reports but does not offer alert functionality.
+    C. AWS Cost Explorer: A tool for visualizing and analyzing your AWS costs but does not offer alert functionality.
+    D. AWS Trusted Advisor: Provides recommendations for optimizing your AWS resources but does not offer budget alerts.
 
     </details>
 
