@@ -674,7 +674,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     Explanation: <https://d0.awsstatic.com/whitepapers/aws_pricing_overview.pdf>
 
@@ -689,7 +689,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
+    Correct Answer: C, E
 
     Explanation:
     - Elastic Load Balancing supports the following types of load balancers: Application Load Balancers, Network Load Balancers, and Classic Load Balancers.
@@ -866,7 +866,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation: <https://aws.amazon.com/shield/>
 
@@ -882,7 +882,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: ACE
+    Correct Answer: A, C, E
 
     Explanation:
     <https://aws.amazon.com/blogs/aws/the-new-aws-tco-calculator/>
