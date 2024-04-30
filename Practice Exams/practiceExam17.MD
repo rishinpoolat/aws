@@ -384,14 +384,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation:
-    - AWS Direct Connect lets you establish a dedicated network connection between your network and one of the AWS Direct Connect locations.
-    - Using industry standard 802.1q VLANs, this dedicated connection can be partitioned into multiple virtual interfaces.
-    - This allows you to use the same connection to access public resources such as objects stored in Amazon S3 using public IP address space, and private resources such as Amazon EC2 instances running within an Amazon Virtual Private Cloud (VPC) using private IP space, while maintaining network separation between the public and private environments.
-    - Virtual interfaces can be reconfigured at any time to meet your changing needs.
-
-    Reference: <https://aws.amazon.com/directconnect/>
-
     </details>
 
 27. Which services use AWS edge locations? (Choose two.)
@@ -403,9 +395,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation: <https://www.edureka.co/community/600/what-is-an-edge-location-in-aws>
+    Correct Answer: A, C
 
     </details>
 
@@ -423,8 +413,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated, private section of the AWS Cloud to launch resources in a virtual data center in the cloud.
     - Amazon VPC allows you to leverage multiple Availability Zones (AZ) within a region so that you can build greater fault tolerance within your workloads.
     - You have complete control.
-
-    Reference: <https://aws.amazon.com/blogs/publicsector/aws-networking-capabilities-gives-you-choices-for-hybrid-cloud-connectivity-but-which-service-works-best-for-your-use-case/>
 
     </details>
 
@@ -451,9 +439,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
-
-    Explanation: <https://aws.amazon.com/partners/aws-marketplace/>
+    Correct Answer: A, B
 
     </details>
 
@@ -481,9 +467,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
-
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
+    Correct Answer: B, E
 
     </details>
 
@@ -502,8 +486,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Config continuously monitors and records your AWS resource configurations and allows you to automate the evaluation of recorded configurations against desired configurations.
     - With Config, you can review changes in configurations and relationships between AWS resources, dive into detailed resource configuration histories, and determine your overall compliance against the configurations specified in your internal guidelines.
     - This enables you to simplify compliance auditing, security analysis, change management, and operational troubleshooting.
-
-    Reference: <https://aws.amazon.com/config/>
 
     </details>
 
@@ -532,8 +514,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - AWS maintains the configuration of its infrastructure devices, but a customer is responsible for configuring their own guest operating systems, databases, and applications.
 
-    Reference: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 36. Which AWS service is a content delivery network that securely delivers data, video, and applications to users globally with low latency and high speeds?
@@ -550,8 +530,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer- friendly environment.
     - CloudFront is integrated with AWS both physical locations that are directly connected to the AWS global infrastructure, as well as other AWS services.
 
-    Reference: <https://aws.amazon.com/cloudfront/>
-
     </details>
 
 37. Which benefit of the AWS Cloud supports matching the supply of resources with changing workload demands?
@@ -563,8 +541,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://wa.aws.amazon.com/wat.map.en.html>
 
     </details>
 
@@ -578,8 +554,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/>
-
     </details>
 
 39. Which of the following are benefits of hosting infrastructure in the AWS Cloud? (Choose two.)
@@ -591,7 +565,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
+    Correct Answer: A, C
 
     </details>
 
@@ -609,8 +583,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS Organizations helps you centrally govern your environment as you grow and scale your workloads on AWS.
     - Whether you are a growing startup or a large enterprise, Organizations helps you to centrally manage billing; control access, compliance, and security; and share resources across your AWS accounts.
 
-    Reference: <https://aws.amazon.com/organizations/>
-
     </details>
 
 41. What is AWS Trusted Advisor?
@@ -627,8 +599,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS Trusted Advisor is an online tool that provides you real time guidance to help you provision your resources following AWS best practices.
     - Whether establishing new workflows, developing applications, or as part of ongoing improvement, take advantage of the recommendations provided by Trusted Advisor on a regular basis to help keep your solutions provisioned optimally.
 
-    Reference: <https://aws.amazon.com/premiumsupport/technology/trusted-advisor/>
-
     </details>
 
 42. Which AWS service or feature allows a company to visualize, understand, and manage AWS costs and usage over time?
@@ -643,8 +613,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Explanation:
     - AWS Cost Explorer has an easy-to-use interface that lets you visualize, understand, and manage your AWS costs and usage over time.
-
-    Reference: <https://aws.amazon.com/aws-cost-management/aws-cost-explorer/>
 
     </details>
 
@@ -664,8 +632,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Reports available in AWS Artifact include our Service Organization Control (SOC) reports, Payment Card Industry (PCI) reports, and certifications from accreditation bodies across geographies and compliance verticals that validate the implementation and operating effectiveness of AWS security controls.
     - Agreements available in AWS Artifact include the Business Associate Addendum (BAA) and the Nondisclosure Agreement (NDA).
 
-    Reference: <https://aws.amazon.com/artifact/>
-
     </details>
 
 44. What are the benefits of using the AWS Cloud for companies with customers in many countries around the world? (Choose two.)
@@ -677,10 +643,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation:
-    - <https://aws.amazon.com/cloudfront/>
+    Correct Answer: A, C
 
     </details>
 
@@ -698,8 +661,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Upload your code and Elastic Beanstalk automatically handles the deployment, from capacity provisioning, load balancing, auto-scaling to application health monitoring.
     - At the same time, you retain full control over the AWS resources powering your application and can access the underlying resources at any time.
 
-    Reference: <https://aws.amazon.com/elasticbeanstalk/>
-
     </details>
 
 46. Which AWS service provides inbound and outbound network ACLs to harden external connectivity to Amazon EC2?
@@ -711,8 +672,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html>
 
     </details>
 
@@ -726,8 +685,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html>
-
     </details>
 
 48. The pay-as-you-go pricing model for AWS services:
@@ -740,8 +697,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://www.10thmagnitude.com/opex-vs-capex-the-real-cloud-computing-cost-advantage/>
-
     </details>
 
 49. Under the AWS shared responsibility model, AWS is responsible for which security-related task?
@@ -753,8 +708,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>
 
     </details>
 
@@ -772,9 +725,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - You can use the consolidated billing feature in AWS Organizations to consolidate billing and payment for multiple AWS accounts or multiple Amazon Internet Services Pvt. Ltd (AISPL) accounts.
     - Every organization in AWS Organizations has a master (payer) account that pays the charges of all the member (linked)
     accounts.
-
-    Reference: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/consolidated-billing.html>
-
+    
     </details>
 
 
