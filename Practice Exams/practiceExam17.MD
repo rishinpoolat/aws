@@ -19,7 +19,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - It also allows you to search and compare faces.
     - Rekognition Image is based on the same proven, highly scalable, deep learning technology developed by Amazon's computer vision scientists to analyze billions of images daily for Prime Photos.
 
-    Reference: <https://aws.amazon.com/rekognition/faqs/>
 
     </details>
 
@@ -33,8 +32,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://www.awstcocalculator.com/Output/Load/f85bbf7e131446643911859504>
-
     </details>
 
 3. According to the AWS shared responsibility model, what is AWS responsible for?
@@ -46,8 +43,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>
 
     </details>
 
@@ -79,8 +74,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://www.cloudconformity.com/knowledge-base/aws/EC2/security-group-egress-any.html>
-
     </details>
 
 6. Which AWS service can be used to generate alerts based on an estimated monthly bill?
@@ -99,7 +92,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Billing metric data is stored in the US East (N. Virginia) Region and represents worldwide charges.
     - This data includes the estimated charges for every service in AWS that you use, in addition to the estimated overall total of your AWS charges.
 
-    Reference: <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>
 
     </details>
 
@@ -112,8 +104,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/>
 
     </details>
 
@@ -132,8 +122,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS has exacting standards on how to install, service, and eventually destroy the devices when they are no longer useful. - When a storage device has reached the end of its useful life, AWS decommissions media using techniques detailed in NIST 800-88.
     - Media that stored customer data is not removed from AWS control until it has been securely decommissioned.
 
-    Reference: <https://aws.amazon.com/compliance/data-center/controls/>
-
     </details>
 
 9. Which of the following is an advantage of using AWS?
@@ -145,11 +133,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation:
-    - AWS allows you to access as much or as little capacity as you need, and scale up or down as required with only a few minutes’ notice
-
-    Reference: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html>
 
     </details>
 
@@ -167,8 +150,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer- friendly environment.
     - CloudFront is integrated with AWS both physical locations that are directly connected to the AWS global infrastructure, as well as other AWS services.
 
-    Reference: <https://aws.amazon.com/cloudfront/>
-
     </details>
 
 11. Which services manage and automate application deployments on AWS? (Choose two.)
@@ -180,7 +161,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
     Explanation:
     - EBS -> automates deploying code and provisioning infrastructure
@@ -202,8 +183,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - The TCO Calculator provides directional guidance on possible realized savings when deploying AWS.
     - This tool is built on an underlying calculation model, that generates a fair assessment of value that a customer may achieve given the data provided by the user.
 
-    Reference: <https://aws.amazon.com/tco-calculator/>
-
     </details>
 
 13. Which principles are used to architect applications for reliability on the AWS Cloud? (Choose two.)
@@ -215,9 +194,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
-
-    Explanation: <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
+    Correct Answer: A, B
 
     </details>
 
@@ -230,9 +207,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
-
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/potential-account-compromise/>
+    Correct Answer: A, E
 
     </details>
 
@@ -245,8 +220,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://aws.amazon.com/blogs/startups/high-availability-for-mere-mortals/>
 
     </details>
 
@@ -265,8 +238,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS Shield provides always-on detection and automatic inline mitigation's that minimize application downtime and latency, so there is no need to engage AWS Support to benefit from DDoS protection.
     - There are two tiers of AWS Shield - Standard and Advanced.
 
-    Reference: <https://aws.amazon.com/shield/>
-
     </details>
 
 17. A company wants to monitor the CPU usage of its Amazon EC2 resources. <br/> Which AWS service should the company use?
@@ -283,8 +254,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - With Basic monitoring you get data on your cloudwatch metrics every 5 minutes.
     - Enabling detailed monitoring, you will get the data every one minute.
     - To check if detailed monitoring is enabled, on your EC2 Console, Select the instance, on the lower plane, Select Monitoring.
-
-    Reference: <https://forums.aws.amazon.com/thread.jspa?threadID=263876>
 
     </details>
 
@@ -315,9 +284,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
-
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-basics/>
+    Correct Answer: A, E
 
     </details>
 
@@ -333,8 +300,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Explanation:
     - When the unhealthy Availability Zone returns to a healthy state, Auto Scaling automatically redistributes the application instances evenly across all of the designated Availability Zones.
-
-    Reference: <https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-benefits.html>
 
     </details>
 
@@ -352,8 +317,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - The account that originally purchased the Reserved Instance receives the discount first.
     - If the purchasing account doesn't have any instances that match the terms of the Reserved Instance, the discount for the Reserved Instance is assigned to any matching usage on another account in the organization.
 
-    Reference: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/>
-
     </details>
 
 22. A customer runs an On-Demand Amazon Linux EC2 instance for 3 hours, 5 minutes, and 6 seconds. <br/> For how much time will the customer be billed?
@@ -366,8 +329,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-instance-hour-billing/>
-
     </details>
 
 23. Which of the following AWS services provide compute resources? (Choose two.)
@@ -379,9 +340,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
-
-    Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html>
+    Correct Answer: A, B
 
     </details>
 
@@ -400,8 +359,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
     - This gives you a single source of truth for your AWS and third party resources.
 
-    Reference: <https://aws.amazon.com/cloudformation/>
-
     </details>
 
 25. Which AWS services provide a way to extend an on-premises architecture to the AWS Cloud? (Choose two.)
@@ -413,9 +370,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
-
-    Explanation: <https://aws.amazon.com/hybrid/>
+    Correct Answer: B, D
 
     </details>
 
