@@ -376,8 +376,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Security and Compliance is a shared responsibility between AWS and the customer.
     - This shared model can help relieve the customer's operational burden as AWS operates, manages and controls the components from the host operating system and virtualization layer down to the physical security of the facilities in which the service operates.
 
-    Reference: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 27. To use the AWS CLI, users are required to generate:
@@ -402,8 +400,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/kms/latest/developerguide/services-ebs.html>
-
     </details>
 
 29. How does AWS charge for AWS Lambda usage once the free tier has been exceeded? (Choose two.)
@@ -415,9 +411,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation: <https://aws.amazon.com/lambda/pricing/>
+    Correct Answer: A, C
 
     </details>
 
@@ -430,7 +424,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
+    Correct Answer: B, E
 
     </details>
 
@@ -447,8 +441,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - AWS Shield Standard provides protection for all AWS customers from common, most frequently occurring network and transport layer DDoS attacks that target your web site or application at no additional charge.
 
-    Reference: <https://aws.amazon.com/shield/pricing/>
-
     </details>
 
 32. A company wants to build its new application workloads in the AWS Cloud instead of using on-premises resources. <br/> What expense can be reduced using the AWS Cloud?
@@ -461,8 +453,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/pricing/cost-optimization/>
-
     </details>
 
 33. What does AWS Marketplace allow users to do? (Choose two.)
@@ -474,9 +464,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
-
-    Explanation: <https://aws.amazon.com/marketplace>
+    Correct Answer: B, C
 
     </details>
 
@@ -490,8 +478,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/hybrid/>
-
     </details>
 
 35. Which AWS service allows users to identify the changes made to a resource over time?
@@ -503,8 +489,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://docs.aws.amazon.com/config/latest/developerguide/view-manage-resource.html>
 
     </details>
 
@@ -521,8 +505,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - AWS helps you reduce Total Cost of Ownership (TCO) by reducing the need to invest in large capital expenditures and providing a pay-as-you-go model that empowers you to invest in the capacity you need and use it only when the business requires it.
 
-    Reference: <https://aws.amazon.com/tco-calculator/>
-
     </details>
 
 37. Which activity is a customer responsibility in the AWS Cloud according to the AWS shared responsibility model?
@@ -535,8 +517,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/blogs/security/the-aws-shared-responsibility-model-and-gdpr/>
-
     </details>
 
 38. What are the advantages of the AWS Cloud? (Choose two.)
@@ -548,9 +528,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
-
-    Explanation: <https://data-flair.training/blogs/aws-advantages/>
+    Correct Answer: B, C
 
     </details>
 
@@ -563,9 +541,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
-
-    Explanation: <https://aws.amazon.com/tco-calculator/>
+    Correct Answer: B, C
 
     </details>
 
@@ -579,8 +555,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/tco-calculator/>
-
     </details>
 
 41. What is one of the customer's responsibilities according to the AWS shared responsibility model?
@@ -592,8 +566,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>
 
     </details>
 
@@ -607,8 +579,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html>
-
     </details>
 
 43. How can the AWS Cloud increase user workforce productivity after migration from an on-premises data center?
@@ -621,8 +591,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://d1.awsstatic.com/whitepapers/Migration/aws-migration-whitepaper.pdf>
-
     </details>
 
 44. Which AWS service provides a quick and automated way to create and manage AWS accounts?
@@ -634,8 +602,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/blogs/mt/automate-account-creation-and-resource-provisioning-using-aws-service-catalog-aws-organizations-and-aws-lambda/>
 
     </details>
 
@@ -655,8 +621,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Multi-AZ deployments for Oracle, PostgreSQL, MySQL, and MariaDB DB instances use Amazon's failover technology.
     - SQL Server DB instances use SQL Server Database Mirroring (DBM).
 
-    Reference: <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html>
-
     </details>
 
 46. Where should users report that AWS resources are being used for malicious purposes?
@@ -668,8 +632,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/>
 
     </details>
 
@@ -691,8 +653,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - In addition, you can use CloudTrail to detect unusual activity in your AWS accounts.
     - These capabilities help simplify operational analysis and troubleshooting.
 
-    Reference: <https://aws.amazon.com/cloudtrail/>
-
     </details>
 
 48. What is an AWS Cloud design best practice?
@@ -704,8 +664,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
 
     </details>
 
@@ -734,8 +692,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://aws.amazon.com/dms/>
 
     </details>
 
