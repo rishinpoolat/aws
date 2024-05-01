@@ -14,8 +14,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 2. How can an AWS user with an AWS Basic Support plan obtain technical assistance from AWS?
@@ -28,8 +26,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/premiumsupport/faqs/>
-
     </details>
 
 3. Which of the following are pillars of the AWS Well-Architected Framework? (Choose two.)
@@ -41,9 +37,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
+    Correct Answer: B, C
 
     </details>
 
@@ -57,7 +51,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/ec2/pricing/reserved-instances/pricing/>
 
     </details>
 
@@ -71,7 +64,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html>
 
     </details>
 
@@ -85,8 +77,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/estimating-aws-resource-costs/>
-
     </details>
 
 7. A company wants to migrate its applications to a VPC on AWS. These applications will need to access on-premises resources. <br/> What combination of actions will enable the company to accomplish this goal? (Choose two.)
@@ -98,9 +88,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
-
-    Explanation: <https://aws.amazon.com/blogs/apn/amazon-vpc-for-on-premises-network-engineers-part-one/>
+    Correct Answer: B, D
 
     </details>
 
@@ -119,8 +107,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - You can use AWS WAF to define customizable web security rules that control which traffic accesses your web applications.
     - If you use AWS Shield Advanced, you can use AWS WAF at no extra cost for those protected resources and can engage the DRT to create WAF rules.
 
-    Reference: <https://aws.amazon.com/answers/networking/aws-ddos-attack-mitigation/>
-
     </details>
 
 9. Treating infrastructure as code in the AWS Cloud allows users to:
@@ -132,8 +118,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://asperbrothers.com/blog/infrastructure-as-code-aws/>
 
     </details>
 
@@ -150,8 +134,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - You can use AWS Direct Connect to establish a private virtual interface from your on-premise network directly to your Amazon VPC, providing you with a private, high bandwidth network connection between your network and your VPC.
     - With multiple virtual interfaces, you can even establish private connectivity to multiple VPCs while maintaining network isolation.
-
-    Reference: <https://aws.amazon.com/directconnect/>
 
     </details>
 
@@ -187,8 +169,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
     - This gives you a single source of truth for your AWS and third party resources.
 
-    Reference: <https://aws.amazon.com/cloudformation/>
-
     </details>
 
 13. Which of the following is an AWS database service?
@@ -200,8 +180,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://www.sisense.com/glossary/redshift-database/>
 
     </details>
 
@@ -215,8 +193,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/ec2-security-groups.html>
-
     </details>
 
 15. What are the benefits of developing and running a new application in the AWS Cloud compared to on-premises? (Choose two.)
@@ -228,7 +204,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: C, D
 
     </details>
 
@@ -248,8 +224,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - After performing an assessment, Amazon Inspector produces a detailed list of security findings prioritized by level of severity.
     - These findings can be reviewed directly or as part of detailed assessment reports which are available via the Amazon Inspector console or API.
 
-    Reference: <https://aws.amazon.com/inspector/>
-
     </details>
 
 17. How can a company isolate the costs of production and non-production workloads on AWS?
@@ -261,8 +235,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/>
 
     </details>
 
@@ -279,8 +251,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     Explanation:
     - AWS Service Catalog Delivery Partners are APN Consulting Partners who help create catalogs of IT services that are approved by the customer's organization for use on AWS.
     - With AWS Service Catalog, customers and partners can centrally manage commonly deployed IT services to help achieve consistent governance and meet compliance requirements while enabling users to self-provision approved services.
-
-    Reference: <https://aws.amazon.com/servicecatalog/partners/>
 
     </details>
 
@@ -299,7 +269,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - It is designed for customers --particularly those in highly-regulated industries, such as the Financial Services, Healthcare, and Public Sectors -- that retain data sets for 7-10 years or longer to meet regulatory compliance requirements.
     - S3 Glacier Deep Archive can also be used for backup and disaster recovery use cases, and is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether they are on-premises libraries or off-premises services.
 
-    Reference: <https://aws.amazon.com/s3/storage-classes/>
 
     </details>
 
@@ -312,7 +281,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: B, D
 
     </details>
 
@@ -330,8 +299,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon Macie is a security service that uses machine learning to automatically discover, classify, and protect sensitive data in AWS.
     - Macie recognizes sensitive data such as personally identifiable information (PII) or intellectual property.
     - It provides you with dashboards and alerts that give visibility into how this data is being accessed or moved.
-
-    Reference: <https://docs.aws.amazon.com/macie/latest/userguide/what-is-macie.html>
 
     </details>
 
@@ -352,8 +319,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS Storage Gateway is a way to bridge this gap for companies of any size.
     - It's a hybrid storage option that connects on-premise storage including age-old tape backup systems to the cloud in a way that also provides one console to access all storage configurations.
 
-    Reference: <https://www.techradar.com/news/what-is-aws-storage-gateway>
-
     </details>
 
 23. What should users do if they want to install an application in geographically isolated locations?
@@ -366,8 +331,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html>
-
     </details>
 
 24. A system in the AWS Cloud is designed to withstand the failure of one or more components. <br/> What is this an example of?
@@ -379,8 +342,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://wa.aws.amazon.com/wat.question.REL_7.en.html>
 
     </details>
 
@@ -398,7 +359,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - You can use AWS Direct Connect to establish a private virtual interface from your on-premise network directly to your Amazon VPC, providing you with a private, high bandwidth network connection between your network and your VPC.
     - With multiple virtual interfaces, you can even establish private connectivity to multiple VPCs while maintaining network isolation.
 
-    Reference: <https://aws.amazon.com/directconnect/>
 
     </details>
 
