@@ -533,7 +533,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
     </details>
 
@@ -553,8 +553,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - CloudHSM complements existing data protection solutions and allows you to protect your encryption keys within HSMs that are designed and validated to government standards for secure key management.
     - CloudHSM allows you to securely generate, store, and manage cryptographic keys used for data encryption in a way that keys are accessible only by you.
 
-    Reference: <https://aws.amazon.com/cloudhsm/faqs/>
-
     </details>
 
 43. Under the AWS shared responsibility model, the customer manages which of the following? (Choose two.)
@@ -566,9 +564,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BE
-
-    Explanation: <https://www.whizlabs.com/blog/aws-security-shared-responsibility/>
+    Correct Answer: B, E
 
     </details>
 
@@ -588,8 +584,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - As an example, you may use this event-driven architecture to coordinate your continuous integration pipeline (such as Jenkins CI).
     - That way, whenever an environment is created, Elastic Beanstalk publishes this event to an SNS topic, which triggers a subscribing Lambda function, which then kicks off a CI job against your newly created Elastic Beanstalk environment.
 
-    Reference: <https://aws.amazon.com/blogs/compute/event-driven-computing-with-amazon-sns-compute-storage-database-and-networking-services/>
-
     </details>
 
 45. What is a value proposition of the AWS Cloud?
@@ -601,8 +595,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/aws-whitepaper-business-value-of-aws.pdf>
 
     </details>
 
@@ -616,11 +608,10 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html>
-
     </details>
 
-47. What is a user responsible for when running an application in the AWS Cloud?   - A. Managing physical hardware
+47. What is a user responsible for when running an application in the AWS Cloud?   
+    - A. Managing physical hardware
     - B. Updating the underlying hypervisor
     - C. Providing a list of users approved for data center access
     - D. Managing application software updates
@@ -628,8 +619,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
@@ -643,8 +632,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/devops/partner-solutions/>
-
     </details>
 
 49. Which features or services can be used to monitor costs and expenses for an AWS account? (Choose two.)
@@ -656,9 +643,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
-
-    Explanation: <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>
+    Correct Answer: A, D
 
     </details>
 
@@ -671,8 +656,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html>
 
     </details>
 
