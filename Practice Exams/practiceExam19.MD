@@ -341,8 +341,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/kms/latest/developerguide/control-access.html>
-
     </details>
 
 27. How does AWS Trusted Advisor provide guidance to users of the AWS Cloud? (Choose two.)
@@ -354,7 +352,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     </details>
 
@@ -367,9 +365,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation: <https://aws.amazon.com/compliance/data-center/controls/>
+    Correct Answer: A, C
 
     </details>
 
@@ -383,9 +379,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation:
-    <https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/>
-
     </details>
 
 30. Which AWS services provide a user with connectivity between the AWS Cloud and on-premises resources? (Choose two.)
@@ -397,11 +390,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
-
-    Explanation:
-    - <https://aws.amazon.com/directconnect/>
-    - <https://aws.amazon.com/blogs/networking-and-content-delivery/introducing-aws-client-vpn-to-securely-access-aws-and-on-premises-resources/>
+    Correct Answer: A, D
 
     </details>
 
