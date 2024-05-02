@@ -14,21 +14,17 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation: <https://aws.amazon.com/mp/>
-
     </details>
 
 2. Which AWS networking service enables a company to create a virtual network within AWS?
     - A. AWS Config
     - B. Amazon Route 53
     - C. AWS Direct Connect
-    - D. Amazon Virtual Private Cloud (Amazon VPC.
+    - D. Amazon Virtual Private Cloud (Amazon VPC).
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://aws.amazon.com/vpc/>
 
     </details>
 
@@ -42,8 +38,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 4. Which component of AWS global infrastructure does Amazon CloudFront use to ensure low-latency delivery?
@@ -55,8 +49,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <https://aws.amazon.com/cloudfront/>
 
     </details>
 
@@ -70,8 +62,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/iam/details/mfa/>
-
     </details>
 
 6. Which service can identify the user that made the API call when an Amazon Elastic Compute Cloud (Amazon EC2) instance is terminated?
@@ -83,8 +73,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation: <http://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html>
 
     </details>
 
@@ -98,8 +86,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <http://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html>
-
     </details>
 
 8. Where can a customer find information about prohibited actions on AWS infrastructure?
@@ -111,8 +97,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://aws.amazon.com/aup/>
 
     </details>
 
@@ -131,8 +115,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - You replace large upfront expenses with low variable payments that only apply to what you use.
     - With AWS you are not bound to multi-year agreements or complicated licensing models.
 
-    Reference: <https://aws.amazon.com/economics/>
-
     </details>
 
 10. When designing a typical three-tier web application, which AWS services and/or features improve availability and reduce the impact failures? (Choose two.)
@@ -144,9 +126,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
+    Correct Answer: A, C
 
     </details>
 
@@ -164,8 +144,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Use load balancing for offloading encryption termination (TLS) to improve performance and to manage and route traffic effectively.
     - Distribute traffic across multiple resources or services to allow your workload to take advantage of the elasticity that AWS provides.
 
-    Reference: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
-
     </details>
 
 12. Which of the following are recommended practices for managing IAM users? (Choose two.)
@@ -177,9 +155,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
-
-    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+    Correct Answer: A, B
 
     </details>
 
@@ -192,9 +168,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
-
-    Explanation: <https://aws.amazon.com/solutions/aws-landing-zone/>
+    Correct Answer: C, D
 
     </details>
 
@@ -207,8 +181,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/premiumsupport/plans/enterprise/>
 
     </details>
 
@@ -234,9 +206,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation:
-    <https://aws.amazon.com/ec2/faqs/>
-
     </details>
 
 17. Which AWS tool is used to compare the cost of running an application on-premises to running the application in the AWS Cloud?
@@ -248,8 +217,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/tco-calculator/>
 
     </details>
 
@@ -263,8 +230,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/ec2-ri-consolidated-billing/>
-
     </details>
 
 19. Which situation should be reported to the AWS Abuse team?
@@ -277,8 +242,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/report-aws-abuse/>
-
     </details>
 
 20. A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base. <br/> Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Choose two.)
@@ -290,10 +253,19 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
+    Correct Answer: B, D
 
-    Explanation: <https://aws.amazon.com/cloudfront/faqs/>
+    Amazon CloudFront is a content delivery network (CDN) service that caches and distributes static and dynamic web content from edge locations closest to the users, providing low latency and high transfer speeds.
 
+    AWS Global Accelerator is a service that improves the availability and performance of applications by routing user traffic to the nearest AWS Region through the AWS global network.
+
+    The other options are not ideal for this scenario:
+
+    A. Application Load Balancer (ALB) distributes traffic across targets within the same AWS Region, but it does not provide global caching or routing capabilities.
+
+    C. AWS Direct Connect establishes a dedicated network connection between on-premises resources and AWS, but it does not improve global performance for end-users.
+
+    E. AWS Lambda is a serverless compute service and does not directly address global content delivery or traffic routing.
     </details>
 
 21. Which AWS service or resource is serverless?
@@ -306,8 +278,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://blogs.itemis.com/en/serverless-services-on-aws>
-
     </details>
 
 22. Which of the following are components of Amazon VPC? (Choose two.)
@@ -319,9 +289,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
-
-    Explanation: <https://subscription.packtpub.com/book/virtualization_and_cloud/9781788293723/3/ch03lvl1sec26/vpc-components>
+    Correct Answer: B, D
 
     </details>
 
@@ -335,8 +303,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/budgets-managing-costs.html>
-
     </details>
 
 24. Which of the following will enhance the security of access to the AWS Management Console? (Choose two.)
@@ -348,9 +314,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
-
-    Explanation: <https://aws.amazon.com/blogs/security/guidelines-for-protecting-your-aws-account-while-using-programmatic-access/>
+    Correct Answer: C, E
 
     </details>
 
@@ -363,9 +327,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AC
-
-    Explanation: <https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/>
+    Correct Answer: A, C
 
     </details>
 
