@@ -404,8 +404,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/billing-what-is.html>
-
     </details>
 
 32. Which element of the AWS global infrastructure consists of one or more discrete data centers, each with redundant power, networking, and connectivity, which are housed in separate facilities?
@@ -417,9 +415,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation:
-    <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/global-infrastructure.html>
 
     </details>
 
@@ -437,8 +432,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - VPC Flow Logs is a feature that enables you to capture information about the IP traffic going to and from network interfaces in your VPC.
     - Flow log data can be published to Amazon CloudWatch Logs or Amazon S3. After you've created a flow log, you can retrieve and view its data in the chosen destination.
 
-    Reference: <https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html>
-
     </details>
 
 34. Which AWS service can be used to automatically scale an application up and down without making capacity planning decisions?
@@ -451,8 +444,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/blogs/aws/category/auto-scaling/>
-
     </details>
 
 35. AWS Enterprise Support users have access to which service or feature that is not available to users with other AWS Support plans?
@@ -464,8 +455,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/premiumsupport/plans/>
 
     </details>
 
@@ -484,8 +473,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - It provides cost-efficient and resizable capacity while automating time-consuming administration tasks, such as hardware provisioning, database setup, patching, and backups.
     - It frees you to focus on your applications, so you can give them the fast performance, high availability, security, and compatibility that they need.
 
-    Reference: <https://aws.amazon.com/blogs/database/part-1-role-of-the-dba-when-moving-to-amazon-rds-responsibilities/>
-
     </details>
 
 37. A company wants to expand from one AWS Region into a second AWS Region. <br/> What does the company need to do to start supporting the new Region?
@@ -497,9 +484,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation:
-    <https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-plan-region.html>
 
     </details>
 
@@ -513,8 +497,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/ec2/dedicated-hosts/>
-
     </details>
 
 39. Which AWS service will provide a way to generate encryption keys that can be used to encrypt data? (Choose two.)
@@ -526,11 +508,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
-
-    Explanation:
-    - <https://docs.aws.amazon.com/crypto/latest/userguide/awscryp-service-hsm.html>
-    - <https://docs.aws.amazon.com/kms/latest/developerguide/overview.html>
+    Correct Answer: C, E
 
     </details>
 
@@ -543,9 +521,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation:
-    <https://docs.aws.amazon.com/migrationhub/latest/ug/hub-api.pdf> (26)
 
     </details>
 
