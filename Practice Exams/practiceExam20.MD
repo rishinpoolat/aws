@@ -525,7 +525,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BC
+    Correct Answer: B, C
 
     </details>
 
@@ -539,8 +539,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 43. Which AWS service makes it easy to create and manage AWS users and groups, and provide them with secure access to AWS resources at no charge?
@@ -552,10 +550,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation:
-    - <https://docs.aws.amazon.com/IAM/latest/UserGuide/console_controlling-access.html>
-    - <https://aws.amazon.com/iam/>
 
     </details>
 
@@ -569,8 +563,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/artifact/#:~:text=AWS%20Artifact%20is%20your%20go,reports%20and%20select%20online%20agreements>.
-
     </details>
 
 45. Which AWS service can be used to turn text into life-like speech?
@@ -582,8 +574,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/polly/#:~:text=Amazon%20Polly%20is%20a%20service,synthesize%20natural%20sounding%20human%20speech>.
 
     </details>
 
@@ -610,9 +600,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation:
-    <https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/> #Security
-
     </details>
 
 48. Which Amazon EC2 pricing model should be used to comply with per-core software license requirements?
@@ -624,8 +611,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/ec2/dedicated-hosts/pricing/>
 
     </details>
 
@@ -646,8 +631,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Throughput is dramatically increased given that the web assets are delivered from cache.
     - For dynamic data, many CDNs can be configured to retrieve data from the origin servers.
 
-    Reference: <https://aws.amazon.com/caching/>
-
     </details>
 
 50. Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
@@ -659,7 +642,5 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf>
 
     </details>
