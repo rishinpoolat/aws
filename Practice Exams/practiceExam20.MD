@@ -14,8 +14,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/guardduty/>
-
     </details>
 
 2. A company wants to try a third-party ecommerce solution before deciding to use it long term. <br/> Which AWS service or tool will support this effort?
@@ -27,8 +25,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/about-aws/whats-new/2019/09/aws-marketplace-easier-to-find-solutions-from-aws-console/>
 
     </details>
 
@@ -42,8 +38,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/dynamodb/>
-
     </details>
 
 4. Which AWS service should be used to create a billing alarm?
@@ -55,8 +49,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html>
 
     </details>
 
@@ -70,8 +62,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://aws.amazon.com/getting-started/tutorials/deploy-docker-containers/>
-
     </details>
 
 6. Users are reporting latency when connecting to a website with a global customer base. <br/> Which AWS service will improve the customer experience by reducing latency?
@@ -84,8 +74,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/getting-started/tutorials/deliver-content-faster/>
-
     </details>
 
 7. Which actions represent best practices for using AWS IAM? (Choose two.)
@@ -97,9 +85,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
-
-    Explanation: <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+    Correct Answer: A, D
 
     </details>
 
@@ -112,9 +98,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: B
-
-    Explanation:
-    <https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html>
 
     </details>
 
@@ -132,8 +115,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS Global Accelerator uses the AWS global network to optimize the path from your users to your applications, improving the performance of your traffic by as much as 60%.
     - AWS Global Accelerator continually monitors the health of your application endpoints and redirects traffic to healthy endpoints in less than 30 seconds.
 
-    Reference: <https://aws.amazon.com/global-accelerator/?blogs-global-accelerator.sort-by=item.additionalFields.createdDate&blogs-global-accelerator.sort-order=desc&aws-global-accelerator-wn.sort-by=item.additionalFields.postDateTime&aws-global-accelerator-wn.sort-order=desc>
-
     </details>
 
 10. According to the AWS Well-Architected Framework, what change management steps should be taken to achieve reliability in the AWS Cloud? (Choose two.)
@@ -145,7 +126,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: DE
+    Correct Answer: D, E
 
     </details>
 
