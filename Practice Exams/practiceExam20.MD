@@ -399,8 +399,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://docs.aws.amazon.com/AmazonS3/latest/dev/access-control-block-public-access.html>
-
     </details>
 
 32. A Cloud Practitioner identifies a billing issue after examining the AWS Cost and Usage report in the AWS Management Console. <br/> Which action can be taken to resolve this?
@@ -412,8 +410,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: < https://docs.aws.amazon.com/awssupport/latest/user/case-management.html>
 
     </details>
 
@@ -427,8 +423,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/blogs/aws/estimate-your-c/>
-
     </details>
 
 34. Who is responsible for patching the guest operating system for Amazon RDS?
@@ -441,8 +435,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
-
     </details>
 
 35. Which AWS services may be scaled using AWS Auto Scaling? (Choose two.)
@@ -454,9 +446,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AB
-
-    Explanation: <https://aws.amazon.com/autoscaling/faqs/>
+    Correct Answer: A, B
 
     </details>
 
@@ -469,9 +459,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: BD
-
-    Explanation: <https://aws.amazon.com/global-accelerator/faqs/>
+    Correct Answer: B, D
 
     </details>
 
@@ -484,8 +472,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://aws.amazon.com/premiumsupport/knowledge-center/reactivate-suspended-account/>
 
     </details>
 
@@ -516,8 +502,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://www.cloudmanagementinsider.com/ways-to-optimize-aws-cost/>
-
     </details>
 
 40. Under the AWS shared responsibility model, which of the following is a customer responsibility?
@@ -529,8 +513,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://aws.amazon.com/compliance/shared-responsibility-model/>
 
     </details>
 
