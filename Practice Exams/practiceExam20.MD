@@ -140,8 +140,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A
 
-    Explanation: <https://aws.amazon.com/blogs/mt/monitor-and-notify-on-aws-account-root-user-activity/>
-
     </details>
 
 12. Which design principle should be considered when architecting in the AWS Cloud?
@@ -154,8 +152,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://www.botmetric.com/blog/aws-cloud-architecture-design-principles/>
-
     </details>
 
 13. Which AWS services can be used to move data from on-premises data centers to AWS? (Choose two.)
@@ -167,9 +163,16 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AD
+    Correct Answer: A, D
 
-    Explanation: <https://aws.amazon.com/snowball/>
+    Explanation:
+    - AWS Snowball is a data migration service that allows you to transfer large amounts of data (petabytes) to AWS by shipping physical storage devices (Snowball appliances) directly to your on-premises location. You can copy your data to the Snowball appliance, and then ship it back to AWS, where the data is imported into an Amazon S3 bucket or Amazon EFS file system.
+    - AWS Database Migration Service (AWS DMS) is a cloud service that enables you to migrate relational databases, data warehouses, NoSQL databases, and other types of data stores from on-premises environments to AWS or between different AWS regions or database engines. AWS DMS supports various source and target database engines, including Oracle, SQL Server, MySQL, PostgreSQL, Amazon Aurora, Amazon Redshift, and more.
+
+    The other options are not primarily used for moving data from on-premises to AWS:
+    - AWS Lambda is a serverless computing service that runs your code in response to events or HTTP requests, but it is not designed for data migration purposes.
+    - AWS ElastiCache is an in-memory data store service that provides a managed Redis or Memcached environment, but it does not facilitate data migration from on-premises to AWS.
+    - Amazon API Gateway is a service for creating, publishing, and managing APIs, but it is not used for data migration purposes.
 
     </details>
 
@@ -195,8 +198,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_accounts.html>
-
     </details>
 
 16. The ability to horizontally scale Amazon EC2 instances based on demand is an example of which concept in the AWS Cloud value proposition?
@@ -221,8 +222,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/autoscaling/>
-
     </details>
 
 18. Which AWS service enables users to securely connect to AWS resources over the public internet?
@@ -235,8 +234,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation: <https://d1.awsstatic.com/whitepapers/aws-security-whitepaper.pdf>
-
     </details>
 
 19. Which tool is used to forecast AWS spending?
@@ -248,8 +245,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-
-    Explanation: <https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/ce-forecast.html>
 
     </details>
 
@@ -268,8 +263,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     - Amazon CloudFront ensures that end-user requests are served by the closest edge location.
     - As a result, viewer requests travel a short distance, improving performance for your viewers.
     - For files not cached at the edge locations and the regional edge caches, Amazon CloudFront keeps persistent connections with your origin servers so that those files can be fetched from the origin servers as quickly as possible.
-
-    Reference: <https://aws.amazon.com/cloudfront/faqs/>
 
     </details>
 
