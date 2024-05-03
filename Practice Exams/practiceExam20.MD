@@ -276,8 +276,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/about-aws/global-infrastructure/>
-
     </details>
 
 22. Which AWS service will help users determine if an application running on an Amazon EC2 instance has sufficient CPU capacity?
@@ -289,8 +287,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: A
-
-    Explanation: <https://aws.amazon.com/ec2/faqs/>
 
     </details>
 
@@ -304,8 +300,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html>
-
     </details>
 
 24. Which tasks are the customer's responsibility in the AWS shared responsibility model? (Choose two.)
@@ -317,9 +311,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CE
-
-    Explanation: <https://cloudacademy.com/blog/aws-shared-responsibility-model-security/>
+    Correct Answer: C, E
 
     </details>
 
@@ -333,8 +325,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf>
-
     </details>
 
 26. Which AWS service or feature can enhance network security by blocking requests from a particular network for a web application on AWS? (Choose two.)
@@ -346,11 +336,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: AE
-
-    Explanation:
-    - <https://aws.amazon.com/waf/>
-    - <https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>
+    Correct Answer: A, E
 
     </details>
 
@@ -364,8 +350,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B
 
-    Explanation: <https://aws.amazon.com/efs/>
-
     </details>
 
 28. A web application is hosted on AWS using an Elastic Load Balancer, multiple Amazon EC2 instances, and Amazon RDS. <br/> Which security measures fall under the responsibility of AWS? (Choose two.)
@@ -377,7 +361,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: CD
+    Correct Answer: B, D
 
     </details>
 
@@ -390,8 +374,6 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: D
-
-    Explanation: <https://aimconsulting.com/insights/blog/the-elastic-cloud-opportunity/>
 
     </details>
 
