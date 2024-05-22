@@ -13,7 +13,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - E. Amazon EMR.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A, C
+      Correct Answer: A, C
     </details>
 
 2. Which AWS service can be used to store and reliably deliver messages across distributed systems?
