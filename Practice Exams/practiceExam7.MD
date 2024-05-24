@@ -9,7 +9,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - A. Delete the encryption keys once your data is encrypted.
     - B. With AWS you do not need to worry about encryption.
     - C. Enable S3 Encryption.
-    - D. Encrypt the data prior to uploading it.
+    - D. Encrypt the data before uploading it.
     - E. Delete all IAM users that have access to S3.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
@@ -29,7 +29,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 3. Which of the following will affect how much you are charged for storing objects in S3? (Choose TWO)
     - A. Using default encryption for any number of S3 buckets.
     - B. The number of EBS volumes attached to your instances.
-    - C. The storage class used for the objects stored.
+    - C. The storage class is used for the objects stored.
     - D. Creating and deleting S3 buckets.
     - E. The total size in gigabytes of all objects stored.
 
