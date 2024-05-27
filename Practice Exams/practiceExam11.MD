@@ -25,7 +25,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B, E
     </details>
 
-3. Which of the following will enhance the security of access to the AWS Management Console’? (Select TWO)
+3. Which of the following will enhance the security of access to the AWS Management Console? (Select TWO)
     - A. AWS Secrets Manager.
     - B. AWS Certificate Manager.
     - C. AWS Multi-Factor Authentication (AWS MFA).
