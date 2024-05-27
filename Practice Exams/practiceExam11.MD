@@ -282,10 +282,10 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: D
     </details>
 
-28. What is an advantage of deploying an application across multiple Availability Zones?
+28. What is the advantage of deploying an application across multiple Availability Zones?
     - A. There is a lower risk of service failure if a natural disaster causes a service disruption in a given AWS Region.
     - B. The application will have higher availability because it can withstand a service disruption in one Availability Zone.
-    - C. There will be better coverage as Availability Zones are geographical^ distant and can serve a wider area.
+    - C. There will be better coverage as Availability Zones are geographically distant and can serve a wider area.
     - D. There will be decreased application latency that will improve the user experience.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
