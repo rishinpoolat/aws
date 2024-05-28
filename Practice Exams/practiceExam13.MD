@@ -265,7 +265,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown="span">Answer</summary>
 
     Correct Answer: C
-    Explanation: 
+   
 
     </details>
 
