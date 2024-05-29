@@ -450,7 +450,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation:Spot Instances are an Amazon EC2 pricing model that allows customers to bid on spare EC2 computing capacity. The spot price for an instance type fluctuates based on the supply and demand for that instance type in a specific AWS Availability Zone.
+    Explanation: Spot Instances is an Amazon EC2 pricing model that allows customers to bid on spare EC2 computing capacity. The spot price for an instance type fluctuates based on the supply and demand for that instance type in a specific AWS Availability Zone.
 
     When the demand for an instance type is high, the spot price will increase accordingly. Conversely, when the demand is low, the spot price will decrease, allowing customers to leverage these instances at a significantly lower cost compared to On-Demand or Reserved Instances.
 
