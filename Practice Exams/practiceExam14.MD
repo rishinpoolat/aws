@@ -547,10 +547,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: B
-
-    Explanation:
-    - AWS customers are welcome to carry out security assessments or penetration tests against their AWS infrastructure without prior approval for 8 services.
+    Correct Answer: D
 
 
     </details>
