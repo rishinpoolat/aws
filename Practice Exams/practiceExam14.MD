@@ -766,9 +766,6 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: D
 
-    Explanation:
-    - Of course, Amazon is responsible for auditing physical data center assets and resources since it is the property of Amazon Inc. Customers have no access to physical sites, hence they are not responsible for maintaining physical data center assets.
-
     </details>
 
 48. Which options does AWS make available for customers who want to learn about security in the cloud in an instructor-led setting? (Select TWO.)
