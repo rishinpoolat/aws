@@ -682,7 +682,6 @@ Click on the **Answer** button for the correct answer and its explanation.
       Training: Access to training resources, including self-paced labs, webinars, and AWS Technical Essentials classroom training.
       Support: Startups receive AWS Support plan credits and can engage with AWS Solutions Architects.
       
-      Resources: Access to resources like AWS Design and Architecture reviews, AWS Partner offers, and startup-focused content and events.
 
 
     </details>
