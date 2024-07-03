@@ -48,7 +48,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B, E
     </details>
 
-5. You are facing a lot of problems with your current contact center. Which service provides a cloud-based contact center that can deliver a better service for your customers?
+5. You are facing many problems with your current contact centre. Which service provides a cloud-based contact center that can deliver a better service for your customers?
     - A. Amazon Lightsail.
     - B. Amazon Connect.
     - C. AWS Direct Connect.
