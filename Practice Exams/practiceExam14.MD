@@ -81,8 +81,8 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-7. Which of the following are valid ways for a customer to interact with AWS services? (Select TWO.)
-    - A. Command line interface
+7. Which of the following are valid ways for customers to interact with AWS services? (Select TWO.)
+    - A. Command-line interface
     - B. On-premises
     - C. Software Development Kits
     - D. Software-as-a-service
