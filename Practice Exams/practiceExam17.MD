@@ -109,7 +109,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 8. Which of the following is the responsibility of AWS?
     - A. Setting up AWS Identity and Access Management (IAM) users and groups
-    - B. Physically destroying storage media at end of life
+    - B. Physically destroying storage media at the end of life
     - C. Patching guest operating systems
     - D. Configuring security settings on Amazon EC2 instances
 
@@ -118,7 +118,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     Correct Answer: B
 
     Explanation:
-    - Media storage devices used to store customer data are classified by AWS as Critical and treated accordingly, as high impact, throughout their life-cycles.
+    - Media storage devices used to store customer data are classified by AWS as Critical and treated accordingly, as high impact, throughout their life cycles.
     - AWS has exacting standards on how to install, service, and eventually destroy the devices when they are no longer useful. - When a storage device has reached the end of its useful life, AWS decommissions media using techniques detailed in NIST 800-88.
     - Media that stored customer data is not removed from AWS control until it has been securely decommissioned.
 
@@ -355,9 +355,9 @@ Click on the **Answer** button for the correct answer and its explanation.
     Correct Answer: B
 
     Explanation:
-    - AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment.
+    - AWS CloudFormation provides a common language for you to model and provision AWS and third-party application resources in your cloud environment.
     - AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
-    - This gives you a single source of truth for your AWS and third party resources.
+    - This gives you a single source of truth for your AWS and third-party resources.
 
     </details>
 
@@ -431,7 +431,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     </details>
 
 30. What is the value of using third-party software from AWS Marketplace instead of installing third-party software on Amazon EC2? (Choose two.)
-    - A. Users pay for software by the hour or month depending on licensing.
+    - A. Users pay for the software by the hour or month depending on licensing.
     - B. AWS Marketplace enables the user to launch applications with 1-Click.
     - C. AWS Marketplace data encryption is managed by a third-party vendor.
     - D. AWS Marketplace eliminates the need to upgrade to newer software versions.
@@ -458,7 +458,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-32. Under the shared responsibility model; which of the following areas are the customer's responsibility? (Choose two.)
+32. Under the shared responsibility model; which of the following areas is the customer's responsibility? (Choose two.)
     - A. Firmware upgrades of network infrastructure
     - B. Patching of operating systems
     - C. Patching of the underlying hypervisor
