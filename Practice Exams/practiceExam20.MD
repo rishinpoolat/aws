@@ -212,7 +212,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-17. An ecommerce company anticipates a huge increase in web traffic for two very popular upcoming shopping holidays. <br/> Which AWS service or feature can be configured to dynamically adjust resources to meet this change in demand?
+17. An e-commerce company anticipates a huge increase in web traffic for two very popular upcoming shopping holidays. <br/> Which AWS service or feature can be configured to dynamically adjust resources to meet this change in demand?
     - A. AWS CloudTrail
     - B. Amazon EC2 Auto Scaling
     - C. Amazon Forecast
@@ -248,7 +248,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-20. A company is running an ecommerce application hosted in Europe. To decrease latency for users who access the website from other parts of the world, the company would like to cache frequently accessed static content closer to the users. <br/> Which AWS service will support these requirements?
+20. A company is running an e-commerce application hosted in Europe. To decrease latency for users who access the website from other parts of the world, the company would like to cache frequently accessed static content closer to the users. <br/> Which AWS service will support these requirements?
     - A. Amazon ElastiCache
     - B. Amazon CloudFront
     - C. Amazon Elastic File System (Amazon EFS)
@@ -315,7 +315,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-25. IT systems should be designed to reduce interdependencies, so that a change or failure in one component does not cascade to other components. <br/> This is an example of which principle of cloud architecture design?
+25. IT systems should be designed to reduce interdependencies so that a change or failure in one component does not cascade to other components. <br/> This is an example of which principle of cloud architecture design?
     - A. Scalability
     - B. Loose coupling
     - C. Automation
