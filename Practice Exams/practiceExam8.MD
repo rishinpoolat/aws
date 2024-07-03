@@ -149,11 +149,11 @@ Click on the **Answer** button for the correct answer and its explanation.
     </details>
 
 15. What are the main differences between an IAM user and an IAM role in AWS? (Choose TWO)
-    - A. An IAM user is uniquely associated with only one person, however a role is intended to be assumable by anyone who needs it.
+    - A. An IAM user is uniquely associated with only one person, however, a role is intended to be assumable by anyone who needs it.
     - B. An IAM user has permanent credentials associated with it, however a role has temporary credentials associated with it.
-    - C. IAM users are more cost effective than IAM roles.
-    - D. A role is uniquely associated with only one person, however an IAM user is intended to be assumable by anyone who needs it.
-    - E. An IAM user has temporary credentials associated with it, however a role has permanent credentials associated with it.
+    - C. IAM users are more cost-effective than IAM roles.
+    - D. A role is uniquely associated with only one person, however, an IAM user is intended to be assumable by anyone who needs it.
+    - E. An IAM user has temporary credentials associated with it, however, a role has permanent credentials associated with it.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, B
