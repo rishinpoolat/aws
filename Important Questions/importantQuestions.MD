@@ -92,14 +92,14 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: A
       
-      Explanation: Amazon Lex is a service for building conversational interfaces into any application using voice and text. It provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text. This enables the creation of applications with highly engaging user experiences and lifelike conversational interactions .
+      Explanation: Amazon Lex is a service for building conversational interfaces into any application using voice and text. It provides the advanced deep learning functionalities of automatic speech recognition (ASR) for converting speech to text, and natural language understanding (NLU) to recognize the intent of the text. This enables the creation of applications with highly engaging user experiences and lifelike conversational interactions.
       
-      Amazon Lex is powered by the same technology as Amazon Alexa, making it capable of understanding natural language speech and text input, recognizing the intent behind the input, and fulfilling the user intent by invoking the appropriate business function. This makes it an ideal choice for developing sophisticated, natural language chatbots into new and existing applications .
+      Amazon Lex is powered by the same technology as Amazon Alexa, making it capable of understanding natural language speech and text input, recognizing the intent behind the input, and fulfilling the user intent by invoking the appropriate business function. This makes it an ideal choice for developing sophisticated, natural language chatbots into new and existing applications.
       
       Moreover, Amazon Lex simplifies the process of creating chatbots by guiding developers through the console to create their own chatbot in minutes. It requires only a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks. This democratizes deep learning technologies, making them accessible to all developers.
     </details>
 
-7.  An application has a highly dynamic usage pattern. Which characteristica of the AWS Cloud make it cost-effective for this type of workload? (Select Two)
+7.  An application has a highly dynamic usage pattern. Which characteristics of the AWS Cloud make it cost-effective for this type of workload? (Select Two)
     - A. High Availability.
     - B. Strict Security.
     - C. Elasticity.
@@ -107,14 +107,14 @@ Click on the **Answer** button for the correct answer and its explanation.
     - E. Reliability.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct Answer: C,D
+      Correct Answer: C, D
 
       Explanation: Elasticity: The ability to easily scale resources up or down based on demand is crucial for managing costs effectively. AWS offers a variety of services and features that allow for dynamic scaling, such as Auto Scaling for EC2 instances, which adjusts the number of instances based on the demand pattern. This ensures that you only pay for the resources you need, optimizing costs by reducing resource consumption during off-peak hours.
       
       D. Pay-as-you-go Pricing: AWS's flexible pricing model, including On-Demand Instances, Savings Plans, and Spot Instances, allows you to pay for compute capacity by the hour, with no minimum commitments required. This model encourages taking advantage of AWS's flexible pricing to scale compute resources according to demand, optimizing costs by reducing resource consumption during off-peak hours. Spot Instances, in particular, offer savings of up to 90% off On-Demand pricing, making them suitable for workloads that can tolerate using a fleet of servers where individual servers can come and go dynamically.
     </details>
 
-8.  Which AWS Service or feature helps restrict the AWS services, resorces, and individual API actions the users and roles in each member account and access?
+8.  Which AWS Service or feature helps restrict the AWS services, resources, and individual API actions of the users and roles in each member account and access?
     - A. Amazon Cognito.
     - B. AWS Organisations.
     - C. AWS Shield.
@@ -123,7 +123,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
 
-      Explanation: C.AWS Organizations allows you to centrally manage and enforce policies for multiple AWS accounts. It provides a feature called Service Control Policies (SCPs) that you can use to manage permissions in your organization. SCPs are a type of organization policy that you can use to restrict the actions that can be called on AWS resources. By attaching an SCP to an organizational unit (OU) or an individual account, you can specify which actions are allowed or denied on the AWS resources in that OU or account. This helps in ensuring that users and roles in each member account have the appropriate level of access to AWS services and resources.
+      Explanation: C.AWS Organizations allows you to centrally manage and enforce policies for multiple AWS accounts. It provides a feature called Service Control Policies (SCPs) that you can use to manage permissions in your organization. SCPs are a type of organization policy that you can use to restrict the actions that can be called on AWS resources. By attaching an SCP to an organizational unit (OU) or an individual account, you can specify which actions are allowed or denied on the AWS resources in that OU or account. This helps ensure that users and roles in each member account have the appropriate level of access to AWS services and resources.
       
       For example, you can use SCPs to prevent users in member accounts from accessing certain API operations in the identity store, as shown in the provided example SCP that explicitly blocks access to the identity store and SSO directory actions. This level of control is crucial for maintaining security and compliance across your AWS environment.
     </details>
