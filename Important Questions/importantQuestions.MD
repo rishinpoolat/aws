@@ -81,10 +81,10 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS RAM simplifies the process of sharing resources across multiple AWS accounts, within your organization or organizational units (OUs), and with IAM roles and users for supported resource types. It enables you to securely share your resources across AWS accounts, streamline management of AWS resources within your organization from a central account, and reduce overhead and costs by creating resources once and sharing them across multiple accounts.
       
-      AWS RAM helps in granting least privilege access to your shared resources, using managed permissions to grant only the permissions required to perform tasks on resources shared using AWS RAM. This ensures that resources shared by attaching a resource-based policy aren't visible in the same way as resources shared directly in the user's account, but instead, you have to discover and explicitly refer to the resource by its Amazon Resource Name (ARN).
+      AWS RAM helps in granting the least privilege access to your shared resources, using managed permissions to grant only the permissions required to perform tasks on resources shared using AWS RAM. This ensures that resources shared by attaching a resource-based policy aren't visible in the same way as resources shared directly in the user's account, but instead, you have to discover and explicitly refer to the resource by its Amazon Resource Name (ARN).
     </details>
 
-6. A company is looking to develop a conversational chatbot that can interact dynamically with its customers through a natural language interface. Which AWS service should be utilised to faciliate this?
+6. A company is looking to develop a conversational chatbot that can interact dynamically with its customers through a natural language interface. Which AWS service should be utilised to facilitate this?
     - A. Amazon Lex.
     - B. Amazon Transcribe.
     - C. Amazon Comprehend
@@ -96,7 +96,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       
       Amazon Lex is powered by the same technology as Amazon Alexa, making it capable of understanding natural language speech and text input, recognizing the intent behind the input, and fulfilling the user intent by invoking the appropriate business function. This makes it an ideal choice for developing sophisticated, natural language chatbots into new and existing applications.
       
-      Moreover, Amazon Lex simplifies the process of creating chatbots by guiding developers through the console to create their own chatbot in minutes. It requires only a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks. This democratizes deep learning technologies, making them accessible to all developers.
+      Moreover, Amazon Lex simplifies the process of creating chatbots by guiding developers through the console to create their own chatbots in minutes. It requires only a few example phrases, and Amazon Lex builds a complete natural language model through which the bot can interact using voice and text to ask questions, get answers, and complete sophisticated tasks. This democratizes deep learning technologies, making them accessible to all developers.
     </details>
 
 7.  An application has a highly dynamic usage pattern. Which characteristics of the AWS Cloud make it cost-effective for this type of workload? (Select Two)
@@ -128,7 +128,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       For example, you can use SCPs to prevent users in member accounts from accessing certain API operations in the identity store, as shown in the provided example SCP that explicitly blocks access to the identity store and SSO directory actions. This level of control is crucial for maintaining security and compliance across your AWS environment.
     </details>
 
-9.  An organisation is seeking a fully managed service to create and publish interactive dashboard that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement?
+9.  An organisation is seeking a fully managed service to create and publish interactive dashboards that can be accessed from any device. Which AWS service would be the most appropriate choice for this requirement?
     - A. AWS Redshift.
     - B. Amazon QuickSight.
     - C. AWS Glue.
@@ -137,7 +137,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: B
 
-      Explanation: Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. It allows you to create and publish interactive dashboards that can be accessed from any device, including desktops, tablets, and smartphones. QuickSight dashboards can be embedded into applications using the Amazon QuickSight JavaScript SDK, enabling a seamless integration of data visualization into your applications.
+      Explanation: Amazon QuickSight is a fast, cloud-powered business intelligence service that makes it easy to deliver insights to everyone in your organization. It allows you to create and publish interactive dashboards that can be accessed from any device, including desktops, tablets, and smartphones. QuickSight dashboards can be embedded into applications using the Amazon QuickSight JavaScript SDK, enabling seamless integration of data visualization into your applications.
       
       The service is designed to be easy to use, requiring no technical skills to create and publish dashboards. It supports a wide range of data sources, including AWS data services like Amazon RDS, Amazon Redshift, and Amazon S3, as well as on-premises databases and other cloud-based data sources. This flexibility makes it suitable for a wide range of business intelligence and analytics needs.
     </details>
