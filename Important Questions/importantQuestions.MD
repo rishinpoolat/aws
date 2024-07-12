@@ -51,12 +51,12 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS Step Functions is a serverless workflow service that allows you to orchestrate AWS services into serverless workflows. It provides a visual interface for designing workflows, making it easier to create, visualize, and manage complex workflows. With Step Functions, you can define your workflows as state machines, which transform complex code into easy-to-understand statements and diagrams. This makes building and confirming that your application is implementing the desired functionality quicker and easier.
       
-      Step Functions maintains the state of your application during execution, including tracking what step of execution it is in, and storing data that is moving between the steps of your workflow. This means you don't have to manage state yourself with data stores or by building complex state management into all of your tasks .
+      Step Functions maintains the state of your application during execution, including tracking what step of execution it is in, and storing data that is moving between the steps of your workflow. This means you don't have to manage the state yourself with data stores or by building complex state management into all of your tasks.
       
-      Moreover, Step Functions offers real-time diagnostics and dashboards, integrates with Amazon CloudWatch and AWS CloudTrail, and logs every execution, including overall state, failed steps, inputs, and outputs. This allows for quick identification of issues and troubleshooting . 
+      Moreover, Step Functions offers real-time diagnostics and dashboards, integrates with Amazon CloudWatch and AWS CloudTrail, and logs every execution, including overall state, failed steps, inputs, and outputs. This allows for quick identification of issues and troubleshooting. 
     </details>
 
-4. Which AWS Service provides fully managed third-party file systems, with native compatability and a rich feature set, to be used with a board range of AWS Services?
+4. Which AWS Service provides fully managed third-party file systems, with native compatibility and a rich feature set, to be used with a board range of AWS Services?
     - A. Amazon Elastic File System(EFS).
     - B. AWS Storage Gateway.
     - C. Amazon Simple Storage Service(S3).
