@@ -35,12 +35,12 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS Elastic Beanstalk is designed to simplify the deployment and scaling of web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker. It automatically handles the details of capacity provisioning, load balancing, scaling, and application health monitoring. Elastic Beanstalk provides a simple-to-use service for deploying and scaling web applications and services developed with Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
       
-      Elastic Beanstalk supports the deployment of Node.js applications and offers step-by-step instructions for deploying Node.js web applications using the Elastic Beanstalk management console. It also provides walkthroughs for common tasks such as database integration and working with the Express framework .
+      Elastic Beanstalk supports the deployment of Node.js applications and offers step-by-step instructions for deploying Node.js web applications using the Elastic Beanstalk management console. It also provides walkthroughs for common tasks such as database integration and working with the Express framework.
       
       Moreover, Elastic Beanstalk automatically handles the deployment details such as capacity provisioning, load balancing, auto-scaling, and application health monitoring. It also allows for easy integration with other AWS services like Amazon RDS for database management and Amazon S3 for storage.
     </details>
 
-3. A company is building a serverless workflow that cordinates multiple AWS services into a reliable application. They want a visual workflow that can track the status of each step in the application. Which AWS service would faciliate creating this kind of workflow?
+3. A company is building a serverless workflow that coordinates multiple AWS services into a reliable application. They want a visual workflow that can track the status of each step in the application. Which AWS service would facilitate creating this kind of workflow?
     - A. Amazon Lambda.
     - B. AWS Step Functions.
     - C. Amazon SNS.
