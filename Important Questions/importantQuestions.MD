@@ -420,15 +420,15 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct Answer: B,E
+      Correct Answer: B, E
 
-      Explanation: Dependencies such as queuing systems, streaming systems, workflows, and load balancers are loosely coupled. Loose coupling helps isolate behavior of a component from other components that depend on it, increasing resiliency and agility.
+      Explanation: Dependencies such as queuing systems, streaming systems, workflows, and load balancers are loosely coupled. Loose coupling helps isolate behaviour of a component from other components that depend on it, increasing resiliency and agility.
 
       AWS recommend that you architect applications that scale horizontally to increase aggregate workload availability. scaling should be automatic where possible.
 
     </details>
 
-29. A company needs protection from distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. Which AWS managed service will meet these requirements?
+29. A company needs protection from distributed denial of service (DDoS) attacks on its website and assistance from AWS experts during such events. Which AWS-managed service will meet these requirements?
 
     - A. AWS Shield Advanced.
     - B. AWS Firewall Manager.
