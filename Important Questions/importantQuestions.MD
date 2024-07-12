@@ -241,7 +241,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     </details>
 
 17. A small business owner who is not tech-savvy is looking to find AWS-certified experts for a short-term project. They need a service that can help them connect with professionals who can offer advice and help implement AWS solutions quickly. Which AWS Service should they use?
-    - A. AWS Trainig and Certification.
+    - A. AWS Training and Certification.
     - B. AWS IQ.
     - C. AWS Support.
     - D. AWS Marketplace.
@@ -282,7 +282,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 20. Which of the following statements is correct about Amazon S3 cross-region replication?
     - A. Both source and destination S3 buckets must have versioning disabled.
     - B. The source and destination S3 buckets cannot be in different AWS Regions.
-    - C. S3 buckets configured for cross-region replication can be owned by a single AWS account or by differebt accounts.
+    - C. S3 buckets configured for cross-region replication can be owned by a single AWS account or by different accounts.
     - D. The source s3 bucket owner must have the source and destination AWS Regions disabled for their account.
 
 
@@ -291,7 +291,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation:  Replication enables automatic, asynchronous copying of objects across Amazon S3 buckets. Buckets that are configured for object replication can be owned by the same AWS account or by different accounts. You can copy objects between different AWS Regions or within the same Region.
       
-      Both source and destination buckets must have versioning enabled. The source bucket owner must have the source and destination AWS Regions enabled for their account. The destination bucket owner must have the destination Region-enabled for their account.
+      Both source and destination buckets must have versioning enabled. The source bucket owner must have the source and destination AWS Regions enabled for their account. The destination bucket owner must have the destination region enabled for their account.
     </details>
 
 21. A Cloud Practitioner requires point-in-time recovery (PITR) for an Amazon DynamoDB table. Who is responsible for configuring and performing backups?
@@ -339,7 +339,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       The business-critical system down support only comes with the Enterprise support plan.
     </details>
 
-24. A company needs to publish messages to a thousands of subscribers simultaneously using a push mechanism. Which AWS service should the company use?
+24. A company needs to publish messages to thousands of subscribers simultaneously using a push mechanism. Which AWS service should the company use?
     - A. AWS Step Functions.
     - B. Amazon Simple Workflow Service (SWF).
     - C. Amazon Simple Notification Service (Amazon SNS).
@@ -368,13 +368,13 @@ Click on the **Answer** button for the correct answer and its explanation.
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct Answer: C
 
-      Explanation:  By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay as-you-go prices.
+      Explanation:  By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay-as-you-go prices.
 
       The global infrastructure is the basis of the AWS platform but it is not the reason prices continue to reduce.
 
-      pay-as-you-go pricing model is a benefit but not the reason unit prices are reducing.
+      pay-as-you-go pricing model is a benefit but not the reason unit prices are reduced.
 
-      "Reserved instance pricing"  model results in savings for customers in specific areas but not the reason for the overall reduction in prices.
+      "Reserved instance pricing"  model results in savings for customers in specific areas but is not the reason for the overall reduction in prices.
     </details>
 
 26. According to the shared responsibility model, which security-related task is the responsibility of the customer?
