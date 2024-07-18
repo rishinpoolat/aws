@@ -222,10 +222,10 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: AWS Cloud9 is a fully managed cloud IDE that provides a rich code-editing experience with support for several programming languages and runtime debuggers, along with a built-in terminal. It allows developers to write, run, and debug applications directly in their browser, without the need for installing or maintaining a local IDE. This service is particularly useful for developers working on AWS, as it comes prepackaged with essential tools for popular programming languages and provides a seamless experience for developing serverless applications. 
       
-      AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration .
+      AWS Cloud9 supports over 40 programming languages, including Node.js (JavaScript), Python, PHP, Ruby, Go, and C++. It includes features such as syntax highlighting, outline view, code hinting, code completion, application runners, and step-through debugging for many popular programming languages. Additionally, AWS Cloud9 environments come preinstalled with the AWS CLI, which is authenticated with the permissions of the logged-in AWS user automatically, enabling you to run interactive CLI commands against AWS services from the built-in terminal window in Cloud9 without any additional configuration.
     </details>
 
-16. Which AWS service facilitates building secure and scalable mobile and web applications, offering features such as real-time updates and offline functionalities?(Select Two)
+16. Which AWS service facilitates building secure and scalable mobile and web applications, offering features such as real-time updates and offline functionalities? (Select Two)
     - A. AWS Lambda.
     - B. AWS AppSync.
     - C. AWS Amplify.
