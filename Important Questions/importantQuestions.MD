@@ -56,7 +56,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Moreover, Step Functions offers real-time diagnostics and dashboards, integrates with Amazon CloudWatch and AWS CloudTrail, and logs every execution, including overall state, failed steps, inputs, and outputs. This allows for quick identification of issues and troubleshooting. 
     </details>
 
-4. Which AWS Service provides fully managed third-party file systems, with native compatibility and a rich feature set, to be used with a board range of AWS Services?
+4. Which AWS Service provides fully managed third-party file systems, with native compatibility and a rich feature set, to be used with a broad range of AWS Services?
     - A. Amazon Elastic File System(EFS).
     - B. AWS Storage Gateway.
     - C. Amazon Simple Storage Service(S3).
@@ -67,7 +67,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
       Explanation: Amazon FSx is designed to provide an easy and cost-effective way to launch, run, and scale feature-rich, high-performance file systems in the cloud. It supports a wide range of workloads with its reliability, security, scalability, and broad set of capabilities. Amazon FSx is built on the latest AWS compute, networking, and disk technologies to provide high performance and lower TCO. As a fully managed service, it handles hardware provisioning, patching, and backups, freeing you up to focus on your applications, your end users, and your business.
       
-      Amazon FSx supports a broad set of enterprise Windows workloads with fully managed file storage built on Microsoft Windows Server. It has native support for Windows file system features and for the industry-standard Server Message Block (SMB) protocol to access file storage over a network. This compatibility and performance are particularly important when moving workloads that require Windows shared file storage, such as CRM, ERP, and .NET applications, as well as home .directories
+      Amazon FSx supports a broad set of enterprise Windows workloads with fully managed file storage built on Microsoft Windows Server. It has native support for Windows file system features and for the industry-standard Server Message Block (SMB) protocol to access file storage over a network. This compatibility and performance are particularly important when moving workloads that require Windows-shared file storage, such as CRM, ERP, and .NET applications, as well as home .directories
     </details>
 
 5. Which AWS service allows you to secrely share your AWS resources across AWS accounts or within your organisations, helping you to reduce operational overhead and to centrally manage access to the shared resources?
