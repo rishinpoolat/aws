@@ -100,10 +100,10 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-9. Which of the following is an example of how moving to the AWS Cloud reduces upfront cost?
+9. Which of the following is an example of how moving to the AWS Cloud reduces upfront costs?
     - A. By replacing large variable costs with lower capital investments
     - B. By replacing large capital investments with lower variable costs
-    - C. By allowing the provisioning of compute and storage at a fixed level to meet peak demand
+    - C. By allowing the provisioning of computing and storage at a fixed level to meet peak demand
     - D. By replacing the repeated scaling of virtual servers with a simpler fixed-scale model
 
     <details markdown=1><summary markdown="span">Answer</summary>
