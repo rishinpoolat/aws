@@ -7,7 +7,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 1. How do customers benefit from Amazon's massive economies of scale?
     - A. Periodic price reductions as the result of Amazon's operational efficiencies
-    - B. New Amazon EC2 instance types providing the latest hardware
+    - B. New Amazon EC2 instance types provide the latest hardware
     - C. The ability to scale up and down when needed
     - D. Increased reliability in the underlying hardware of Amazon EC2 instances
 
@@ -53,9 +53,9 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 4. In which scenario should Amazon EC2 Spot Instances be used?
     - A. A company wants to move its main website to AWS from an on-premises web server.
-    - B. A company has a number of application services whose Service Level Agreement (SLA) requires 99.999% uptime.
+    - B. A company has several application services whose Service Level Agreement (SLA) requires 99.999% uptime.
     - C. A company's heavily used legacy database is currently running on-premises.
-    - D. A company has a number of infrequent, interruptible jobs that are currently using On-Demand Instances.
+    - D. A company has several infrequent, interruptible jobs that are currently using On-Demand Instances.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
