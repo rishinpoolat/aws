@@ -369,7 +369,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - A. Ensuring that application data is encrypted at rest
     - B. Ensuring that AWS NTP servers are set to the correct time
     - C. Ensuring that users have received security training in the use of AWS services
-    - D. Ensuring that access to data centers is restricted
+    - D. Ensuring that access to data centres is restricted
     - E. Ensuring that hardware is disposed of properly
 
     <details markdown=1><summary markdown="span">Answer</summary>
