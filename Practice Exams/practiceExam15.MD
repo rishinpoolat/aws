@@ -138,7 +138,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     Correct Answer: B, D
 
     Explanation:
-    - CloudFront delivers your content through a worldwide network of data centers called edge locations.
+    - CloudFront delivers your content through a worldwide network of data centres called edge locations.
     When a user requests content that you're serving with CloudFront, the user is routed to the edge location that provides the lowest latency (time delay), so that content is delivered with the best possible performance.
 
     </details>
