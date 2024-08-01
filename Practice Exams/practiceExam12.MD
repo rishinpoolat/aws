@@ -460,7 +460,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Users do not need to address security and compliance issues.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct Answer: A
     </details>
 
 38. Which of the following services could be used to deploy an application to servers running on-premises? (Select TWO)
@@ -494,7 +494,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Decreased acquisition time for new compute resources.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct Answer: D
     </details>
 
 40. Which AWS security service protects applications from distributed denial of service attacks with always-on detection and automatic inline mitigations?
