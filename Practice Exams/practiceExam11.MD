@@ -485,7 +485,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-48. Which disaster recovery scenario offers the lowest probability of down time?
+48. Which disaster recovery scenario offers the lowest probability of downtime?
     - A. Backup and restore.
     - B. Pilot light.
     - C. Warm standby.
