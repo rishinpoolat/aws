@@ -322,7 +322,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-32. A company will be moving from an on-premises data center to the AWS Cloud. What would be one financial difference after the move?
+32. A company will be moving from an on-premises data centre to the AWS Cloud. What would be one financial difference after the move?
     - A. Moving from variable operational expense ( opex ) to upfront capital expense (capex).
     - B. Moving from upfront capital expense (capex) to variable capital expense (capex).
     - C. Moving from upfront capital expense (capex) to variable operational expense ( opex ).
