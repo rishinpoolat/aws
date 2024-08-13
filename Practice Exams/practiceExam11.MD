@@ -57,9 +57,9 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B
     </details>
 
-6. Which of the following are advantages of AWS consolidated billing? (Select TWO)
+6. Which of the following are the advantages of AWS consolidated billing? (Select TWO)
     - A. The ability to receive one bill for multiple accounts.
-    - B. Service limits increasing by default in all accounts.
+    - B. Service limits are increasing by default in all accounts.
     - C. A fixed discount on the monthly bill.
     - D. Potential volume discounts, as usage in all accounts is combined.
     - E. The automatic extension of the master account’s AWS support plan to all accounts.
