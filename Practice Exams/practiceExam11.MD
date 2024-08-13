@@ -466,7 +466,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 46. A customer is deploying a new application and needs to choose an AWS Region. Which of the following factors could influence the customer’s decision? (Select TWO)
     - A. Reduced latency to users.
-    - B. The application’s presentation in the local language.
+    - B. The application’s presentation is in the local language.
     - C. Data sovereignty compliance.
     - D. Cooling costs in hotter climates.
     - E. Proximity to the customer’s office for on-site visits.
@@ -505,7 +505,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: D
     </details>
 
-50. How can a customer increase security to AWS account logons? (Select TWO)
+50. How can a customer increase security to AWS account logins? (Select TWO)
     - A. Configure AWS Certificate Manager
     - B. Enable Multi-Factor Authentication (MFA)
     - C. Use Amazon Cognito to manage access
