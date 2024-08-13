@@ -251,7 +251,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-25. Which of the following Amazon EC2 pricing models allow customers to use existing server-bound software licenses?
+25. Which of the following Amazon EC2 pricing models allows customers to use existing server-bound software licenses?
     - A. Spot Instances.
     - B. Reserved Instances.
     - C. Dedicated Hosts.
