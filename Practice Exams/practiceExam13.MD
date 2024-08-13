@@ -33,7 +33,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-3. What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area ?
+3. What AWS team assists customers with accelerating cloud adoption through paid engagements in any of several specialty practice area?
     - A. AWS Enterprise Support
     - B. AWS Solutions Architects
     - C. AWS Professional Services
