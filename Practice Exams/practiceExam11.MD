@@ -414,9 +414,9 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-41. One of the advantages to moving infrastructure from an on-premises data center to the AWS Cloud is:
+41. One of the advantages of moving infrastructure from an on-premises data centre to the AWS Cloud is:
     - A. It allows the business to eliminate IT bills.
-    - B. It allows the business to put a server in each customer’s data center.
+    - B. It allows the business to put a server in each customer’s data centre.
     - C. It allows the business to focus on business activities.
     - D. It allows the business to leave servers unpatched.
 
