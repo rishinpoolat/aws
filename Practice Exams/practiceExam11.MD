@@ -394,7 +394,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B, D
     </details>
 
-39. A company is planning to migrate from on-premises to the AWS Cloud. When AWS tool or service provides detailed reports on estimated cost savings after migration?
+39. A company is planning to migrate from on-premises to the AWS Cloud. When AWS tool or service provide detailed reports on estimated cost savings after migration?
     - A. AWS Total Cost of Ownership (TCO) Calculator.
     - B. Cost Explorer.
     - C. AWS Budgets.
