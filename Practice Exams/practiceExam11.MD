@@ -160,7 +160,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B, C
     </details>
 
-16. Which AWS managed service is used to host databases?
+16. Which AWS-managed service is used to host databases?
     - A. AWS Batch.
     - B. AWS Artifact.
     - C. AWS Data Pipeline.
@@ -221,7 +221,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: D
     </details>
 
-22. Which type of AWS storage is ephemeral and is deleted when an instance is stopped Of terminated?
+22. Which type of AWS storage is ephemeral and is deleted when an instance is stopped Or terminated?
     - A. Amazon EBS.
     - B. Amazon EC2 instance store.
     - C. Amazon EFS.
