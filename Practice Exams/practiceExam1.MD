@@ -99,7 +99,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 10. A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
     - A. Applying the Amazon Connect latency-based routing policy.
     - B. Registering a new US domain name to serve the users in the US.
-    - C. Building a new data center in the US and implementing a hybrid model.
+    - C. Building a new data centre in the US and implementing a hybrid model.
     - D. Deploying new Amazon EC2 instances in a Region located in the US.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
