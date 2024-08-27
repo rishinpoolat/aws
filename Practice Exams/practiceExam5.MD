@@ -107,7 +107,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-11. A company has a web application that is hosted on a single EC2 instance and is approaching 100 percent CPU Utilization during peak loads. Rather than scaling the server vertically, the company has decided to deploy three Amazon EC2 instances in parallel and to distribute traffic across the three servers. What AWS Service should the company use to distribute the traffic evenly?
+11. A company has a web application that is hosted on a single EC2 instance and is approaching 100 percent CPU Utilization during peak loads. Rather than scaling the server vertically, the company has decided to deploy three Amazon EC2 instances in parallel and distribute traffic across the three servers. What AWS Service should the company use to distribute the traffic evenly?
     - A. AWS Global Accelerator.
     - B. AWS Application Load Balancer (ALB).
     - C. Amazon CloudFront.
@@ -240,7 +240,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: B
     </details>
 
-24. A company is building an online cloud storage platform. They need a storage service that can scale capacity automatically, while minimizing cost. Which AWS storage service should the company use to meet these requirements?
+24. A company is building an online cloud storage platform. They need a storage service that can scale capacity automatically while minimizing cost. Which AWS storage service should the company use to meet these requirements?
     - A. Amazon Simple Storage Service.
     - B. Amazon Elastic Block Store.
     - C. Amazon Elastic Container Service.
@@ -250,9 +250,9 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-25. You have just hired a skilled sys-admin to join your team. As usual, you have created a new IAM user for him to interact with AWS services. On his first day, you ask him to create snapshots of all existing Amazon EBS volumes and save them in a new Amazon S3 bucket. However, the new member reports back that he is unable to create neither EBS snapshots nor S3 buckets. What might prevent him from doing this simple task?
+25. You have just hired a skilled sys-admin to join your team. As usual, you have created a new IAM user for him to interact with AWS services. On his first day, you ask him to create snapshots of all existing Amazon EBS volumes and save them in a new Amazon S3 bucket. However, the new member reports back that he is unable to create either EBS snapshots or S3 buckets. What might prevent him from doing this simple task?
     - A. EBS and S3 are accessible only to the root account owner.
-    - B. The systems administrator must contact AWS Support first to activate his new IAM account.
+    - B. The systems administrator must first contact AWS Support to activate his new IAM account.
     - C. There is not enough space in S3 to store the snapshots.
     - D. There is a non-explicit deny to all new users.
 
@@ -272,7 +272,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 27. Which of the below options is true of Amazon Cloud Directory?
     - A. Amazon Cloud Directory allows the organization of hierarchies of data across multiple dimensions.
-    - B. Amazon Cloud Directory enables the analysis of video and data streams in real time.
+    - B. Amazon Cloud Directory enables the analysis of video and data streams in real-time.
     - C. Amazon Cloud Directory allows users to access AWS with their existing Active Directory credentials.
     - D. Amazon Cloud Directory allows for registration and management of domain names.
 
