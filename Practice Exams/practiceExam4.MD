@@ -41,7 +41,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 4. How do ELBs improve the reliability of your application?
     - A. By distributing traffic across multiple S3 buckets.
     - B. By replicating data to multiple availability zones.
-    - C. By creating database Read Replicas.
+    - C. By creating a database Read Replicas.
     - D. By ensuring that only healthy targets receive traffic.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
@@ -58,7 +58,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-6. A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice to transfer the data to AWS?
+6. A customer is planning to move billions of images and videos to be stored on Amazon S3. The customer has approximately 60 Petabytes of data to move. Which of the following AWS Services is the best choice for transferring the data to AWS?
     - A. Snowball.
     - B. S3 Transfer Acceleration.
     - C. Snowmobile.
@@ -130,7 +130,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A, D
     </details>
 
-13. What is the AWS’ recommendation regarding access keys?
+13. What is the AWS recommendation regarding access keys?
     - A. Delete all access keys and use passwords instead.
     - B. Only share them with trusted people.
     - C. Rotate them regularly.
