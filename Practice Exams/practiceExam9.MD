@@ -54,7 +54,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-6. Which AWS service allows companies to connect an Amazon VPC to an on-premises data center? (Select TWO)
+6. Which AWS service allows companies to connect an Amazon VPC to an on-premises data centre? (Select TWO)
     - A. AWS VPN.
     - B. Amazon Redshift.
     - C. API Gateway.
@@ -158,7 +158,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 16. A company has deployed several relational databases on Amazon EC2 instances. Every month the database software vendor releases new security patches that need to be applied to the databases. What is the MOST efficient way to apply the security patches?
     - A. Connect to each database instance on a monthly basis and download and apply the necessary security patches from the vendor.
-    - B. Enable automate patching for the instances using the Amazon RDS console.
+    - B. Enable automated patching for the instances using the Amazon RDS console.
     - C. In AWS Config. configure a rule for the instances and the required patch level.
     - D. Use AWS Systems Manager to automate database patching according to a schedule.
 
@@ -222,7 +222,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - B. Encrypting data on the client-side.
     - C. Training the data center staff.
     - D. Configuring Network Access Control Lists (ACL).
-    - E. Maintaining environmental controls within a data center.
+    - E. Maintaining environmental controls within a data centre.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
@@ -250,7 +250,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 25. How do customers benefit from Amazon’s massive economies of scale?
     - A. Periodic price reductions as the result of Amazon’s operational efficiencies.
-    - B. New Amazon EC2 instance types providing the latest hardware.
+    - B. New Amazon EC2 instance types provide the latest hardware.
     - C. The ability to scale up and down when needed.
     - D. Increased reliability in the underlying hardware of Amazon EC2 instances.
 
@@ -498,7 +498,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 49. Which of the following is an important architectural design principle when designing cloud applications?
     - A. Use multiple Availability Zones.
     - B. Use tightly coupled components.
-    - C. Use open source software.
+    - C. Use open-source software.
     - D. Provision extra capacity.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
