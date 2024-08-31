@@ -5,7 +5,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 ---
 
-1. What will help a company perform a cost benefit analysis of migrating to the AWS Cloud?
+1. What will help a company perform a cost-benefit analysis of migrating to the AWS Cloud?
     - A. Cost Explorer
     - B. AWS Total Cost of Ownership (TCO) Calculator
     - C. AWS Simple Monthly Calculator
@@ -254,8 +254,8 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Explanation:
     - The AWS Storage Gateway service enables hybrid cloud storage between on-premises environments and the AWS Cloud.
-    - It seamlessly integrates on-premises enterprise applications and workflows with Amazon's block and object cloud storage services through industry standard storage protocols.
-    - It provides low-latency performance by caching frequently accessed data on premises, while storing data securely and durably in Amazon cloud storage services.
+    - It seamlessly integrates on-premises enterprise applications and workflows with Amazon's block and object cloud storage services through industry-standard storage protocols.
+    - It provides low-latency performance by caching frequently accessed data on-premises, while storing data securely and durably in Amazon cloud storage services.
     - It provides an optimized data transfer mechanism and bandwidth management, which tolerates unreliable networks and minimizes the amount of data being transferred.
     - It brings the security, manageability, durability, and scalability of AWS to existing enterprise environments through native integration with AWS encryption, identity management, monitoring, and storage services. Typical use cases include backup and archiving, disaster recovery, moving data to S3 for in-cloud workloads, and tiered storage.
 
@@ -263,7 +263,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-15. What is a responsibility of AWS in the shared responsibility model?
+15. What is the responsibility of AWS in the shared responsibility model?
     - A. Updating the network ACLs to block traffic to vulnerable ports.
     - B. Patching operating systems running on Amazon EC2 instances.
     - C. Updating the firmware on the underlying EC2 hosts.
