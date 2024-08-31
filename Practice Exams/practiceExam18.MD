@@ -8,7 +8,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - A. Managing edge locations
     - B. Physical security
     - C. Firewall configuration
-    - D. Global infrastructure
+    - D. Global Infrastructure
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
