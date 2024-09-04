@@ -103,7 +103,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Deploying new Amazon EC2 instances in a Region located in the US.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct Answer: D
     </details>
 
 11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
