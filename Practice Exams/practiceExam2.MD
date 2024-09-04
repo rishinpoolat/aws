@@ -108,7 +108,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 11. Which of the below is a best-practice when designing solutions on AWS?
     - A. Invest heavily in architecting your environment, as it is not easy to change your design later.
     - B. Use AWS reservations to reduce costs when testing your production environment.
-    - C. Automate wherever possible to make architectural (© ) experimentation easier.
+    - C. Automate wherever possible to make architectural experimentation easier.
     - D. Provision a large compute capacity to handle any spikes in load
 
     <details markdown=1><summary markdown='span'>Answer</summary>
