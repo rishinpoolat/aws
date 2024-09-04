@@ -132,7 +132,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Amazon Connect.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: A
+      Correct Answer: A
     </details>
 
 14. The principle “design for failure and nothing will fail” is very important when designing your AWS Cloud architecture. Which of the following would help adhere to this principle? (Choose TWO)
