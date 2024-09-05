@@ -9,7 +9,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - A. Edge locations are located in separate Availability Zones worldwide to serve global customers.
     - B. An availability zone exists within an edge location to distribute content globally with low latency.
     - C. An Availability Zone is a geographic location where AWS provides multiple, physically separated and isolated edge locations.
-    - D. An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide.
+    - D. An AWS Availability Zone is an isolated location within an AWS Region, however, edge locations are located in multiple cities worldwide.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
@@ -46,7 +46,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-5. Which of the following are advantages of using AWS as a cloud computing provider? (Choose TWO)
+5. Which of the following are the advantages of using AWS as a cloud computing provider? (Choose TWO)
     - A. Eliminates the need to monitor servers and applications.
     - B. Manages all the compliance and auditing tasks.
     - C. Provides custom hardware to meet any specification.
