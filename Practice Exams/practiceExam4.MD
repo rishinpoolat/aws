@@ -192,7 +192,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 19. What does AWS Service Catalog provide?
     - A. It enables customers to quickly find descriptions and use cases for AWS services.
-    - B. It enables customers to explore the different catalogs of AWS services.
+    - B. It enables customers to explore the different catalogues of AWS services.
     - C. It simplifies organizing and governing commonly deployed IT services.
     - D. It allows developers to deploy infrastructure on AWS using familiar programming languages.
 
