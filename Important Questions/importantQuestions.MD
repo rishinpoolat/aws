@@ -606,7 +606,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - A. Basic.
     - B. Business.
     - C. Developer.
-    - D. Enterprice.
+    - D. Enterprise.
 
 
     <details markdown=1><summary markdown='span'>Answer</summary>
@@ -624,13 +624,13 @@ Click on the **Answer** button for the correct answer and its explanation.
     - E. Amazon QuickSight
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct Answer: B, D
+      Correct Answer: A, D
 
       Explanation: AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
 
       AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers. OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.
 
-      Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds.
+      Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, and high transfer speeds.
 
       AWS Batch enables developers, scientists, and engineers to easily and efficiently run hundreds of thousands of batch computing jobs on AWS.
 
