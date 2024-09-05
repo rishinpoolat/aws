@@ -270,9 +270,9 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-27. Which of the below options is true of Amazon Cloud Directory?
+27. Which of the options below is true for Amazon Cloud Directory?
     - A. Amazon Cloud Directory allows the organization of hierarchies of data across multiple dimensions.
-    - B. Amazon Cloud Directory enables the analysis of video and data streams in real-time.
+    - B. Amazon Cloud Directory enables the analysis of video and data streams in real time.
     - C. Amazon Cloud Directory allows users to access AWS with their existing Active Directory credentials.
     - D. Amazon Cloud Directory allows for registration and management of domain names.
 
