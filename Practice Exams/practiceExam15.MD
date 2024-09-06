@@ -335,7 +335,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A, D
 
-    Explanation: <http://jayendrapatil.com/aws-global-vs-regional-vs-az-resources/>
+    Explanation:
     Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. It is a global service, meaning that it is not tied to any specific AWS region. Route 53 manages the mapping of domain names to IP addresses and can route end users to the closest available resource, providing low-latency access to applications and services.
     Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. CloudFront is also a global service, with edge locations distributed across multiple regions and countries, allowing it to cache and serve content from the location closest to the end user.
     The other options are regional services:
