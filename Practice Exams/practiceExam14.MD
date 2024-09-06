@@ -117,7 +117,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: B, E
 
-    Explanation:Amazon S3: S3 is a highly scalable and durable object storage service. While it is not primarily designed for low-latency video delivery, it can be used in combination with other services like CloudFront to serve video content with reasonably low latency.
+    Explanation: Amazon S3: S3 is a highly scalable and durable object storage service. While it is not primarily designed for low-latency video delivery, it can be used in combination with other services like CloudFront to serve video content with reasonably low latency.
 
     Amazon CloudFront: CloudFront is a content delivery network (CDN) service offered by AWS. It is specifically designed to deliver data, including video content, with low latency and high transfer speeds by caching and distributing content from edge locations closer to users around the world.
 
@@ -129,7 +129,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-10. Web servers running on Amazon EC2 access a legacy application running in a corporate data center. <br/> What term would describe this model?
+10. Web servers running on Amazon EC2 access a legacy application running in a corporate data centre. <br/> What term would describe this model?
     - A. Cloud-native
     - B. Partner network
     - C. Hybrid architecture
