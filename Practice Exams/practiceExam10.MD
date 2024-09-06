@@ -23,7 +23,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Three-year, No Upfront, Convertible RI pricing.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: C
+      Correct Answer: C
     </details>
 
 3. Which of the following are features of Amazon CloudWatch Logs? (Select TWO)
@@ -47,7 +47,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: C
     </details>
 
-5. A company wants to reduce the physical compute footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?
+5. A company wants to reduce the physical computing footprint that developers use to run code. Which service would meet that need by enabling serverless architectures?
     - A. Amazon Elastic Compute Cloud (Amazon EC2).
     - B. AWS Lambda.
     - C. Amazon DynamoDB.
