@@ -62,7 +62,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - B. Service limits are increasing by default in all accounts.
     - C. A fixed discount on the monthly bill.
     - D. Potential volume discounts, as usage in all accounts is combined.
-    - E. The automatic extension of the master account’s AWS support plan to all accounts.
+    - E. The automatic extension of the master account’s AWS support plan is available to all accounts.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
