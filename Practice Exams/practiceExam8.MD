@@ -445,7 +445,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Request and wait for approval from AWS support, and then conduct testing.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: D
+      Correct answer: C
     </details>
 
 44. Which AWS Cost Management tool allows you to view the most granular data about your AWS bill?
