@@ -5,7 +5,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
 ---
 
-1. Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centers interconnected through low latency links?
+1. Which of the following components of the AWS Global Infrastructure consists of one or more discrete data centres interconnected through low latency links?
     - A. Availability Zone
     - B. Edge location
     - C. Region
