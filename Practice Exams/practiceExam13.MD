@@ -176,7 +176,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: A, B
 
-    Explanation:These two services can be used across hybrid AWS Cloud architectures, enabling communication and connectivity between on-premises resources and AWS Cloud resources.
+    Explanation: These two services can be used across hybrid AWS Cloud architectures, enabling communication and connectivity between on-premises resources and AWS Cloud resources.
 
     Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. In a hybrid architecture, Route 53 can be used to manage DNS records for both on-premises and cloud resources, enabling seamless routing and resolution of domain names across the hybrid environment.
     
@@ -213,7 +213,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: D
 
     </details>
 
