@@ -231,7 +231,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - AWS provides a set of fully managed services that you can use to build and run serverless applications.
     - Serverless applications don't require provisioning, maintaining, and administering servers for backend components such as compute, databases, storage, stream processing, message queueing, and more.
     - You also no longer need to worry about ensuring application fault tolerance and availability.
-    - Instead, AWS handles all of these capabilities for you. Serverless platform includes: AWS lambda, Amazon S3, DynamoDB, API gateway, Amazon SNS, AWS step functions, Amazon kinesis and developing tools and services.
+    - Instead, AWS handles all of these capabilities for you. Serverless platform includes AWS lambda, Amazon S3, DynamoDB, API gateway, Amazon SNS, AWS step functions, Amazon kinesis and developing tools and services.
 
     Reference: <https://aws.amazon.com/serverless/>
 
