@@ -57,7 +57,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     Correct Answer: C
 
-    Explanation:AWS Partner Network (APN) Consulting Partners are professional services firms that specialize in AWS services and solutions. These partners have demonstrated expertise and proven customer success in designing, architecting, building, migrating, and managing workloads on the AWS Cloud.
+    Explanation: AWS Partner Network (APN) Consulting Partners are professional services firms that specialize in AWS services and solutions. These partners have demonstrated expertise and proven customer success in designing, architecting, building, migrating, and managing workloads on the AWS Cloud.
     
     APN Consulting Partners can provide the following services to customers:
     1. AWS Cloud Advisory Services: Provide guidance on AWS Cloud adoption strategies, architectural design, and best practices.
