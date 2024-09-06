@@ -170,7 +170,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: D
     </details>
 
-17. The owner of an E-Commerce application notices that the compute capacity requirements vary heavily from time to time. What makes AWS more economical than traditional data centers for this type of application?
+17. The owner of an E-Commerce application notices that the compute capacity requirements vary heavily from time to time. What makes AWS more economical than traditional data centres for this type of application?
     - A. AWS allows customers to launch powerful EC2 instances to handle spikes in load.
     - B. AWS allows customers to pay upfront to get bigger discounts.
     - C. AWS allows customers to launch and terminate EC2 instances based on demand.
@@ -241,7 +241,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-24. A company has infrastructure hosted in an on-premises data center. They currently have an operations team that takes care of identity management. If they decide to migrate to the AWS cloud, which of the following services would help them perform the same role in AWS?
+24. A company has infrastructure hosted in an on-premises data centre. They currently have an operations team that takes care of identity management. If they decide to migrate to the AWS cloud, which of the following services would help them perform the same role in AWS?
     - A. AWS IAM.
     - B. AWS Outposts.
     - C. AWS Federation.
