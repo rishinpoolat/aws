@@ -135,7 +135,7 @@ Click on the **Answer** button for the correct answer and its explanation.
       Correct answer: A
     </details>
 
-14. Which design principles for cloud architecture are recommended when re-architecting a large monolithic application? (Select TWO)
+14. Which design principles for cloud architecture are recommended when rearchitecting a large monolithic application? (Select TWO)
     - A. Use manual monitoring.
     - B. Use fixed servers.
     - C. Implement loose coupling.
@@ -400,7 +400,7 @@ Click on the **Answer** button for the correct answer and its explanation.
     - D. Environmental risk management.
 
     <details markdown=1><summary markdown='span'>Answer</summary>
-      Correct answer: B
+      Correct Answer: B
     </details>
 
 40. If each department within a company has its own AWS account, what is one way to enable consolidated billing?
