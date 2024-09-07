@@ -54,7 +54,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     <details markdown=1><summary markdown="span">Answer</summary>
 
-    Correct Answer: C
+    Correct Answer: B
 
     Explanation:
     - To forecast your costs, use the AWS Cost Explorer.
