@@ -159,7 +159,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-13. A company is migrating from on-premises data centers to the AWS Cloud and is looking for hands-on help with the project. <br/> How can the company get this support? (Choose two.)
+13. A company is migrating from on-premises data centres to the AWS Cloud and is looking for hands-on help with the project. <br/> How can the company get this support? (Choose two.)
     - A. Ask for a quote from the AWS Marketplace team to perform a migration into the company's AWS account.
     - B. Contact AWS Support and open a case for assistance
     - C. Use AWS Professional Services to provide guidance and to set up an AWS Landing Zone in the company's AWS account
