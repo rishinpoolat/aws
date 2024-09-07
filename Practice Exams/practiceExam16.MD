@@ -95,7 +95,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-6. How is asset management on AWS easier than asset management in a physical data center?
+6. How is asset management on AWS easier than asset management in a physical data centre?
     - A. AWS provides a Configuration Management Database that users can maintain.
     - B. AWS performs infrastructure discovery scans on the customer's behalf.
     - C. Amazon EC2 automatically generates an asset report and places it in the customer's specified Amazon S3 bucket.
