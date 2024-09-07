@@ -154,7 +154,7 @@ Click on the **Answer** button for the correct answer and its explanation.
 
     </details>
 
-13. Which AWS services can be used to move data from on-premises data centers to AWS? (Choose two.)
+13. Which AWS services can be used to move data from on-premises data centres to AWS? (Choose two.)
     - A. AWS Snowball
     - B. AWS Lambda
     - C. AWS ElastiCache
